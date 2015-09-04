@@ -23,7 +23,7 @@ install_github('oganm/geneSynonym')
 Usage
 ===========
 ```r
-geneSynonym(c('Eno2','Mog'), 10090)
+geneSynonym(c('Eno2','Mog'), tax = 10090)
 
 mouseSyno(c('Eno2','Mog'))
 
