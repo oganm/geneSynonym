@@ -1,0 +1,12 @@
+Package: geneSynonym
+Type: Package
+Title: Quick access to gene synonym information
+Version: 1.0
+Depends: parallel
+Suggests: testthat
+Date: 2015-06-16
+Author: Ogan Mancarci
+Maintainer: Ogan Mancarci <ogan.mancarci@gmail.com>
+Description: A pre-parsed version of gene_info file from NCBI for easy access to gene synonym information
+License: MIT
+LazyData: true
