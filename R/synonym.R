@@ -22,6 +22,7 @@ geneSynonym = function(genes,tax,cores = 1){
     # problem somewhere.
     # if a gene name given and it is not on the list, it spews out a warning 
     # DOES NOT PRINT WARNINGS WHEN USING MULTIPLE CORES
+    teval(paste0('data(syno',tax,')'))
     leData = teval(paste0('syno',tax))
     
     geneSearcher = function(x){
