@@ -13,17 +13,23 @@ updateSynonyms = function(){
     
     geneInfo = geneInfo[,c('Symbol','Synonyms','tax_id'),with=F]
     
-    tax = unique(geneInfo$tax_id)
+    #tax = unique(geneInfo$tax_id)
+    species=fread('data/species.txt', sep = '|')
+    tax = unlist(species[,4,with=F])
     # file generation
-    for (i in tax[tax>40710]){
+    for (i in tax){
         teval(paste0('syno',i," <<- deNames[geneInfo[,'tax_id']==i]"))
         teval(paste0('save(syno', i, ', file = "data/syno',i,'.rda")'))
         teval(paste0('rm(syno',i,',envir = .GlobalEnv)'))
     }
     
+    system(paste0('rm data','/gene_info'))
+    
 
     
 }
 
-
+teval = function(daString){
+    eval(parse(text=daString))
+}
 

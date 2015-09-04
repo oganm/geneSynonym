@@ -1,0 +1,10 @@
+
+code	|	name	|	preferred name	|	taxid
+1	|	homo sapiens	|	Homo sapiens	|	9606
+1	|	mus musculus	|	Mus musculus	|	10090
+1	|	danio rerio	|	Danio rerio	|	7955
+1	|	escherichia coli	|	Escherichia coli	|	562
+1	|	Caenorhabditis elegans	|	 	|	6239
+1	|	Drosophila melanogaster	|	 	|	7227
+1	|	Rattus norvegicus	|	 	|	10116
+2	|	Rhesus macaque	|	Macaca mulatta	|	9544

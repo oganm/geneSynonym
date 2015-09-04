@@ -9,4 +9,4 @@ Author: Ogan Mancarci
 Maintainer: Ogan Mancarci <ogan.mancarci@gmail.com>
 Description: A pre-parsed version of gene_info file from NCBI for easy access to gene synonym information
 License: MIT
-LazyData: false
+LazyData: true
