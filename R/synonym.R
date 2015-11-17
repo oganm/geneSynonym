@@ -35,7 +35,8 @@ geneSynonym = function(genes,tax,cores = 1){
     }
     
     if (cores == 1){
-        synos = sapply(genes,geneSearcher)
+        synos = lapply(genes,geneSearcher)
+        names(synos) = genes
         return(synos)
     } else {
         # so that I wont fry my laptop
