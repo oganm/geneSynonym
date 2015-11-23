@@ -1,4 +1,3 @@
-library(ogbox)
 updateSynonyms = function(){
     library(data.table)
     download.file('ftp://ftp.ncbi.nlm.nih.gov/gene/DATA/gene_info.gz',paste0('data','/gene_info.gz'))
