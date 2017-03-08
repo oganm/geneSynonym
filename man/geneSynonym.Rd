@@ -7,9 +7,11 @@
 geneSynonym(genes, tax, cores = 1)
 }
 \arguments{
-\item{A}{list of genes}
+\item{tax}{Species taxonomy ID}
 
-\item{no}{of cores to use when multiprocessing. Useful for large gene lists}
+\item{cores}{of cores to use when multiprocessing. Useful for large gene lists}
+
+\item{A}{list of genes}
 }
 \description{
 Given a list of genes and taxid, returns a data frame with corresponding synonyms to said genes. For mouse and humans just use humanSyno and mouseSyno

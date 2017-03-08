@@ -20,8 +20,8 @@ humanSyno = function(genes,cores=1){
 #' Get synonyms of given genes
 #' @description Given a list of genes and taxid, returns a data frame with corresponding synonyms to said genes. For mouse and humans just use humanSyno and mouseSyno
 #' @param A list of genes
-#' @param taxid
-#' @param no of cores to use when multiprocessing. Useful for large gene lists
+#' @param tax Species taxonomy ID
+#' @param cores of cores to use when multiprocessing. Useful for large gene lists
 #' @export
 geneSynonym = function(genes,tax,cores = 1){
     # I kept the single core sapply version in case installing parallel is a
