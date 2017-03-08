@@ -1,3 +1,9 @@
+teval = function(daString){
+    eval(parse(text=daString))
+}
+
+
+
 #' Mouse wraper 
 #' @export
 mouseSyno = function(genes,cores=1){
