@@ -17,7 +17,7 @@ if(!file.exists('data-raw/taxdump/names.dmp')){
 
 
 download.file('ftp://ftp.ncbi.nlm.nih.gov/gene/DATA/gene_info.gz','data-raw/gene_info.gz')
-system('gunzip data-raw/gene_info.gz')
+system('gunzip -f data-raw/gene_info.gz')
 geneInfo = fread('data-raw/gene_info',sep='\t',skip=1, header = F,data.table = FALSE)
 setnames(geneInfo,old = names(geneInfo),new=
              c('tax_id', 'GeneID', 'Symbol', 'LocusTag', 'Synonyms',
@@ -69,8 +69,14 @@ for (i in tax){
     
 }
 
-git2r::commit(repo,message = paste('Weekly auto update'))
-pass = readLines('data-raw/auth')
-cred = git2r::cred_user_pass('OganM',pass)
-git2r::push(repo,credentials = cred)
+tryCatch({
+    git2r::commit(repo,message = paste('Weekly auto update'))
+    pass = readLines('data-raw/auth')
+    cred = git2r::cred_user_pass('OganM',pass)
+    git2r::push(repo,credentials = cred)
+    },
+    error = function(e){
+        print('nothing to update')
+    })
+
 
