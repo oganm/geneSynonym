@@ -16116,7 +16116,7 @@ rps6kc1 | si:ch1073-412h12.1|si:zfos-692b10.1
 ccdc85b | sb:eu432|si:ch211-145o7.5
 tspan37 | fb04a09|si:dkey-52k20.13|wu:fb04a09
 st6galnac1.1 | si:ch211-51n14.1|siat3|st6GalNAc I
-ppp3r1a | canb1|si:ch211-274c22.8
+ppp3r1a | canb1|ppp3r1|si:ch211-274c22.8
 ngfrb | ngfrl
 mfsd8 | im:7139494|zgc:136865
 abca3b | abca3|si:ch211-155i15.6
