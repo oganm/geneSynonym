@@ -50,7 +50,7 @@ geneInfo %<>% filter(tax_id %in% tax)
 synos = sapply(1:nrow(geneInfo),function(i){
     out = geneInfo$Symbol[i]
     if(!geneInfo$Synonyms[i]=='-'){
-        out = paste(out,'|',geneInfo$Synonyms[i])
+        out = paste0(out,'|',geneInfo$Synonyms[i])
     }
     return(out)
 })
