@@ -46,10 +46,13 @@ geneSynonym = function(genes,tax,cores = 1){
         return(synos)
     } else {
         # so that I wont fry my laptop
-        if (detectCores()<cores){ 
-            cores = detectCores()
-            print('max cores exceeded')
-            print(paste('set core no to',cores))
+        if(!is.null(detectCores)){
+            if (detectCores()<cores){ 
+                cores = detectCores()
+                warning(paste0('max cores exceeded\nset core no no ',cores))
+            }
+        } else{
+            warning('Could not detect number of cores. It\'s probably fine.')
         }
         options(warn=1)
         synos = simplify2array(
