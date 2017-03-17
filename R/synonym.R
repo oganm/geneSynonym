@@ -46,18 +46,16 @@ geneSynonym = function(genes,tax,cores = 1){
         return(synos)
     } else {
         # so that I wont fry my laptop
-        if(!is.null(detectCores)){
-            if (detectCores()<cores){ 
-                cores = detectCores()
+        if(!is.null(parallel::detectCores)){
+            if (parallel::detectCores()<cores){ 
+                cores = parallel::detectCores()
                 warning(paste0('max cores exceeded\nset core no no ',cores))
             }
         } else{
             warning('Could not detect number of cores. It\'s probably fine.')
         }
         options(warn=1)
-        synos = simplify2array(
-            mclapply(genes, geneSearcher, mc.cores = cores)
-        )
+        synos = parallel::mclapply(genes, geneSearcher, mc.cores = cores)
         names(synos) = genes
         return(synos)
     }
