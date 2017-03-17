@@ -34,7 +34,7 @@ geneSynonym = function(genes,tax,cores = 1){
     geneSearcher = function(x){
         synonyms = strsplit(grep(paste0('(^|[|])',x,'($|[|])'),leData,value=T),split='[|]')
         if (length(synonyms)==0){
-            synonyms = x
+            synonyms = list(x)
             warning(paste0('Gene ',x,' could not be found in the list. Returning own name'))
         }
         return(synonyms)
