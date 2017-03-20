@@ -546,7 +546,7 @@ mhc2dcb|si:busm1-243a08.1|si:busm1-37i06.8|si:dz243a08.1|si:dz37i06.8
 mhc2deb
 prtfdc1|HPRT|hprt1|hprt1l|zgc:55561|zgc:86771
 tal1|SCL-alpha|SCL-beta|scl|scl/tal1|tal-1|zgc:85605
-stat3|wu:fc15d02|wu:fl59g06|z-Stat3
+stat3|STAT3b1|STAT3b2|wu:fc15d02|wu:fl59g06|z-Stat3
 stat1a|stat1
 robo1|SAG4A
 robo3|cb503
@@ -1858,7 +1858,7 @@ si:rp71-15k1.1|fb59f09|wu:fb59f09
 yy1a|fb59g10|wu:fa16g07|wu:fb59g10|yy1
 wu:fb59g12|fb59g12
 wu:fb59h06|fb59h06
-gltscr2|fb60b03|wu:fb60b03|zgc:123178
+nop53|fb60b03|gltscr2|wu:fb60b03|zgc:123178
 cpb1|wu:fb60d07|wu:fb69b08
 sult3st2|fb60e03|si:dkey-236e20.5|wu:fb60e03
 wu:fb60e10|fb60e10
@@ -7549,7 +7549,7 @@ slc35b2|papst1|pic|zgc:64182|zgc:77349
 ino80e|si:ch73-54f23.2|zgc:77312
 rgl1|zgc:77299
 rcor2|zgc:77264
-chm|REP1
+chm|REP1|eva|evanescence
 fancg|zgc:109717
 mgp
 txn2|zgc:77127
@@ -28350,7 +28350,7 @@ si:zfos-1451h6.1
 LOC100537143
 LOC100537147
 LOC100537151
-si:cabz01079824.1
+rbpms|si:cabz01079824.1
 si:dkey-23f9.7
 arhgef5
 clec3bb
