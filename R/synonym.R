@@ -32,7 +32,7 @@ geneSynonym = function(genes,tax,cores = 1){
     leData = teval(paste0('syno',tax))
     
     geneSearcher = function(x){
-        synonyms = strsplit(grep(paste0('(^|[|])',x,'($|[|])'),leData,value=T),split='[|]')
+        synonyms = strsplit(grep(paste0('(^|[|])','\\Q',x,'\\E','($|[|])'),leData,value=T),split='[|]')
         if (length(synonyms)==0){
             synonyms = list(x)
             warning(paste0('Gene ',x,' could not be found in the list. Returning own name'))
