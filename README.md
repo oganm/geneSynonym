@@ -30,6 +30,22 @@ install_github('oganm/geneSynonym')
 Usage
 =====
 
+The output is a nested list since gene synonyms are not nececarilly unique. For instance
+
+``` r
+mouseSyno('Tex40')
+```
+
+    ## $Tex40
+    ## $Tex40[[1]]
+    ## [1] "Kcnk4"   "MLZ-622" "TRAAK"   "TRAAKt"  "Tex40"  
+    ## 
+    ## $Tex40[[2]]
+    ## [1] "Catsperz"      "1700019N12Rik" "A430107B04Rik" "MLZ-622"      
+    ## [5] "Tex40"
+
+Input is a vector of gene names and a tax identifier. Alternatively shorthand functions exist for human and mouse.
+
 ``` r
 geneSynonym(c('Eno2','Mog'), tax = 10090)
 ```
