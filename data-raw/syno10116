@@ -1406,7 +1406,7 @@ Stk10
 Unc119|RRG4|Uncl19
 Asgr2
 Tas1r1|Gpr70
-Mag
+Mag|1B236
 Neurog1|Neurod3|Ngn1
 Ppt1|Ppt
 Adra1a|Adra1c
@@ -8189,7 +8189,7 @@ Il17rc
 Sec13|Sec13l1
 Vgll4
 Mkrn2
-Washc2c|Fam21|Fam21c|NP61201
+Washc2c|Fam21|Fam21c|NP61201|Washc2
 Csgalnact2|Galnact2|RGD1563660
 Rad52
 Atp6v1e1|Atp6e|Atp6e2|P31|Vma4
@@ -13627,7 +13627,7 @@ Stk40|Lyk4|RGD1307310
 LOC360231
 Top2a
 Brca2
-Sult1e1|ESTSUL|ST1E1|Ste|ste2
+Sult1e1|ESTSUL|ST1E1|Ste|Ste1|ste2
 Slit2
 Ptprk|Rptpk
 RT1-N2
@@ -15230,7 +15230,7 @@ Siae|RGD1310431
 Mpzl3|RGD1310980
 Cep164|RGD1560988|RGD1561243
 Rnf214|RGD1307500
-Cadm1|Igsf4|Igsf4a|Necl-2|SynCAM|TSLC1|sgigsf
+Cadm1|Igsf4|Igsf4a|Necl-2|SynCAM|TSLC-1|TSLC1|sgigsf
 Zw10
 Plet1
 Sdhd
