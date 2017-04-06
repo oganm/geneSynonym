@@ -2,6 +2,7 @@ library(data.table)
 library(magrittr)
 library(git2r)
 library(dplyr)
+library(ogbox)
 teval = function(daString){
     eval(parse(text=daString))
 }
@@ -63,11 +64,16 @@ for (i in tax){
     teval(paste0('devtools::use_data(syno', i,',overwrite=TRUE)'))
     teval(paste0('cat(syno',i,', file="data-raw/syno',i,'",sep="\n")'))
     # teval(paste0('rm(syno',i,',envir = .GlobalEnv)'))
-
     git2r::add(repo,path =paste0('data-raw/syno',i))
     git2r::add(repo,path =paste0('data/syno',i,'.rda'))
-    
+    Sys.sleep(2)
 }
+
+# version update add date to the version as a revision
+version = ogbox::getVersion()
+version %<>% strsplit('\\.') %>% {.[[1]]}
+ogbox::setVersion(paste(version[1],version[2],format(Sys.Date(),'%Y.%m.%d'),sep='.'))
+git2r::add(repo,path ='DESCRIPTION')
 
 tryCatch({
     git2r::commit(repo,message = paste('Weekly auto update'))
