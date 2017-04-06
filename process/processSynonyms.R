@@ -11,9 +11,9 @@ teval = function(daString){
 devtools::use_data_raw()
 
 if(!file.exists('data-raw/taxdump/names.dmp')){
-    download.file(url ='ftp://ftp.ncbi.nlm.nih.gov/pub/taxonomy/taxdump.tar.gz', destfile = "data-raw/taxtump2.tar.gz")
+    download.file(url ='ftp://ftp.ncbi.nlm.nih.gov/pub/taxonomy/taxdump.tar.gz', destfile = "data-raw/taxdump.tar.gz")
     dir.create('data-raw/taxdump', showWarnings = FALSE)
-    untar('data-raw/taxtump.tar.gz',exdir = 'data-raw/taxdump/')
+    untar('data-raw/taxdump.tar.gz',exdir = 'data-raw/taxdump/')
 }
 
 
