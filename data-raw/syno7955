@@ -7763,7 +7763,7 @@ cx30.3|cx33.8|zgc:110651
 cx39.9|cx46l|zgc:110668
 cx34.4|zgc:194201|zgc:194216
 cx28.6|zgc:194305
-cx45.6|zgc:195347|zgc:195362
+gja5a|cx45.6|zgc:195347|zgc:195362
 mao|Z-MAO|maob|moa|wu:fb68b05|wu:fo76d11|wu:fq38g06|zgc:85761
 uros|wu:fd13d11|zgc:110240
 chst14|d4st1|wu:fc04a01|zgc:136487
@@ -8514,7 +8514,7 @@ actc1a|actc1l|actcl
 rgma|dlm|hfe2|id:ibd2030|rgmc|wu:fb72h09|zgc:110534
 rgmb
 rap2b|wu:fi34c06|zgc:55550
-cyp51|wu:fb66a09
+cyp51|LDM|wu:fb66a09
 lck|zgc:136695
 rnf114|Zfp313|zgc:101076|znf313
 th2
@@ -9423,7 +9423,7 @@ gtf3aa|TFIIIA|gtf3a|zgc:111799
 mybl2b|mybl2
 nop10|nola3|zgc:109956
 fbxo5|emi1|fc65h02|wu:fc65h02|wu:fe06e07|wu:fz79f03|zgc:136397|zgc:158541
-ppp1r12a|si:dkey-28j4.1|zgc:110448
+ppp1r12a|si:dkey-28j4.1|unm_p82emcf|zgc:110448
 wdr55|flj20195l|zgc:111796
 esco2|si:dkey-217m5.6|zgc:111795
 rbbp6|im:7158869|rbbp6l
@@ -15794,7 +15794,7 @@ nlk2|nlka
 pbxip1a|id:ibd5036|si:ch211-210h11.11
 slc17a8|si:ch211-264e16.4|vglut3
 megf11|si:dkey-242h9.1|si:dkey-261f4.1
-fam63a|si:ch211-210h11.5
+fam63a|mindy1|si:ch211-210h11.5
 si:rp71-39b20.4
 trmt6|CH73-355E4.1|zgc:123193
 cox7b|fk47c09|wu:fk47c09|zgc:194876
@@ -17633,7 +17633,7 @@ ralgapa2
 cngb1a|si:ch211-160j6.1
 tesk2|zgc:158349
 chd8|CHD-8|si:ch211-10e2.6|wu:fi45h08
-znf513|cb557|sb:cb557|si:ch211-101l18.1|si:ch211-278j3.2|wu:fi87d06
+znf513a|cb557|sb:cb557|si:ch211-101l18.1|si:ch211-278j3.2|wu:fi87d06|znf513
 si:ch73-139e5.4
 si:rp71-1f1.6|bZ1F1.6
 ehf|zgc:136967
@@ -18469,7 +18469,7 @@ nid2b|si:ch211-13n20.2|si:dkey-29m11.1
 pfas|fd05a06|si:dkey-183n20.16|wu:fd05a06
 pigx|si:ch73-159l23.2
 si:dkey-5n18.1
-cx41.8
+gja5b|cx41.8
 si:dkey-88i8.2
 abcg2b
 thrap3a|id:ibd5132|si:dkeyp-114b5.3
@@ -20259,7 +20259,7 @@ ighv8-3
 ighv11-1
 ighv14-1
 zgc:123035|id:ibd5007|xrg4
-fam188a|fb94a02|wu:fb94a02|wu:fy30f06|zgc:153892
+fam188a|fb94a02|mindy3|wu:fb94a02|wu:fy30f06|zgc:153892
 zdhhc3b|zgc:154029
 gps1|im:6909260|im:7145572|zgc:154082
 zgc:152816|si:ch211-271b14.1|zgc:92551
@@ -27680,7 +27680,7 @@ LOC100535170
 LOC100535180
 pcdha3
 si:ch211-255i20.3
-si:ch211-122c9.5|NLRC5
+nlrc5|nod4|si:ch211-122c9.5
 si:ch211-76m11.11
 LOC100535191
 cacna2d3a
