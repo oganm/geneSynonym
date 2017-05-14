@@ -4249,7 +4249,7 @@ Usmg5|Dapit
 Ptpn21|Ptp2E
 Ppp1r15a|Gadd34|Myd116|Peg-3|RGD1624209
 Sult1c2|ST1C2
-Hdgfrp2|Hdgf2
+Hdgfl2|Hdgf2|Hdgfrp2
 Hdgfl1|Hdgfrp1|Pwwp1
 Fcer2|CD23|Fcer2a
 Mlxipl|ChREBP|WS-bHLH|Wbscr14|bHLHd14
@@ -4792,7 +4792,7 @@ Ctsz|CATX
 Cyp3a18
 Cox5a
 Gpr37l1
-Hdgfrp3
+Hdgfl3|Hdgfrp3
 Myh8
 Ppp1r32|Iiig9
 Dnah12|Bm259
@@ -5909,7 +5909,7 @@ Hsd17b11|Dhrs8
 Klhl8
 Slc10a6|Soat
 Rp1l1
-Fam175a|Ccdc98|RGD1305287
+Abraxas1|Ccdc98|Fam175a|RGD1305287
 Mrps18c
 Gk2|Gk-rs2
 Naa11|Ard1b
@@ -7080,7 +7080,7 @@ Rnf152
 Cpxm2|RGD1310955
 LOC293567
 Nkx1-2
-Fam175b|RGD1308918
+Abraxas2|Fam175b|RGD1308918
 Mmp21
 Zfp511|Znf511
 Fuom|RGD1311186
@@ -47902,3 +47902,20 @@ Cm100
 Pur33
 Cm83
 Kidm61
+Am9
+Am10
+Cm104
+Am11
+Bp403
+Cm105
+Cm106
+Am12
+Kidm66
+Cm107
+Cm108
+Cm109
+Am13
+Kidm67
+Bw184
+Cm102
+Cm103
