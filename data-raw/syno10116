@@ -3114,7 +3114,7 @@ Dll1
 Atp9a
 Slc1a6|EAAT4
 Hsd17b12
-Ralbp1|RLIP76
+Ralbp1|RIP1|RLIP76
 Ttn
 Grip1
 Hmga2|Hmgic
@@ -12220,7 +12220,7 @@ Snrnp40|RGD1309198
 Serinc2|Tde2l
 Adgrb2|Bai2
 Spocd1|RGD1560989|Spocd1-ps1
-RGD1559904
+Virma|RGD1559904
 Rad54b|Fsbp|RGD1306507
 Tmem67|Mks3|Wpk
 Rbm12b|RGD1307658
@@ -19210,7 +19210,7 @@ Fam71a|RGD1561646
 LOC498316
 Abcg3|RGD1565568
 Pkd2|RGD1559992|Trpp2
-LOC498330
+Aff1-as1
 Ptpn13|Ptp-bl|ptp
 Coq2|PHB:PPT|RGD1306722
 Bmp2k
@@ -20263,7 +20263,7 @@ LOC500665
 Dact1|RGD1564008
 Ccdc175
 Six6os1|RGD1559456
-RGD1562540
+Ccdc196|RGD1562540
 Rad51b|RGD1560681|Rad51l1
 LOC500684
 Plekhd1|RGD1566112
@@ -22330,7 +22330,7 @@ LOC681376
 Rp1|Rp1h
 Zcwpw2
 LOC681382
-LOC681383
+Lrmda
 LOC681385
 LOC681386
 LOC681387
@@ -22636,7 +22636,7 @@ LOC684365
 Prr23a
 LOC684376
 LOC684377
-LOC684381
+Prr23d2
 LOC684395
 LOC684399
 LOC684403
@@ -23364,7 +23364,7 @@ LOC687800
 Slc16a9
 Traf1
 LOC687821
-Gsg2
+Haspin|Gsg2
 LOC687851
 Mmab
 Myo1h
@@ -26067,7 +26067,7 @@ Mir101-2|Mir101b|rno-mir-101b
 Mirlet7a-2|rno-let-7a-2
 Mirlet7b|rno-let-7b
 Mirlet7e|rno-let-7e
-Mirlet7f-2|rno-let-7f-2
+Mirlet7f2|Mirlet7f-2|rno-let-7f-2
 Mirlet7i|rno-let-7i
 Mir9-1|Mir9a-1|rno-mir-9-1|rno-mir-9a-1
 Mir9-2|Mir9a-2|rno-mir-9-2|rno-mir-9a-2
@@ -26100,7 +26100,7 @@ Mir103a1|Mir103-1|rno-mir-103-1
 Mir107|rno-mir-107
 Mir122|rno-mir-122
 Mir124-2|rno-mir-124-2
-Mir125b-2|rno-mir-125b-2
+Mir125b2|Mir125b-2|rno-mir-125b-2
 Mir128-1|rno-mir-128-1
 Mir128-2|rno-mir-128-2
 Mir130b|rno-mir-130b
@@ -26166,7 +26166,7 @@ Mir369|rno-mir-369
 Mir374b|Mir374|rno-mir-374
 Mir503|rno-mir-503|rno-mir-503-1
 Mir505|rno-mir-505
-Mir499|rno-mir-499
+Mir499a|Mir499|rno-mir-499
 Mir664-2|rno-mir-664-2
 Mir466b-1|rno-mir-466b-1
 Mir466c|rno-mir-466c
@@ -26257,7 +26257,7 @@ Mir665|rno-mir-665
 Mir324|rno-mir-324
 Mir335|rno-mir-335
 Mir343|rno-mir-343
-Mirlet7c-1|rno-let-7c-1
+Mirlet7c1|Mirlet7c-1|rno-let-7c-1
 Mir7b|rno-mir-7b
 Mir19b1|Mir19b-1|rno-mir-19b-1
 Mir29c|rno-mir-29c
@@ -26297,7 +26297,7 @@ Mir340-1|Mir340|rno-mir-340|rno-mir-340-1
 Mir346|rno-mir-346
 Mir20a|rno-mir-20a
 Mir151|rno-mir-151
-Mirlet7c-2|rno-let-7c-2
+Mirlet7c2|Mirlet7c-2|rno-let-7c-2
 Mir7a-2|Mir7-2|rno-mir-7a-2
 Mir10b|rno-mir-10b
 Mir18a|rno-mir-18a
@@ -26860,7 +26860,7 @@ LOC100360756
 Ctcfl
 LOC100360758
 LOC100360761
-Dzf17|Zfp715
+Zfp17|Dzf17|Zfp715
 LOC100360774
 LOC100360775
 Mroh8
@@ -27265,7 +27265,7 @@ LOC100361944
 LOC100361945
 Lrrc74b
 Zfp42|Zfp971
-LOC100361951
+Lce3e
 LOC100361957
 Cox7b2
 LOC100361961
@@ -27864,7 +27864,7 @@ LOC100364002
 LOC100364014
 LOC100364016
 LOC100364024
-LOC100364027
+Hkdc1
 LOC100364031
 LOC100364044
 LOC100364062|RGD1561179
