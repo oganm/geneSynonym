@@ -25,7 +25,7 @@ setnames(geneInfo,old = names(geneInfo),new=
                'dbXrefs', 'chromosome', 'map_location', 'description',
                'type_of_gene', 'Symbol_from_nomenclature_authority',
                'Full_name_from_nomenclature_authority', 'Nomenclature_status',
-               'Other_designations', 'Modification_date'))
+               'Other_designations', 'Modification_date','Feature_type'))
 
 
 
@@ -41,7 +41,7 @@ taxData %<>% filter(name_txt %in% c('Homo sapiens',
                                     'Danio rerio',
                                     'Caenorhabditis elegans',
                                     'Drosophila melanogaster',
-                                    'Rhesus macaque'))
+                                    'Macaca mulatta'))
 
 
 tax = taxData$tax_id
