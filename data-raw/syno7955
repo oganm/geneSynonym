@@ -4514,7 +4514,7 @@ mdh1ab|fk59d03|mdh1|mdh1b|mdhB|wu:fk59d03|zgc:56234
 nme2a|nme2l|si:ch211-119c20.1|wu:fk59e05|zgc:73122
 wu:fk59e06|fk59e06
 cops3|wu:fc32a02|wu:fk59f01|zgc:111903|zgc:55643|zgc:77615
-dfna5b|dfna5|fk59f08|wu:fc41e05|wu:fk59f08|zgc:91916
+gsdmeb|dfna5|dfna5b|fk59f08|wu:fc41e05|wu:fk59f08|zgc:91916
 wu:fk59h03
 wu:fk61g04|fk61g04
 elovl4b|elovl4|wu:fk62b04|zgc:73054
@@ -9425,7 +9425,7 @@ il12a|IL-12 p35|IL-12p35
 ticrr
 polr1d|im:7162148|zgc:136449
 psmb1|wu:fc51f06|zgc:103665
-cdh5|wu:fc88a07
+cdh5|mlb|wu:fc88a07
 myo6b
 myo6a
 stat5b|stat5.2
@@ -10512,7 +10512,7 @@ zgc:198371|si:dkey-202m22.6
 xkr7|zgc:123037
 xk
 xkr8.3|zgc:103514
-xkr5|xrg5
+xkr5a|xkr5|xrg5
 xgb
 crygs2|crygs|si:ch211-194d6.4
 pcdh1a1|DrPcdh1a1|DrPcdh1z1
@@ -11083,7 +11083,7 @@ terb2|zgc:111992
 spcs2|wu:fa12g08|zgc:110364
 meig1|si:dkey-153k10.4|zgc:110359
 prdx1|hm:zehl0637|zgc:110343
-zgc:110340|tc1a|wu:fa99h09
+tcima|tc1a|wu:fa99h09|zgc:110340
 hdhd2|zgc:110332
 mat2b|fc55d01|wu:fb48h02|wu:fc55d01|zgc:110308
 bccip|mp:zf637-1-000774|zgc:110272
@@ -12803,7 +12803,7 @@ cuzd1.2|si:ch211-208g24.6
 zc3h18|nhn1|si:ch211-218c6.1
 ftr52p|ftr52
 ginm1|fi23g04|si:dkey-15j16.2|wu:fi23g04
-slc2a1a|fc29a02|glut1|slc2a1|wu:fc29a02
+slc2a1a|fc29a02|glut1|glut1b|slc2a1|wu:fc29a02
 ccdc135
 npm2b|npm2|zgc:163013
 srgap1b|si:ch211-125a15.2|srgap2b
@@ -13933,7 +13933,7 @@ pgpep1l|si:dkey-25f3.4
 si:dkey-78l4.14|im:7151185|mic13|qil1
 si:dkey-49n23.1
 slitrk1
-wu:fj58g06|fj58g06
+tcimb|fj58g06|wu:fj58g06
 mmd2a|mmd2|paqr10|si:dkey-21n8.8
 ppp2r2aa|ppp2r2a|si:ch73-112n4.3
 acp6|im:7147584|zgc:172268
@@ -18376,7 +18376,7 @@ srgap1a|si:ch211-238a12.4|srgap1
 urb2|fc13e02|si:dkey-162b3.2|wu:fc13e02
 osgin2|si:dkey-7f3.6
 phldb1b
-vsg1|fb11a07|plvap|wu:fb11a07|zgc:113451|zgc:136228
+plvapb|fb11a07|plvap|vsg1|wu:fb11a07|zgc:113451|zgc:136228
 setd5
 zgc:194281|zgc:194273
 si:ch211-160d14.6
@@ -23094,7 +23094,7 @@ m1ap|zgc:162140
 zgc:174358|zgc:174357
 si:dkey-188i13.11
 fsd1l
-zgc:194508
+cabcoco1|zgc:194508
 rnf151|si:dkey-7e14.6
 olfcg3|si:dkey-245i2.7
 si:ch211-240g9.1
@@ -24596,7 +24596,7 @@ znf341|zgc:171837
 ubp1|si:ch211-207c15.3
 vetz|si:ch211-95o16.2|si:ct573048.2
 cep70|si:dkey-170g11.4
-plvap|si:dkey-208k22.3
+plvapa|plvap|si:dkey-208k22.3
 fbxw8|zgc:172294
 fam131a|zgc:172298
 cishb|cish.b|socs8|zgc:175109
@@ -26500,7 +26500,7 @@ gareml|si:ch211-161e1.3
 LOC100331996
 LOC100332004
 zmp:0000000991
-si:ch73-160p18.3
+si:ch73-160p18.3|zgc:101521
 LOC100332023
 cpne8
 arel1
@@ -26860,7 +26860,7 @@ LOC100333415
 si:dkey-29p9.3
 zmp:0000001073
 serf2
-si:ch211-134a4.5
+ly6m6|ly21.6|si:ch211-134a4.5
 LOC100333433
 LOC100333434
 si:ch211-162i8.2
@@ -26872,7 +26872,7 @@ gb:bm035769|c17h14orf28
 LOC100333474
 LOC100333482|tppp
 LOC100333484
-si:ch211-134a4.1
+ly6m2|ly21.2|si:ch211-134a4.1
 hist1h2ba|si:dkey-108k21.9
 LOC100333499|ltbp4
 lamtor5|si:dkey-176g4.2
@@ -28914,7 +28914,7 @@ LOC101882853
 LOC101882855
 LOC101882856
 LOC101882857
-si:ch211-134a4.2
+ly6m3|ly21.3|si:ch211-134a4.2
 LOC101882859
 LOC101882861
 LOC101882863|dnhd1
@@ -28942,7 +28942,7 @@ si:ch73-2d23.1
 LOC101882910
 LOC101882911
 LOC101882912
-si:ch211-134a4.3
+ly6m4|ly21.4|si:ch211-134a4.3
 ssuh2.1|si:dkey-188l8.4
 LOC101882916
 LOC101882917
@@ -28973,7 +28973,7 @@ LOC101882978
 LOC101882981
 LOC101882982
 lrfn4a|si:ch211-250a23.3
-si:ch211-134a4.4
+ly6m5|ly21.5|si:ch211-134a4.4
 LOC101882986
 zmp:0000000735
 LOC101882989
@@ -29031,7 +29031,7 @@ LOC101883107
 LOC101883110
 LOC101883113
 LOC101883115
-si:ch211-134a4.8
+ly6m7|ly21.7|si:ch211-134a4.8
 si:dkey-19a16.7|wu:fb34b02
 LOC101883122
 kiaa2026
@@ -29857,7 +29857,7 @@ LOC101884800
 LOC101884801
 LOC101884803
 LOC101884804
-LOC101884805|mrap2b|zMRAP2b
+mrap2b|zMRAP2b
 amfrb
 LOC101884810
 si:dkey-9c18.3
@@ -29909,7 +29909,7 @@ si:ch211-205j18.1
 LOC101884906
 LOC101884909
 LOC101884910
-dfna5a|si:dkey-22m8.7
+gsdmea|dfna5a|si:dkey-22m8.7
 si:ch211-170a17.1
 LOC101884915
 LOC101884918
@@ -35143,7 +35143,7 @@ LOC108182771
 LOC108182772
 LOC108182773
 LOC108182775
-LOC108182776
+gvin1l
 LOC108182779
 LOC108182781
 LOC108182782
@@ -43109,7 +43109,7 @@ LOC110437928
 LOC110437929
 LOC110437930
 LOC110437931
-tomt|mrc
+tomt|mercury|mrc
 LOC110437933
 LOC110437934
 LOC110437935
