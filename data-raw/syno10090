@@ -561,7 +561,7 @@ Capns1|Capa-4|Capa4|Capn4|Cdps|Css1|D7Ertd146e
 Capn5|nCL-3
 Capn6
 Capn7|AU022319|PalBH
-Capza1|CAPZ|CAZ1|Cappa1
+Capza1|CAPZ|CAZ1|Cappa1|capZ alpha-1
 Capza2|1110053K06Rik|AW208808|Cappa2
 Capza3|510-4|Cappa3|Gsg3|Tex8|repro32
 Capzb|1700120C01Rik|AI325129|CPB1|CPB2|CPbeat2|CPbeta1|CPbeta2|Cappb1
@@ -3076,7 +3076,7 @@ Lamb1|C77966|C80098|C81607|D130003D08Rik|Lamb-1|Lamb1-1
 Lamb2|AW211941|Lamb-2|Lams|npht
 Lamb3
 Lamc2|AA589349
-Lamp1|CD107a|LGP-120|LGP-A|Lamp-1|P2B
+Lamp1|CD107a|LGP-120|LGP-A|Lamp-1|P2B|Perk
 Lamp2|CD107b|LGP-B|Lamp II|Lamp-2|Lamp-2a|Lamp-2b|Lamp-2c|Mac3
 Rpsa|67kDa|67lr|AL022858|Lamr|Lamr1|Lamrl1|MLR|P40|P40-3|P40-8
 Anpep|AP-M|AP-N|Apn|Cd13|P150
@@ -3710,7 +3710,7 @@ Nfya|AA407810|Cbf-b|SEZ-10|SEZ10
 Nfyb|AA985999|Cbf-A
 Nfyc
 Klk1b4|Ngfa|alpha-NGF|mGk-4
-Ngf|Ngfb
+Ngf|Ngfb|beta-NGF
 Klk1b3|Ngfg|gamma-NGF|mGk-3
 Ngfr|LNGFR|Tnfrsf16|p75|p75NGFR|p75NTR
 Ngp|bectenecin
@@ -5262,7 +5262,7 @@ Snai1|Sna|Sna1|Snail|Snail1
 Snap25|Bdr|GENA70|SNAP-25|SUP|sp
 Snapin|25kDa|AA407989|AV026596|Bloc1s7|Snap25bp|Snapap
 Snap91|91kDa|AP180|F1-20|mKIAA0656
-Snca|NACP|alphaSYN
+Snca|NACP|alpha-Syn|alphaSYN
 Sncg|C79089|persyn
 Snap23|23kDa|AA408749|SNAP-23|Sndt|Syndet
 Plk2|Snk
@@ -7814,7 +7814,7 @@ Angptl3|hypl
 Slamf6|KAL1|KAL1b|Ly108|NTB-A|NTBA|SF2000
 Glrx3|PICOT|Txnl2
 Snai3|AI643946|Smuc|Zfp293
-Zbtb18|RP58|Zfp238|Znf238
+Zbtb18|RP58|Zfp238|Znf238.|zfp-238
 Vps26a|AA407240|HB58|Vps26
 Tor1a|DQ2|Dyt1|torsinA
 Zfp330|BC008086|Noa36|Znf330
