@@ -5477,7 +5477,7 @@ id:ibd2031
 mcamb|cd146|gicerin|id:ibd3512|mcam
 id:ibd1255
 creb3l1|id:ibd2573|id:ibd5131|wu:fa98d12
-seph|cb697|selenoh|selh|wu:fa11g07|wu:fb23d03
+selenoh|cb697|selh|seph|wu:fa11g07|wu:fb23d03
 tmpoa|LAP2|etID53005.4|tmpo|wu:fc26f12|wu:fd21f02|wu:fi29h05
 mib1|cg5841|chunp6889|fe47f05|im:7148100|mib|wu:fe47f05
 krt18|DreK18|cb83|dapk1|sb:cb83|wu:fa13f02|wu:fb36b04
@@ -5491,7 +5491,7 @@ selt1a|cb700|selenot1a|sept1a|wu:fb63h09|wu:fc79a12
 oxt|IT-NP|fj33a01|itnp|oxtl|wu:fj33a01|wu:fq40d10
 selt1b|cb698|selenot1b|sept1b|wu:fb51a03|wu:fb51b01
 avp|VT-NP|avpl|vsnp
-sep15|cb29|selenof|zgc:86882
+selenof|cb29|sep15|zgc:86882
 txnrd1|TrxR1|cb682|fb83a08|wu:fb83a08
 txnrd3|TrxR2|cb683
 gpx1a|cb690|gpx1|zgc:103683|zgc:92737
@@ -5500,7 +5500,7 @@ gpx4a|PHGPxa|cb563|cb691|sb:cb563|wu:fb82e03|zgc:92253
 gpx4b|PHGPxb|cb692|zgc:110018
 gli1
 sepp1a|SePPa|SelPa|cb688|wu:fa55a04|wu:fb38a09|wu:fj79f04
-sps2|cb701|sephs2|zgc:92096
+sephs2|cb701|sps2|zgc:92096
 npas2|zfCLOCK2
 arntl1b|bmal1b|zfBMAL3
 dio2|Deio2|cb684
