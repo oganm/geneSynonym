@@ -1,7 +1,7 @@
 Package: geneSynonym
 Type: Package
 Title: Quick access to gene synonym information
-Version: 1.0.2017.09.17
+Version: 1.0.2017.09.24
 Imports: parallel
 Suggests: testthat
 Date: 2015-06-16
