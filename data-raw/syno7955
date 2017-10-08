@@ -8559,7 +8559,7 @@ med6|wu:fa14c11|zgc:86933
 tnnc1b|stnnc|zgc:86932
 nudt5|wu:fe48a12|zgc:86930
 rnf14|wu:fb80d11|wu:fi42d09|zgc:86928
-tmem8c|si:dkey-191h14.1|wu:fb30h02|zgc:86927
+tmem8c|mymk|si:dkey-191h14.1|wu:fb30h02|zgc:86927
 tsg101a|tsg101|zgc:86926
 cbx1b|zgc:86924
 psmc1b|wu:fj14c10|zgc:86923
@@ -17895,7 +17895,7 @@ v2ra18|si:ch211-229c8.10
 zgc:194665|zgc:194696
 zgc:152951
 ggt1b|si:dkey-47k14.1
-he1a|cb284|he1|wu:cegs2099|zgc:111847
+he1.1|cb284|he1|he1a|wu:cegs2099|zgc:111847
 LOC569025|Sb:cb37 protein-like|a2ml1
 smyd1b|symd1
 si:dkey-197c15.6|im:7159785
@@ -20522,7 +20522,7 @@ bglap|si:ch1073-504d15.2
 LOC792443
 LOC792447
 LOC792450
-ovol1|sb:cb956|zgc:171804
+ovol1a|ovol1|sb:cb956|zgc:171804
 mturn|si:ch211-149a19.1
 si:ch211-270n8.1
 ccdc153|zgc:171582
@@ -27215,7 +27215,7 @@ si:ch211-161c3.6
 LOC100334838
 LOC100334841
 si:ch211-236p5.3
-si:dkey-17e16.17
+bicdl2|si:dkey-17e16.17
 si:ch211-166e11.5
 vclb|vinculin-b
 LOC100334861
@@ -27423,7 +27423,7 @@ LOC100534908
 LOC100534909|Her15|hes5
 si:ch73-74h11.1
 peli1a
-si:dkey-17e16.13
+ovol1b|si:dkey-17e16.13
 tmem240b|si:zfos-1324h11.2
 LOC100534924
 slc35d2

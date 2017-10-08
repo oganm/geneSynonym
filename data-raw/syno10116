@@ -791,7 +791,7 @@ Spp1|OSP
 Sstr5|Smstr5|Somato
 Cntn2|TAG-1|TAG-564|TAG1|Tax
 Thrsp|Lpgp|S14|SPOT14
-Timp3
+Timp3|Timp-3
 Tmpo|LAP2
 Tshr|TSHRA
 Vcam1|VCAM1B
@@ -21803,7 +21803,7 @@ Sap30
 LOC680123
 Tirap
 Srsf3-ps1|Sfrs3-ps1
-Timp4
+Timp4|Timp-4
 Tbc1d8|IHoP
 Krtap2-4l
 LOC680137
