@@ -17873,7 +17873,7 @@ dip2bb|si:ch73-187p21.2
 LOC568955
 cenpj|fi46g11|si:dkey-46k9.9|wu:fi46g11
 wu:fc46h12|fc46h12
-zmp:0000000794|c5h9orf172
+ajm1|c5h9orf172|zmp:0000000794
 lrrc18b
 apoc2|fb98g08|wu:fb52e03|wu:fb71a04|wu:fb98g08
 noctb
@@ -26295,7 +26295,7 @@ gpc6b
 acer2
 taar18j|si:ch211-238p8.17
 LOC100331184
-si:ch73-215a11.1|oma1
+oma1|si:ch73-215a11.1
 LOC100331190
 il17rel
 tnnt2b
