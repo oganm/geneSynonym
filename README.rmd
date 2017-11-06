@@ -39,12 +39,16 @@ The output is a nested list since gene synonyms are not nececarilly unique. For 
 mouseSyno('Tex40')
 ```
 
-Input is a vector of gene names and a tax identifier. Alternatively shorthand functions exist for human and mouse.
+Names of vectors within the list are NCBI ids.
+
+Input is a vector of gene names/NCBI ids and a tax identifier. Alternatively shorthand functions exist for human and mouse.
 
 ```{r}
 geneSynonym(c('Eno2','Mog'), tax = 10090)
 
-mouseSyno(c('Eno2','Mog'))
+geneSynonym(c('Eno2','Mog'), tax = 10090)
+
+mouseSyno(c('Eno2',17441))
 
 humanSyno('MOG')
 ```

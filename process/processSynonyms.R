@@ -3,10 +3,6 @@ library(magrittr)
 library(git2r)
 library(dplyr)
 library(ogbox)
-teval = function(daString){
-    eval(parse(text=daString))
-}
-
 
 devtools::use_data_raw()
 
@@ -29,7 +25,7 @@ setnames(geneInfo,old = names(geneInfo),new=
 
 
 
-geneInfo = geneInfo[,c('Symbol','Synonyms','tax_id')]
+geneInfo = geneInfo[,c('Symbol','GeneID','Synonyms','tax_id')]
 
 taxData = fread('data-raw/taxdump/names.dmp',data.table=FALSE)
 taxData = taxData[c(1,3,5,7)]
@@ -55,7 +51,7 @@ synos = sapply(1:nrow(geneInfo),function(i){
     }
     return(out)
 })
-
+names(synos) = geneInfo$GeneID
 repo = repository('.')
 
 # file generation
@@ -63,7 +59,7 @@ for (i in tax){
     teval(paste0('syno',i," <<- synos[geneInfo[,'tax_id']==i]"))
     teval(paste0('devtools::use_data(syno', i,',overwrite=TRUE)'))
     teval(paste0('cat(syno',i,', file="data-raw/syno',i,'",sep="\n")'))
-    # teval(paste0('rm(syno',i,',envir = .GlobalEnv)'))
+    teval(paste0('rm(syno',i,',envir = .GlobalEnv)'))
     git2r::add(repo,path =paste0('data-raw/syno',i))
     git2r::add(repo,path =paste0('data/syno',i,'.rda'))
     Sys.sleep(2)

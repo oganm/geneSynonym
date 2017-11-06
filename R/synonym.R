@@ -29,10 +29,11 @@ geneSynonym = function(genes,tax,cores = 1){
     # if a gene name given and it is not on the list, it spews out a warning 
     # DOES NOT PRINT WARNINGS WHEN USING MULTIPLE CORES
     # teval(paste0('data(syno',tax,')'))
-    leData = teval(paste0('syno',tax))
+    synoData = teval(paste0('syno',tax))
     
     geneSearcher = function(x){
-        synonyms = strsplit(grep(paste0('(^|[|])','\\Q',x,'\\E','($|[|])'),leData,value=T),split='[|]')
+        
+        synonyms = synoData[grepl(paste0('(^|[|])','\\Q',x,'\\E','($|[|])'),synoData) | (names(synoData ) %in% x)]
         if (length(synonyms)==0){
             synonyms = list(x)
             warning(paste0('Gene ',x,' could not be found in the list. Returning own name'))
