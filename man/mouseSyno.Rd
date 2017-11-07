@@ -2,10 +2,10 @@
 % Please edit documentation in R/synonym.R
 \name{mouseSyno}
 \alias{mouseSyno}
-\title{Mouse wraper}
+\title{Mouse wraper for geneSynonym}
 \usage{
 mouseSyno(genes, cores = 1)
 }
 \description{
-Mouse wraper
+Mouse wraper for geneSynonym
 }

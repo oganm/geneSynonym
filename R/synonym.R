@@ -4,7 +4,7 @@ teval = function(daString){
 
 
 
-#' Mouse wraper 
+#' Mouse wraper for geneSynonym
 #' @export
 mouseSyno = function(genes,cores=1){
     geneSynonym(genes,10090,cores)
@@ -19,7 +19,7 @@ humanSyno = function(genes,cores=1){
 
 #' Get synonyms of given genes
 #' @description Given a list of genes and taxid, returns a data frame with corresponding synonyms to said genes. For mouse and humans just use humanSyno and mouseSyno
-#' @param A list of genes
+#' @param genes list of genes
 #' @param tax Species taxonomy ID
 #' @param cores of cores to use when multiprocessing. Useful for large gene lists
 #' @export
