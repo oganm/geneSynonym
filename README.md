@@ -37,10 +37,12 @@ mouseSyno('Tex40')
 ```
 
     ## $Tex40
-    ##                                                16528 
-    ##          "Kcnk4|Catsperz|MLZ-622|TRAAK|TRAAKt|Tex40" 
-    ##                                                67077 
-    ## "Catsperz|1700019N12Rik|A430107B04Rik|MLZ-622|Tex40"
+    ## $Tex40$`16528`
+    ## [1] "Kcnk4"    "Catsperz" "MLZ-622"  "TRAAK"    "TRAAKt"   "Tex40"   
+    ## 
+    ## $Tex40$`67077`
+    ## [1] "Catsperz"      "1700019N12Rik" "A430107B04Rik" "MLZ-622"      
+    ## [5] "Tex40"
 
 Names of vectors within the list are NCBI ids.
 
@@ -51,41 +53,44 @@ geneSynonym(c('Eno2','Mog'), tax = 10090)
 ```
 
     ## $Eno2
-    ##                                13807 
-    ## "Eno2|AI837106|D6Ertd375e|Eno-2|NSE" 
+    ## $Eno2$`13807`
+    ## [1] "Eno2"       "AI837106"   "D6Ertd375e" "Eno-2"      "NSE"       
+    ## 
     ## 
     ## $Mog
-    ##               17441 
-    ## "Mog|B230317G11Rik"
+    ## $Mog$`17441`
+    ## [1] "Mog"           "B230317G11Rik"
 
 ``` r
 geneSynonym(c('Eno2','Mog'), tax = 10090)
 ```
 
     ## $Eno2
-    ##                                13807 
-    ## "Eno2|AI837106|D6Ertd375e|Eno-2|NSE" 
+    ## $Eno2$`13807`
+    ## [1] "Eno2"       "AI837106"   "D6Ertd375e" "Eno-2"      "NSE"       
+    ## 
     ## 
     ## $Mog
-    ##               17441 
-    ## "Mog|B230317G11Rik"
+    ## $Mog$`17441`
+    ## [1] "Mog"           "B230317G11Rik"
 
 ``` r
 mouseSyno(c('Eno2',17441))
 ```
 
     ## $Eno2
-    ##                                13807 
-    ## "Eno2|AI837106|D6Ertd375e|Eno-2|NSE" 
+    ## $Eno2$`13807`
+    ## [1] "Eno2"       "AI837106"   "D6Ertd375e" "Eno-2"      "NSE"       
+    ## 
     ## 
     ## $`17441`
-    ##               17441 
-    ## "Mog|B230317G11Rik"
+    ## $`17441`$`17441`
+    ## [1] "Mog"           "B230317G11Rik"
 
 ``` r
 humanSyno('MOG')
 ```
 
     ## $MOG
-    ##                            4340 
-    ## "MOG|BTN6|BTNL11|MOGIG2|NRCLP7"
+    ## $MOG$`4340`
+    ## [1] "MOG"    "BTN6"   "BTNL11" "MOGIG2" "NRCLP7"

@@ -33,7 +33,7 @@ geneSynonym = function(genes,tax,cores = 1){
     
     geneSearcher = function(x){
         
-        synonyms = synoData[grepl(paste0('(^|[|])','\\Q',x,'\\E','($|[|])'),synoData) | (names(synoData ) %in% x)]
+        synonyms = strsplit(synoData[grepl(paste0('(^|[|])','\\Q',x,'\\E','($|[|])'),synoData) | (names(synoData ) %in% x)],split = '[|]')
         if (length(synonyms)==0){
             synonyms = list(x)
             warning(paste0('Gene ',x,' could not be found in the list. Returning own name'))
