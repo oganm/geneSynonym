@@ -112,7 +112,7 @@ spon2a|mindin1
 spon2b|etID309958.14|mindin2|zgc:100756
 cpsf4|nar
 bmp1l|bmp1|tolloid
-tle3a|grg2|gro2|groucho2
+tle3a|grg2|gro2|groucho2|sb:eu753
 tyr|sandy|zgc:109705
 cmn|wu:fd07b03
 sts9079
@@ -976,7 +976,7 @@ ube2ia|Ubc9-2|ube2i2|ube2ib
 dlg1|Dlgh1|SAP-97A|wu:fc34d02|zgc:55810
 cxcr4b|CXCR4|cb403|zgc:109863
 sim2
-blzf1|fe06a04|wu:fe06a04|zgc:66280|zgc:85871
+blzf1|Golgin45|fe06a04|wu:fe06a04|zgc:66280|zgc:85871
 cebp1|c/ebp1|cb1070|unp1282
 copb2|sb:cb121|wu:fb30f06
 arpc4|fa07b12|wu:fa07b12|zgc:77932
@@ -4894,7 +4894,7 @@ wu:fa91f01|fa91f01
 rps26|wu:fa91f03|zgc:77927
 wu:fa91h02|fa91h02
 wu:fa91h05|fa91h05
-ch25hl1.1|Ch25h|fa92a08|si:dkey-24l11.8|wu:fa92a08|zgc:110696
+ch25hl1.1|Ch25h|ch25hc.2|fa92a08|si:dkey-24l11.8|wu:fa92a08|zgc:110696
 wu:fa92a12|fa92a12
 csde1|fa92c07|si:ch211-261n11.2|wu:fa92c07|wu:fa97c10|wu:fb53f07|wu:fb78d03
 tubb4b|fa91f09|fb16e09|tubb2|tubb2c|wu:fa91f09|wu:fa92d05|wu:fb16e09|wu:fb97a11
@@ -10451,7 +10451,7 @@ foxj1b|fj67h07|wu:fj67h07|zgc:101713
 nsun4|CH73-222E2.2|zgc:101708
 zdhhc13|wu:fb06e01|wu:fc39g10|wu:fi22e09|zgc:101690
 ptgr1|ltb4dh|wu:fj35e05|zgc:101689
-ch25h|zgc:101688
+ch25h|ch25hb|zgc:101688
 lhfpl6|lhfp|zgc:101683
 mfsd13a|tmem180|zgc:101662
 cdk20|zgc:101530
@@ -12954,7 +12954,7 @@ mtus2a|mtus2|si:ch211-69k21.4
 srgap2|srgap2a|wu:fb47h12|zgc:136814
 phka2
 si:ch211-117k10.3|klf15l
-si:dkey-155h10.3|gabrg1
+gabrg1|si:dkey-155h10.3
 fam45a|si:ch211-117n7.2|wu:fc44d12|wu:fd19e06
 wu:fc17b08|fc17b08
 slc43a3b|zgc:136890
@@ -14414,7 +14414,7 @@ vtg2|si:dkey-4c23.2|vg2|zfVtg2
 pex14|sb:eu761|wu:fb75c03|wu:fd21e05|wu:fd51h08
 plcxd2|si:dkey-11p10.9
 ppip5k1b
-arhgef28|rgnef|si:ch211-1o14.5
+arhgef28|p190RhoGEF|rgnef|si:ch211-1o14.5
 ogfrl1|si:ch211-263b6.1
 dot1l|si:dkey-211f22.1
 npffr1l1|si:dkey-261l11.2
@@ -15072,7 +15072,7 @@ ftr56|fc18b09|si:dkey-263o22.3|wu:fc18b09
 nfatc4|si:dkeyp-66d1.4|si:dkeyp-66d1.5
 nt5c1bb|fl02f11|si:ch211-59d15.1|wu:fl02f11
 slit1b
-dnajb2|zgc:153268
+dnajb2|sb:eu730|zgc:153268
 si:dkey-32e6.6
 magi3a|magi3|si:ch211-139k15.1
 klhl34
@@ -16866,7 +16866,7 @@ pxdc1b|si:dkey-149l16.2
 gbf1|si:dkey-183c23.1
 cacna1i|si:ch211-51h13.1
 arid2|fi45a01|si:ch211-132p20.1|wu:fi45a01|zgc:152901
-golgb1|sb:cb277|wu:fb47h05|wu:fb92f11
+golgb1|giantin|sb:cb277|wu:fb47h05|wu:fb92f11
 cep170ab|SAGp53A|cep170b|cep170l|im:7149177|kab|t2gtlp53a
 tinf2|TIN2|wu:fi37c10|zgc:158289
 si:ch211-196f2.3|muc3a
@@ -19433,10 +19433,8 @@ sb:eu692
 sb:eu707
 sb:eu709
 sb:eu719
-sb:eu730
 sb:eu742
 sb:eu743
-sb:eu753
 sb:eu760
 sb:eu767
 sb:eu768
@@ -24589,7 +24587,7 @@ zgc:172182|boip|ccdc89
 zgc:172215
 zgc:172270
 abcg8|zgc:172358
-ch25hl2|zgc:175201
+ch25hl2|ch25hd|zgc:175201
 zgc:174863
 pigw|zgc:175274
 znf341|zgc:171837
@@ -25313,7 +25311,7 @@ si:ch211-155e24.3|wu:fb20f08
 LOC100150699
 chrm4a
 or118-2
-si:dkey-52k1.6|gabra2
+gabra2a|gabra2|si:dkey-52k1.6
 LOC100150707
 mhc1lea
 or128-9
