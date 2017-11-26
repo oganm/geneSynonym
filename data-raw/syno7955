@@ -4309,7 +4309,7 @@ wu:fl03g02|fl03g02
 wu:fl04a11|fl04a11
 wu:fl04h02|fl04h02
 wu:fl05b04|fl05b04
-si:rp71-61h23.4|fl05f04|wu:fl05f04
+plin3|fl05f04|si:rp71-61h23.4|wu:fl05f04
 wu:fl05f10|fl05f10
 wu:fl07c04|fl07c04
 wu:fl08d12|fl08d12
@@ -12427,7 +12427,7 @@ metap1d|MAP 1D|MetAP 1D|map1d|zgc:110461
 dnajb9b|zgc:110447
 tbc1d17|wu:fc56c02|zgc:110443
 derl2|zgc:110436
-zgc:110434|H2A
+hist1h2a2|H2A|zgc:110434
 fabp1b.1|Zf-FABP1b|fabp1b|zgc:110431
 noc4l|sb:cb534|wu:fb78g04|zgc:110429
 zgc:112234
@@ -14128,7 +14128,7 @@ prph2b|rds4
 gbe1b|gbe1|si:ch211-247m23.1
 arhgef33|si:ch211-15d5.10
 mapre3a|zgc:114065
-si:dkey-261m9.15
+hist1h2a5|si:dkey-261m9.15
 wu:fb63a08|Wu:fb63a08 protein-like|fb63a08
 acvr1bb|sb:eu632|si:zfos-824d4.1
 nup188|fk95d02|wu:fk95d02
@@ -14541,7 +14541,7 @@ znf148|ZBP-89|fb06h05|wu:fb06h05|zfp149|zgc:165342
 susd4
 fgd1|si:dkey-242k1.1
 serpinf2a|serpinf2|serpinf2l|wu:fd57d08
-si:ch211-113a14.16
+hist1h2a1|si:ch211-113a14.16
 cul4b|im:7140950|im:7150765
 si:ch211-66i15.4
 si:dkey-222b8.1
@@ -19197,7 +19197,7 @@ si:dkeyp-78a1.2
 si:ch211-152c2.5
 sco2|si:dkey-202b22.3
 si:dkey-202b22.5
-zgc:114037
+hist1h2a4|zgc:114037
 si:ch211-191a24.7
 nol8|si:ch211-103f16.2
 gpr139
@@ -21011,7 +21011,7 @@ si:ch73-185c24.2
 si:dkey-222h21.1
 si:dkey-192k22.2
 pacs2
-zgc:162150
+plin6|zgc:162150
 ifit14|IFIT17A|si:dkey-116m16.3
 LOC794787
 v2ra20|si:ch211-229c8.6
@@ -22948,7 +22948,7 @@ si:zfos-905g2.1|fj87c06|wu:fj87c06
 cry1aa|cry1a|zgc:153885
 si:dkey-3k24.5|c7h7orf43|gb:dn856615
 depdc1a|cb41|depdc1|sb:cb41|wu:fc05g03|zgc:55374
-zgc:165551|wu:fi43a09|wu:fi48c04
+hist1h2a6|wu:fi43a09|wu:fi48c04|zgc:165551
 zbtb3|im:6906516|im:7140697|si:dkey-147f20.3
 pigrl2.3
 nckipsd
@@ -23447,7 +23447,7 @@ sprn2|PrP-rel-1|Sho2|sprnb|wu:fj12d11|zgc:123052
 ugt2a1
 slc13a5b|slc13a5
 si:dkey-88j15.4
-si:dkey-23a13.14
+hist1h2a7|si:dkey-23a13.14
 capn5b|si:dkey-163i6.4
 si:ch211-166i24.1
 ttll5|si:ch1073-297m1.2
@@ -24480,7 +24480,7 @@ zgc:171977
 gsta.2|zgc:173961
 siglec15l|siglec-2
 pard6b|pard6beta|si:dkey-192i18.6
-zgc:173652
+hist1h2a3|zgc:173652
 clstn2|si:dkeyp-55c8.1
 prkg2|si:dkey-18e17.2
 zgc:165656
@@ -26707,7 +26707,7 @@ si:cabz01069022.1
 si:dkey-109l4.6
 myt1lb|myt1l
 LOC100332883
-si:dkey-108k21.26
+hist1h2a10|si:dkey-108k21.26
 LOC100332895
 si:cabz01021428.1|si:cabz01021428
 LOC100332902
@@ -27153,7 +27153,7 @@ nppb|si:ch211-215j19.10
 LOC100334612
 LOC100334619
 LOC100334620
-si:ch73-36p18.5
+hist1h2a9|si:ch73-36p18.5
 ubap1lb|ubap1l
 cep120
 dchs1a
@@ -32338,7 +32338,7 @@ si:ch1073-153i20.3
 si:ch1073-153i20.2
 si:ch1073-153i20.5
 si:ch1073-153i20.4
-si:ch1073-159d7.9
+hist1h2a8|si:ch1073-159d7.9
 LOC103911346
 LOC103911349
 LOC103911351
