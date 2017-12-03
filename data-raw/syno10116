@@ -3910,7 +3910,7 @@ Pfkfb3
 Epn1
 Ebp
 Cflar|Flip
-Hnrnpu|Hnrpu|SN1
+Hnrnpu|Hnrpu|SAF-A|SN1|SP120|hnRNP U
 Ppp2r1a|PR65
 Hnrnpk|Csbp|Hnrpk
 Lrrc7
@@ -9731,7 +9731,7 @@ Hic1
 Rtn4rl1|Ngrh2
 Wdr81|RGD1311334
 Scarf1
-Fam58b|Fam58a|RGD1305651
+Fam58b|Ccnq|Fam58a|RGD1305651
 Tmem97|RGD1307423
 Tmem199
 Slc46a1|RGD1309472
@@ -22029,7 +22029,7 @@ Med14-ps1
 Fndc10
 LOC680661
 LOC680662
-LOC680663
+Radx
 LOC680664
 Fcrl1
 LOC680667

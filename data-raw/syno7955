@@ -6607,7 +6607,7 @@ slc25a27|zgc:63899
 ube2nb|ube2nl|zgc:63901
 pias4b|pias4l|wu:fi26h11|zgc:63923
 kyat3|ccbl2|zgc:63929
-zdhhc16b|zgc:63934
+zdhhc16b|DHHC-16B|zgc:63934
 diabloa|diablo|zgc:63938
 tmem54a|zgc:63942
 cdc73|hrpt2|zgc:63956
@@ -7217,7 +7217,7 @@ cdc37|zgc:56210
 wdr1|wu:fa66e09|zgc:55793|zgc:77547
 def6a|Def6|zgc:63721
 cttnl|Cttn|zgc:66325
-zdhhc16a|zdhhc16|zgc:66369
+zdhhc16a|DHHC-16A|zdhhc16|zgc:66369
 sf3a2|zgc:56097|zgc:77448
 ddx41|wu:fb92e02|zgc:55896
 shmt1|zgc:66171|zgc:77524
@@ -7326,7 +7326,7 @@ sept7a|cdc10|wu:fb38h06|zgc:56383
 eif2d|lgtn|zgc:63669
 asns|zgc:56605|zgc:76901
 hpcal1|zgc:63695
-mpv17|zgc:63573
+mpv17|roy|zgc:63573
 dctn2|dynamitin|zgc:63867
 hpda|fb58f02|hpd|wu:fb58f02|zgc:56326
 sfswap|sfrs8|srsf8|zgc:56184
