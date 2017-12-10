@@ -1687,7 +1687,7 @@ Galnt7
 Sema3a
 Fau
 Ywhae|14-3-3e
-Atp5g1
+Atp5mc1|Atp5g1
 Colq
 Atp6v0a1|Atp6n1|Atp6n1a
 St6galnac3|Siat7c
@@ -2582,7 +2582,7 @@ Agap2|Centg1|Pike
 Trnau1ap|Secp43|Trspap1
 Prkaa1|AMPKalpha1
 Myo1c|Myr2
-Atp5a1
+Atp5f1a|Atp5a1
 Abo3|Abo|Abol1|Gbgt1
 Mgat5
 Kcnk10|TREK2
@@ -3406,7 +3406,7 @@ Nudt4|DRCF-5
 Efna1|B61
 Fez2|Zrp
 Nnat|Peg5
-Atp5j
+Atp5pf|Atp5j
 Clic5
 Mgat2|Gnt2
 Smpd3|cca1
@@ -3597,7 +3597,7 @@ Ddx39b|Bat1|Bat1a|p47
 Slc5a5|Nis
 Abcg5
 Slc26a3
-Atp5g3
+Atp5mc3|Atp5g3
 Aimp1|Emap2|Scye1
 Plce1|Plce
 Six1
@@ -4256,7 +4256,7 @@ Mlxipl|ChREBP|WS-bHLH|Wbscr14|bHLHd14
 B3galt4
 Slc17a1|Napi-1
 Csf2rb|Csf2rb1
-Atp5g2
+Atp5mc2|Atp5g2
 Itfg1|Cda08
 Nat8b|Cml1|Cml6|Nat8|RGD621605
 Pcsk4
@@ -4361,7 +4361,7 @@ Ppp4c|Ppx
 Cd40|Tnfrsf5
 Xcl1|Ltn|Scyc1
 Slc12a5|Kcc2
-Atp5b
+Atp5f1b|Atp5b
 Atp5f1
 Ppp3cc
 Smarca4|brg-1
@@ -4509,7 +4509,7 @@ Cep19|RGD621352
 Eif2b5
 Hyou1|Cab140|Orp150
 Svs3a|Svs3
-Atp5o|Atpo|Oscp
+Atp5po|Atp5o|Atpo|Oscp
 Akr1d1
 Golgb1
 Hspb6|Hsp20|p20
@@ -4589,13 +4589,13 @@ Tmem37|Pr|Pr1
 Lgals3bp|CyCAP|MAC2BP|Ppicap|mama
 Scn3b|Scnb3
 Ddx46
-Atp5e
+Atp5f1e|Atp5e
 Slc25a3|Phc
 Alg10|Alg10b|KCR1
 Dmgdh|Me2GlyDH
 Cd48|SLAMF2
 Egfl7
-Atp5d
+Atp5f1d|Atp5d
 Tmem150a|Tm6p1|Tmem150
 Commd5|Hcarg
 Setd4|Rda279
@@ -9084,7 +9084,7 @@ Bcl9l
 Arcn1
 Ift46|RGD1307682
 Ttc36
-Atp5l
+Atp5mg|Atp5l
 Cd3g
 Mpzl2|Eva|Eva1
 Tmprss13|RGD1310872
@@ -14130,7 +14130,7 @@ Svil
 RGD1564129
 Cul2
 Ccny|RGD1565969
-Heatr1|RGD1564769
+Heatr1|Heatr1l1|RGD1564769
 Akr1c12
 Akr1cl|Akr1cl1
 Asb13
@@ -16159,7 +16159,7 @@ LOC365655
 Marveld2|Mrvldc2
 Erbin|Erbb2i|Erbb2ip|RGD1562952
 RGD1560462
-Skiv2l2|RGD1305984
+Mtrex|RGD1305984|Skiv2l2
 LOC365671
 LOC365673
 RGD1561520
@@ -22029,7 +22029,7 @@ Med14-ps1
 Fndc10
 LOC680661
 LOC680662
-Radx
+LOC680663|Radx
 LOC680664
 Fcrl1
 LOC680667
@@ -24334,7 +24334,7 @@ Rnf186
 LOC690435
 Catip
 LOC690438
-Atp5j2
+Atp5mf|Atp5j2
 Tmem116
 LOC690444
 Tas2r120
@@ -36406,7 +36406,6 @@ LOC103689949
 NEWGENE_1306455
 LOC103689951
 LOC103689952
-Heatr1l1
 LOC103689954
 LOC103689955
 LOC103689956
