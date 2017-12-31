@@ -568,7 +568,7 @@ axin1|wu:fi22e03|wu:fj14c08|wu:fk11b03|zgc:109872
 caspa|caspy|fa93b02|wu:fa93b02|zgc:109869
 actb1|ACTB|B-ACTZF|actba|bact|bactin1|bactzf|wu:fd18f05
 actb2|actbb|bact2|bactin2|fa56g06|fb38a10|wu:fa56g06|wu:fb38a10
-tbx20|ZF-TBX20|cb826|hrt
+tbx20|ZF-TBX20|cb826|hrt|whz
 id:ibd1999
 id:ibd1017
 id:ibd5021
@@ -6542,7 +6542,7 @@ ttc9c|im:7142077|zgc:56497
 sybl1|zgc:56506
 imp3|zgc:56526
 ostc|zgc:56559|zgc:86623
-zgc:56576
+zgc:56576|rtraf
 rnaseh2b|zgc:56602
 zgc:56628
 znhit3|zgc:56688
@@ -18560,7 +18560,7 @@ pam|si:dkeyp-35f12.2
 znf1177|zgc:113397
 mgat3b|mgat3
 vsir|zgc:153073
-c7b|c7|cb349|wu:fa01f03
+c7b|c7|cb349|si:dkey-246j23.5|wu:fa01f03
 LOC570835
 c1qtnf6b
 trpc1
