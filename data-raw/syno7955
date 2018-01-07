@@ -251,7 +251,7 @@ twist2|dermo1|zgc:101904
 elf1|ef1|fb05d07|wu:fb05d07|zef1
 pou3f2b|pou3f2|pou47|zp47|zp47pou
 pou3f1|pou50|wu:fc09d06|zp-50|zp50|zp50pou
-ta|T|ZF-NTL|ZF-T|cb240|id:ibd5074|ntl|ntla|wu:fc80a01|zft
+tbxta|T|ZF-NTL|ZF-T|cb240|id:ibd5074|ntl|ntla|ta|wu:fc80a01|zft
 b2m|bwm|wu:fa94c05|wu:fb10a09
 hoxc11a|hoxc11|id:ibd3176|zgc:110834
 hoxd10a|HOX-D10|hoxd-10|hoxd10|z-82
@@ -23013,7 +23013,7 @@ wdr6|si:dkey-20d21.7
 slc15a1a|si:dkey-191e17.3
 cyp8b2|zgc:174342
 slc5a3a|CH211-132G1.5|si:ch211-132g1.5|slc5a3
-tb|si:ch211-130h14.5
+tbxtb|si:ch211-130h14.5|tb
 arhgap35a|wu:fb33f06
 nrn1la|nrn1l|si:ch211-265b3.1
 si:dkey-16m19.2|fj04c08|wu:fj04c08
@@ -24346,7 +24346,7 @@ parvg|zgc:162304
 hps5|zgc:162420
 tbccd1|si:ch211-194d6.5|zgc:162789
 cyp4f3|zgc:162915
-rfwd2|zgc:163067
+cop1|rfwd2|zgc:163067
 gtf3ab|ns:zf-a141|zgc:162349
 dkk3b|dkk3|si:dkey-80c24.6
 zgc:163014
