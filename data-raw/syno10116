@@ -291,7 +291,7 @@ Reg3b|Pap|Pap1
 Reg3g|PAPIII|Pap3
 Pccb
 Pde4b|PDE4/IVb|Pde4B1|Pde4B2|Pde4B3|Pde4B4|Pde4b5
-Pde4d|PDE3/IVd
+Pde4d|DPDE3|PDE3/IVd
 Pdgfb|SIS|c-sis
 Pdgfrb|PDGFR-1
 Rhox5|Pem
@@ -458,7 +458,7 @@ Abcb4|Mdr2|Pgy3
 Pgy2
 Cyp2a1|RATCYP2A1|Shdl
 Cyp2a2|CYP2A21|RATCYP2A21
-Gnas|ALEX|Gnas1|Gnpas|Nesp55|SCG6
+Gnas|ALEX|G-alpha-8|Gnas1|Gnpas|Nesp55|SCG6
 Slc6a3|Dat1
 Smcp|Mcs|Mcsp
 Sult2a6|RATSMP2A|RATSMP2B|Smp2a|St2a2|Sult2a4l1|Sult2al1
@@ -1219,7 +1219,7 @@ Capn3|Lp82|Lp84|Lp85|p94
 Capns1|Capn4
 Ccng2
 Fbln5
-Amelx|Amel
+Amelx|Amel|LRAP
 Cav3
 Cdh7|Cad7
 Cdh9
@@ -2862,7 +2862,7 @@ P2rx3
 Pcm1
 Cdk16|Pctk1
 Pde1c
-Pde2a|Pde2|Pde2a2
+Pde2a|CGS-PDE|Pde2|Pde2a2
 Pde7a|PDE7-1
 Pdpk1
 Pggt1b
@@ -4275,7 +4275,7 @@ Grp
 Cdc25a
 Cdc25b
 Gper1|GPR41|Gper|Gpr30
-Lnpep|IRAP|P-LAP|Vp165
+Lnpep|GP160|IRAP|OTase|P-LAP|Vp165
 Il1rl2
 Arr3
 P2ry14|Gpr105
@@ -4496,7 +4496,7 @@ Slc38a5|SN2
 Spdya|Gs4|Lm23|Spdy1|Spy1
 Dnajc21|Dnaja5
 Prom2|Prom-rp|Promrp|Trprp
-Rasgrf1
+Rasgrf1|GNRP|P140 RAS-GRF
 Slc9a5|Nhe5
 Kat5|Htatip|Htatip1|Tip60
 Opn4
@@ -13636,7 +13636,7 @@ Grpcb|CRP|GRP-CB
 Ptprf|LARFN5C
 Ptprq|rPTP-GMC1
 Rdh7|RGD1307178|Rdh3|RoDH(III)
-Pla2g6|PNPLA9|iPla2
+Pla2g6|GVI PLA2|PNPLA9|caI-PLA2|iPLA2-beta|iPla2
 Crisp2|Crisp2l|Tpx1
 Vegfd|Figf|Vegf-d
 RGD1305733
@@ -29973,7 +29973,6 @@ LOC100912440
 LOC100912441
 LOC100912442
 LOC100912444
-LOC100912445
 Nynrin
 LOC100912449
 LOC100912450
@@ -36444,7 +36443,7 @@ LOC103689988
 LOC103689989
 LOC103689990
 NEWGENE_2319083
-LOC103689992
+Rps9l1
 LOC103689993
 LOC103689994
 LOC103689995
