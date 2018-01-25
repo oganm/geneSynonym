@@ -1,16 +1,20 @@
-teval = function(daString){
-    eval(parse(text=daString))
+teval = function(string){
+    eval(parse(text=string))
 }
 
 
 
-#' Mouse wraper for geneSynonym
+#' Mouse wraper for \code{\link{geneSynonym}}
+#' @param genes character vector of genes
+#' @param cores number of cores to use when multiprocessing. Useful for large gene lists
 #' @export
 mouseSyno = function(genes,cores=1){
     geneSynonym(genes,10090,cores)
 }
 
-#' Human wraper for geneSynonym
+#' Human wraper for \code{\link{geneSynonym}}
+#' @param genes character vector of genes
+#' @param cores number of cores to use when multiprocessing. Useful for large gene lists
 #' @export
 humanSyno = function(genes,cores=1){
     geneSynonym(genes,9606,cores)
@@ -19,9 +23,9 @@ humanSyno = function(genes,cores=1){
 
 #' Get synonyms of given genes
 #' @description Given a list of genes and taxid, returns a data frame with corresponding synonyms to said genes. For mouse and humans just use humanSyno and mouseSyno
-#' @param genes list of genes
+#' @param genes character vector of genes
 #' @param tax Species taxonomy ID
-#' @param cores of cores to use when multiprocessing. Useful for large gene lists
+#' @param cores number of cores to use when multiprocessing. Useful for large gene lists
 #' @export
 geneSynonym = function(genes,tax,cores = 1){
     # I kept the single core sapply version in case installing parallel is a

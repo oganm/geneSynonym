@@ -1,4 +1,6 @@
 ^.*\.Rproj$
 ^\.Rproj\.user$
-process
 ^data-raw$
+^\.travis\.yml$
+README.rmd
+^process

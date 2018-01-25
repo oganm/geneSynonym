@@ -2,10 +2,15 @@
 % Please edit documentation in R/synonym.R
 \name{mouseSyno}
 \alias{mouseSyno}
-\title{Mouse wraper for geneSynonym}
+\title{Mouse wraper for \code{\link{geneSynonym}}}
 \usage{
 mouseSyno(genes, cores = 1)
 }
+\arguments{
+\item{genes}{character vector of genes}
+
+\item{cores}{number of cores to use when multiprocessing. Useful for large gene lists}
+}
 \description{
-Mouse wraper for geneSynonym
+Mouse wraper for \code{\link{geneSynonym}}
 }

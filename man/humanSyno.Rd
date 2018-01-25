@@ -2,10 +2,15 @@
 % Please edit documentation in R/synonym.R
 \name{humanSyno}
 \alias{humanSyno}
-\title{Human wraper for geneSynonym}
+\title{Human wraper for \code{\link{geneSynonym}}}
 \usage{
 humanSyno(genes, cores = 1)
 }
+\arguments{
+\item{genes}{character vector of genes}
+
+\item{cores}{number of cores to use when multiprocessing. Useful for large gene lists}
+}
 \description{
-Human wraper for geneSynonym
+Human wraper for \code{\link{geneSynonym}}
 }

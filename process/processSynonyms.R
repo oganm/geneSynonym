@@ -3,6 +3,7 @@ library(magrittr)
 library(git2r)
 library(dplyr)
 library(ogbox)
+library(glue)
 
 devtools::use_data_raw()
 
@@ -39,6 +40,11 @@ taxData %<>% filter(name_txt %in% c('Homo sapiens',
                                     'Drosophila melanogaster',
                                     'Macaca mulatta'))
 
+taxData %>% apply(1,function(x){
+    dataDocs = glue('#\' Synonym information for {x["name_txt"]}\n"syno{x["tax_id"] %>% trimws}"')
+}) %>% paste(collapse='\n\n') %>% writeLines('R/dataDocumentation.R')
+
+devtools::document()
 
 tax = taxData$tax_id
 
@@ -53,6 +59,8 @@ synos = sapply(1:nrow(geneInfo),function(i){
 })
 names(synos) = geneInfo$GeneID
 repo = repository('.')
+
+git2r::add(repo,path = 'R/dataDocumentation.R')
 
 # file generation
 for (i in tax){

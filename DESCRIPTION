@@ -2,12 +2,18 @@ Package: geneSynonym
 Type: Package
 Title: Quick access to gene synonym information
 Version: 1.0.2018.01.21
-Imports: parallel
+Depends: R(>= 3.1)
+Imports: parallel (>= 3.4.0)
 Suggests: testthat
-Date: 2015-06-16
-Author: Ogan Mancarci
-Maintainer: Ogan Mancarci <ogan.mancarci@gmail.com>
-Description: A pre-parsed version of gene_info file from NCBI for easy access to gene synonym information
-License: MIT
+Date: 2018-01-21
+Authors@R: person("Ogan", "Mancarci", email = "ogan.mancarci@gmail.com", role = c("aut", "cre"))
+BugReports: https://github.com/oganm/geneSynonym/issues
+URL: https://github.com/oganm/geneSynonym
+Description: A wrapper for gene synonyms listed by National Center for
+    Biotechnology Information ('NCBI'). This file updates nightly. CRAN version
+    of this package will not include the latest version. To access an up to date
+    version install it from github which is updated weekly. The original file can
+    be accessed from <ftp://ftp.ncbi.nlm.nih.gov/gene/DATA/gene_info.gz/>.
+License: MIT + file LICENSE
 LazyData: true
 RoxygenNote: 6.0.1
