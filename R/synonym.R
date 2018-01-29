@@ -7,6 +7,10 @@ teval = function(string){
 #' Mouse wraper for \code{\link{geneSynonym}}
 #' @param genes character vector of genes
 #' @param cores number of cores to use when multiprocessing. Useful for large gene lists
+#' @examples
+#' mouseSyno(c('Eno2','Mog'), tax = 10090)
+#' mouseSyno(c('Eno2',17441), tax = 10090)
+#' 
 #' @export
 mouseSyno = function(genes,cores=1){
     geneSynonym(genes,10090,cores)
@@ -15,6 +19,10 @@ mouseSyno = function(genes,cores=1){
 #' Human wraper for \code{\link{geneSynonym}}
 #' @param genes character vector of genes
 #' @param cores number of cores to use when multiprocessing. Useful for large gene lists
+#' @examples 
+#' geneSynonym(c('MOG','ENO2'), tax = 9606)
+#' geneSynonym(c('MOG',2026), tax = 9606)
+#' 
 #' @export
 humanSyno = function(genes,cores=1){
     geneSynonym(genes,9606,cores)
@@ -26,6 +34,10 @@ humanSyno = function(genes,cores=1){
 #' @param genes character vector of genes
 #' @param tax Species taxonomy ID
 #' @param cores number of cores to use when multiprocessing. Useful for large gene lists
+#' @examples
+#' geneSynonym(c('Eno2','Mog'), tax = 10090)
+#' geneSynonym(c('Eno2',17441), tax = 10090)
+#' geneSynonym(c('MOG','ENO2'), tax = 9606)
 #' @export
 geneSynonym = function(genes,tax,cores = 1){
     # I kept the single core sapply version in case installing parallel is a

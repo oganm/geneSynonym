@@ -14,3 +14,8 @@ mouseSyno(genes, cores = 1)
 \description{
 Mouse wraper for \code{\link{geneSynonym}}
 }
+\examples{
+mouseSyno(c('Eno2','Mog'), tax = 10090)
+mouseSyno(c('Eno2',17441), tax = 10090)
+
+}

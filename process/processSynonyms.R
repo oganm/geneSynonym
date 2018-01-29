@@ -73,6 +73,9 @@ for (i in tax){
     Sys.sleep(2)
 }
 
+devtools::document()
+git2r::add(repo,path = 'man/')
+
 # version update add date to the version as a revision
 version = ogbox::getVersion()
 version %<>% strsplit('\\.') %>% {.[[1]]}

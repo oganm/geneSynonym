@@ -14,3 +14,8 @@ humanSyno(genes, cores = 1)
 \description{
 Human wraper for \code{\link{geneSynonym}}
 }
+\examples{
+geneSynonym(c('MOG','ENO2'), tax = 9606)
+geneSynonym(c('MOG',2026), tax = 9606)
+
+}

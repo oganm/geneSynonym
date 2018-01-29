@@ -16,3 +16,8 @@ geneSynonym(genes, tax, cores = 1)
 \description{
 Given a list of genes and taxid, returns a data frame with corresponding synonyms to said genes. For mouse and humans just use humanSyno and mouseSyno
 }
+\examples{
+geneSynonym(c('Eno2','Mog'), tax = 10090)
+geneSynonym(c('Eno2',17441), tax = 10090)
+geneSynonym(c('MOG','ENO2'), tax = 9606)
+}
