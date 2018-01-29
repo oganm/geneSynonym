@@ -4,18 +4,16 @@
 \alias{mouseSyno}
 \title{Mouse wraper for \code{\link{geneSynonym}}}
 \usage{
-mouseSyno(genes, cores = 1)
+mouseSyno(genes)
 }
 \arguments{
 \item{genes}{character vector of genes}
-
-\item{cores}{number of cores to use when multiprocessing. Useful for large gene lists}
 }
 \description{
 Mouse wraper for \code{\link{geneSynonym}}
 }
 \examples{
-mouseSyno(c('Eno2','Mog'), tax = 10090)
-mouseSyno(c('Eno2',17441), tax = 10090)
+mouseSyno(c('Eno2','Mog'))
+mouseSyno(c('Eno2',17441))
 
 }

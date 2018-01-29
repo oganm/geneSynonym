@@ -4,18 +4,16 @@
 \alias{humanSyno}
 \title{Human wraper for \code{\link{geneSynonym}}}
 \usage{
-humanSyno(genes, cores = 1)
+humanSyno(genes)
 }
 \arguments{
 \item{genes}{character vector of genes}
-
-\item{cores}{number of cores to use when multiprocessing. Useful for large gene lists}
 }
 \description{
 Human wraper for \code{\link{geneSynonym}}
 }
 \examples{
-geneSynonym(c('MOG','ENO2'), tax = 9606)
-geneSynonym(c('MOG',2026), tax = 9606)
+humanSyno(c('MOG','ENO2'))
+humanSyno(c('MOG',2026))
 
 }

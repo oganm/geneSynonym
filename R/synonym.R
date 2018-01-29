@@ -6,26 +6,24 @@ teval = function(string){
 
 #' Mouse wraper for \code{\link{geneSynonym}}
 #' @param genes character vector of genes
-#' @param cores number of cores to use when multiprocessing. Useful for large gene lists
 #' @examples
-#' mouseSyno(c('Eno2','Mog'), tax = 10090)
-#' mouseSyno(c('Eno2',17441), tax = 10090)
+#' mouseSyno(c('Eno2','Mog'))
+#' mouseSyno(c('Eno2',17441))
 #' 
 #' @export
-mouseSyno = function(genes,cores=1){
-    geneSynonym(genes,10090,cores)
+mouseSyno = function(genes){
+    geneSynonym(genes,10090)
 }
 
 #' Human wraper for \code{\link{geneSynonym}}
 #' @param genes character vector of genes
-#' @param cores number of cores to use when multiprocessing. Useful for large gene lists
 #' @examples 
-#' geneSynonym(c('MOG','ENO2'), tax = 9606)
-#' geneSynonym(c('MOG',2026), tax = 9606)
+#' humanSyno(c('MOG','ENO2'))
+#' humanSyno(c('MOG',2026))
 #' 
 #' @export
-humanSyno = function(genes,cores=1){
-    geneSynonym(genes,9606,cores)
+humanSyno = function(genes){
+    geneSynonym(genes,9606)
 }
 
 
@@ -33,13 +31,12 @@ humanSyno = function(genes,cores=1){
 #' @description Given a list of genes and taxid, returns a data frame with corresponding synonyms to said genes. For mouse and humans just use humanSyno and mouseSyno
 #' @param genes character vector of genes
 #' @param tax Species taxonomy ID
-#' @param cores number of cores to use when multiprocessing. Useful for large gene lists
 #' @examples
 #' geneSynonym(c('Eno2','Mog'), tax = 10090)
 #' geneSynonym(c('Eno2',17441), tax = 10090)
 #' geneSynonym(c('MOG','ENO2'), tax = 9606)
 #' @export
-geneSynonym = function(genes,tax,cores = 1){
+geneSynonym = function(genes,tax){
     # I kept the single core sapply version in case installing parallel is a
     # problem somewhere.
     # if a gene name given and it is not on the list, it spews out a warning 
@@ -62,27 +59,11 @@ geneSynonym = function(genes,tax,cores = 1){
     if(length(genes)>25){
         synoData2 = teval(paste0('syno',tax)) %>% strsplit('[|]')
         synoData = synoData[synoData2 %>% unlist %>% {. %in% genes} %>% 
-                                relist(synoData2) %>% sapply(any) %>%
+                                utils::relist(synoData2) %>% sapply(any) %>%
                                 {. | names(synoData2) %in% genes}]
     }
     
-    if (cores == 1){
-        synos = lapply(genes,geneSearcher)
-        names(synos) = genes
-        return(synos)
-    } else {
-        # so that I wont fry my laptop
-        if(!is.null(parallel::detectCores)){
-            if (parallel::detectCores()<cores){ 
-                cores = parallel::detectCores()
-                warning(paste0('max cores exceeded\nset core no no ',cores))
-            }
-        } else{
-            warning('Could not detect number of cores. It\'s probably fine.')
-        }
-        options(warn=1)
-        synos = parallel::mclapply(genes, geneSearcher, mc.cores = cores)
-        names(synos) = genes
-        return(synos)
-    }
+    synos = lapply(genes,geneSearcher)
+    names(synos) = genes
+    return(synos)
 }
