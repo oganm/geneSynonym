@@ -57,6 +57,15 @@ geneSynonym = function(genes,tax,cores = 1){
         return(synonyms)
     }
     
+    # 25 comes from testing. Filtering for possible results saves lots of time 
+    # but only if input length > 25
+    if(length(genes)>25){
+        synoData2 = teval(paste0('syno',tax)) %>% strsplit('[|]')
+        synoData = synoData[synoData2 %>% unlist %>% {. %in% genes} %>% 
+                                relist(synoData2) %>% sapply(any) %>%
+                                {. | names(synoData2) %in% genes}]
+    }
+    
     if (cores == 1){
         synos = lapply(genes,geneSearcher)
         names(synos) = genes

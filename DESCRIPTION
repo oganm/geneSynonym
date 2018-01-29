@@ -1,9 +1,11 @@
 Package: geneSynonym
 Type: Package
 Title: Quick access to gene synonym information
-Version: 1.0.2018.01.28
+Version: 1.1.2018.01.28
 Depends: R(>= 3.1)
-Imports: parallel (>= 3.4.0)
+Imports: 
+    utils (>= 3.4.0),
+    magrittr (>= 1.5)
 Suggests: testthat
 Date: 2018-01-21
 Authors@R: person("Ogan", "Mancarci", email = "ogan.mancarci@gmail.com", role = c("aut", "cre"))
