@@ -7,7 +7,7 @@ Imports:
     utils (>= 3.4.0),
     magrittr (>= 1.5)
 Suggests: testthat
-Date: 2018-01-21
+Date: 2018-01-29
 Authors@R: person("Ogan", "Mancarci", email = "ogan.mancarci@gmail.com", role = c("aut", "cre"))
 BugReports: https://github.com/oganm/geneSynonym/issues
 URL: https://github.com/oganm/geneSynonym
