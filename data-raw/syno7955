@@ -12300,7 +12300,7 @@ rmnd1|zgc:113022
 sh3d19|zgc:113078
 fam241a|zgc:113201
 gfi1aa|gfi1.1|gfi1a|zgc:113277
-zgc:113305|mettl12
+zgc:113305|CS-KMT|cskmt|mettl12
 inhbab|inhbal|zgc:158348
 pcdhpsi2
 LOC553818
@@ -12323,7 +12323,7 @@ il17c|il17-3
 il17d|il17-4|zgc:194257|zgc:194303
 il17a/f3|il17-5|si:ch211-63o20.2
 il22
-ifng1-1|ifng1|si:ch211-266a5.1
+ifng1r|ifng1|ifng1-1|si:ch211-266a5.1
 crygm6
 crygm7
 cyp3a65|zgc:123110
@@ -12741,7 +12741,7 @@ mcm9|mcmdc1|si:ch211-112m17.2
 march2|si:ch211-197g15.3|zgc:158704
 orai2|si:dkey-261j4.7
 si:ch211-113e8.10
-si:dkey-22i16.3|fa93e10|wu:fa93e10
+enam|fa93e10|si:dkey-22i16.3|wu:fa93e10
 cps1|si:dkey-225d17.3
 clstn3|si:dkey-197a20.4
 itpripl2
@@ -14076,7 +14076,7 @@ kcnc3a
 cyp7a1b
 usp30|si:dkey-72n1.2
 enc1|si:dkey-35i22.1
-rangrf|Mog1|si:ch211-268m12.6|zmynd19
+rangrf|Mog1|RanGNRF|si:ch211-268m12.6|zmynd19
 inpp5d|si:ch73-194h10.1
 ambra1b|im:7146310
 LOC559107
@@ -19989,7 +19989,7 @@ zgc:153720
 ssuh2rs1|ssuh2|wu:fc17d03|zgc:153440
 uhmk1|zgc:153241
 foxred2|zgc:153216
-zgc:153595
+mosmob|zgc:153595
 rabggta|zgc:153107
 fdx1l|fdx2|zgc:153554
 zgc:154045
@@ -22450,7 +22450,7 @@ kcnd1|si:dkey-8e10.1
 ttn.1|TTN|hm:zeh1256r|im:6911926|im:7146708|si:dZ167C3.1|si:dz249n21.1|ttnb|ttnl|wu:fc09a12
 nr0b1|DAX
 barhl2|B-H2|wu:fq39g04|zgc:113948
-scpp6|si:dkey-22i16.6
+ambn|scpp6|si:dkey-22i16.6
 taar20f|si:ch211-249g19.9
 LOC100001713
 si:ch211-108p6.4
@@ -24520,7 +24520,7 @@ si:ch73-189n23.1
 zgc:173666
 zgc:173683
 zgc:173726
-zgc:173737
+zgc:173737|si:ch73-98g6.2
 zgc:173915|si:zfos-2330d3.5
 hsp70.1
 zgc:174162
@@ -27605,7 +27605,7 @@ LOC100535539
 LOC100535543
 si:dkey-34d22.5
 LOC100535550
-gb:eh551987
+mosmoa|gb:eh551987|mosmo
 LOC100535552
 si:ch211-133l5.4
 LOC100535555
