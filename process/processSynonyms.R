@@ -82,6 +82,8 @@ version %<>% strsplit('\\.') %>% {.[[1]]}
 ogbox::setVersion(paste(version[1],version[2],
                         format(Sys.Date(),'%y.%m.%d') %>% 
                             gsub(pattern = '\\.0','.',x=.),sep='.'))
+ogbox::setDate(format(Sys.Date(),'%Y-%m-%d'))
+
 git2r::add(repo,path ='DESCRIPTION')
 
 tryCatch({
