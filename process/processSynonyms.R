@@ -79,7 +79,9 @@ git2r::add(repo,path = 'man/')
 # version update add date to the version as a revision
 version = ogbox::getVersion()
 version %<>% strsplit('\\.') %>% {.[[1]]}
-ogbox::setVersion(paste(version[1],version[2],format(Sys.Date(),'%Y.%m.%d'),sep='.'))
+ogbox::setVersion(paste(version[1],version[2],
+                        format(Sys.Date(),'%y.%m.%d') %>% 
+                            gsub(pattern = '\\.0','.',x=.),sep='.'))
 git2r::add(repo,path ='DESCRIPTION')
 
 tryCatch({
