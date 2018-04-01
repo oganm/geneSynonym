@@ -8212,7 +8212,6 @@ cog2|zC8A9.2|zgc:56436
 gab1|fb11b01|fc66d01|wu:fb11b01|wu:fc66d01|zgc:56412
 pi4k2a|pi4kII alpha|pi4kii|wu:fc84f05|zgc:63646
 pdcd6ip|wu:fb70d03|wu:fy65h02|zgc:63638
-zgc:56382|wu:fb09a02
 epn1|fd51f09|wu:fd51f09|wu:fj90e03|zgc:56381
 uba2|sae2|sae2b|uble1b|wu:fi17g06|zgc:66354
 p4hb|psmb3|zgc:92596
@@ -9765,7 +9764,6 @@ im:7136559
 si:ch211-163l21.8|im:7136654
 pttg1ipb|pttg1ip|zgc:103708
 glrx|grx|wu:fc38f02|zgc:103707
-zgc:103700
 slc38a4|wu:fd51c05|zgc:103694|zgc:113830
 zgc:103692
 zgc:103681
@@ -11583,7 +11581,7 @@ zgc:110333|sb:cb574
 iscub|wu:fj08f02|zgc:110331
 psmb4|im:6909492|zgc:110330
 zgc:110329
-zgc:111983|wu:fi32a11
+zgc:111983|wu:fb09a02|wu:fi32a11|zgc:56382
 adss|AdSS 2|zgc:110327
 vsig8a|zgc:110326
 ssbp1|zgc:110325
@@ -12310,7 +12308,6 @@ ugt2a2|zgc:112490|zgc:112491
 dmc1|zgc:136628
 crygm2b|zgc:136629
 zbtb24|zfp450|zgc:194556
-LOC553956
 il10|zgc:194510|zgc:194518
 il17a/f1|il17-1
 il17c|il17-3
@@ -14704,7 +14701,7 @@ ankrd28b|ankrd28
 si:ch211-113a14.22
 sec23ip|si:dkey-192p21.3|wu:fa20e07|zgc:152883
 stag2b|wu:fc17g12
-tpi1b|DrTPI-B|cb179|wu:fb51c02
+tpi1b|DrTPI-B|TIM-B|cb179|wu:fb51c02
 znf346|im:7136406|wu:fc21c04|zgc:158750
 trir|gb:ct662408|si:ch73-152o7.1
 otpa
@@ -16386,7 +16383,7 @@ megf6a|si:dkey-25b23.2
 agap2|zgc:153779
 peak1|gb:eh551459|si:dkey-7n16.1
 c1qtnf6a|c1qntf6
-cel.2|celip|zgc:153861
+cel.2|celip|cell|zgc:112377|zgc:153861
 pja2|si:dkey-79c1.2
 si:dkey-172j4.3
 senp3b|fa03d07|wu:fa03d07
@@ -17058,7 +17055,7 @@ si:ch211-63o20.7|zgc:153238
 tfap2d|si:dkey-5e16.2|zgc:114196
 si:dkey-121a11.3
 crebbpa|cbp-b|crebbp|si:dkey-206l1.6|si:dkey-44g23.1
-si:dkey-166n8.9|eos|ikzf4
+ikzf4|eos|si:dkey-166n8.9
 mylk4a
 dub|zgc:153303
 pot1
@@ -19095,7 +19092,6 @@ pex16|im:6894523|zgc:112248
 eif2a|im:7145971|zgc:110460
 zgc:113983|si:dkeyp-46h3.6|zgc:113984|zgc:158629
 tbc1d20|si:dkey-102c8.7|zgc:110422
-cell|zgc:112377
 fam110b|wu:fk89a03|zgc:114139
 chordc1a|zgc:114108
 zgc:113984|wu:fi49h11
@@ -22009,7 +22005,7 @@ wdr53|si:ch73-39g4.3
 ptpn21|pez|ptpn14
 si:dkey-84o3.7
 si:dkey-248f6.3
-nupr1|wu:fd46g12
+nupr1b|nupr1|wu:fd46g12
 phospho2|zgc:172082
 LOC799640
 LOC799643
@@ -26145,7 +26141,7 @@ LOC100330575
 pimr62|si:dkey-43a14.5
 wdr60
 si:dkeyp-4c7.3
-mupr1l|si:ch211-160e1.5|si:ct573103.5
+nupr1a|mupr1l|nupr1l|si:ch211-160e1.5|si:ct573103.5
 LOC100330605
 si:ch211-95j8.3
 si:ch73-181m17.1
@@ -32400,7 +32396,7 @@ LOC103911531
 LOC103911534
 LOC103911535
 LOC103911536
-LOC103911540
+zgc:103700
 LOC103911542
 LOC103911545
 LOC103911550
