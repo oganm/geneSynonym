@@ -19,7 +19,7 @@ F56C11.6
 F56C11.3
 puf-10
 snpc-3.2
-marc-4
+marc-4|C53D5.3|CELE_C53D5.3
 ztf-3
 C53D5.1
 C53D5.5
@@ -55,7 +55,7 @@ eme-1
 sago-2
 vps-20
 Y65B4A.2
-Y65B4A.1
+cus-2
 Y65B4A.8
 Y65B4A.9
 hasp-2
@@ -277,7 +277,7 @@ nol-58
 W01B11.6
 W01B11.1
 ace-2
-Y44E3A.4
+cdap-2
 Y44E3A.6
 W05F2.3
 W05F2.6
@@ -427,7 +427,7 @@ eaf-1
 D1007.8
 C44E4.5
 ubr-4
-C44E4.4
+ssb-1
 acbp-1
 got-2.1
 lmd-2
@@ -1181,7 +1181,7 @@ B0379.1
 mut-16
 Y106G6D.2
 Y106G6D.4
-Y106G6D.7
+rbm-12
 F16C3.2
 C25A1.1
 sup-46
@@ -1353,8 +1353,8 @@ dnj-27
 eif-2Bbeta
 Y47H9C.8
 exo-3
-R09B3.2
-R09B3.3
+rbm-3.1
+rbm-3.2
 ubc-12
 mag-1
 hda-3
@@ -1680,7 +1680,7 @@ ptr-3
 C03H5.3
 nstp-4
 clec-10
-C24H12.5
+dnsn-1
 C24H12.4
 W10D9.2
 W10D9.3
@@ -2161,7 +2161,7 @@ fut-3
 ift-43
 mdt-26
 C25H3.7
-C25H3.8
+C25H3.11|CELE_C25H3.8
 C25H3.9
 eif-2D
 C25H3.10
@@ -2678,7 +2678,7 @@ mex-6
 zfp-2
 exc-7
 ugt-58
-E02H1.2
+eral-1
 tag-124
 E02H1.5
 E02H1.6
@@ -3685,13 +3685,13 @@ apc-11
 asb-1
 sel-2
 mab-21
-F10F2.2
+pfas-1
 clec-154
 ppm-2
 T23F11.2
 T23F11.4
 ppat-1
-T04A8.6
+nifk-1
 dnj-18
 sel-13
 clp-2
@@ -3752,7 +3752,7 @@ C27F2.9
 nca-2
 C27F2.10
 C27F2.1
-C27F2.8
+tmem-131
 R144.6
 R144.11
 larp-1
@@ -3773,7 +3773,7 @@ dpy-17
 sax-2
 tbx-2
 Y54H5A.2
-tag-262
+rbm-42
 Y54H5A.1
 oxy-4
 gars-1
@@ -3858,7 +3858,7 @@ rps-12
 pst-2
 rcan-1
 abi-1
-B0336.5
+arle-14
 B0336.13
 B0336.7
 lgg-3
@@ -3867,7 +3867,7 @@ swp-1
 rpl-23
 hpo-28
 B0336.12
-B0336.3
+rbm-26
 arf-1.2
 wrm-1
 egg-1
@@ -4040,7 +4040,7 @@ ubc-18
 lin-37
 ZK418.5
 tofu-7
-fubp-3.2
+fubl-2
 ZK418.2
 cpg-2
 B0280.7
@@ -4711,7 +4711,7 @@ unc-71
 cox-5A
 flp-14
 Y37D8A.16
-Y37D8A.21
+rbm-7
 Y37D8A.19
 epg-3
 unc-25
@@ -4830,7 +4830,7 @@ R02D3.3
 R02D3.4
 fnta-1
 cogc-8
-R02D3.1
+aass-1
 grl-19
 R02D3.7
 R02D3.8
@@ -4902,7 +4902,7 @@ lep-2
 immp-2
 Y55F3AM.9
 atg-3
-Y55F3AM.3
+rbm-39
 abhd-14
 dcap-1
 Y55F3AM.13
@@ -5196,7 +5196,7 @@ eif-1.A
 mpz-4
 tat-2
 Y17G9A.2
-T08B6.5
+sgnh-1
 Y9C9A.8
 E03H12.5
 E03H12.7
@@ -5442,7 +5442,7 @@ egl-19
 unc-82
 tes-1
 F13B6.3
-F55G1.5
+slc-25A18.2
 F55G1.9
 rod-1
 his-61
@@ -5658,7 +5658,7 @@ Y11D7A.3
 Y11D7A.10
 col-120
 flh-1
-hum-9
+nmy-3
 F49C12.7
 F49C12.9
 rpn-7
@@ -5863,7 +5863,7 @@ fmo-2
 R102.2
 R102.3
 R102.4
-R102.5
+allo-1
 ncx-3
 orc-5
 cyb-1
@@ -5941,7 +5941,7 @@ mttu-1
 B0035.15
 dnj-1
 B0035.13
-B0035.1
+znf-207
 dnj-2
 B0035.3
 pfd-4
@@ -5988,7 +5988,7 @@ lys-6
 F58B3.4
 mars-1
 F58B3.6
-F58B3.7
+rbm-17
 ttr-50
 ZK809.8
 prx-2
@@ -6043,7 +6043,7 @@ K08E4.2
 K08E4.6
 lex-1
 repo-1
-F11A10.7
+rbm-34
 F11A10.6
 mig-32
 cpsf-4
@@ -6759,7 +6759,7 @@ T05C3.6
 nhr-47
 hpo-15
 mms-19
-C24G6.2
+hir-1
 C24G6.8
 syp-2
 cft-1
@@ -7212,7 +7212,7 @@ tftc-3
 zhit-3
 hpo-40
 daf-36
-fubp-3.1
+fubl-1
 akt-1
 rop-1
 nhr-232
@@ -7613,7 +7613,7 @@ C56A3.4
 C56A3.6
 cav-2
 C56A3.8
-C50B8.1
+slrp-1
 bir-2
 C50B8.4
 C50B8.5
@@ -8089,7 +8089,6 @@ R57.2
 gcp-2.1
 nlp-64
 M02E1.1
-C04E7.3
 sor-3
 nrde-3
 ife-2
@@ -9224,7 +9223,7 @@ tbc-1
 F20D1.3
 emre-1
 rbg-1
-F20D1.9
+slc-25A18.1
 C18B12.6
 seb-3
 dsc-1
@@ -9378,7 +9377,7 @@ vap-1
 F11C7.2
 crb-1
 osm-11
-fubp-3.3
+fubl-3
 C36E6.2
 mlc-2
 mlc-1
@@ -10369,7 +10368,6 @@ npr-11
 C25H3.1
 C25H3.14
 flp-27
-C25H3.11
 C26B2.2
 nhr-258
 elpc-4
@@ -10468,7 +10466,7 @@ srt-58
 C29G2.6
 cec-9
 C30A5.4
-C30B5.4
+rbmx-2
 daf-37
 C30B5.6
 C30B5.7
@@ -10485,7 +10483,6 @@ C30F12.5
 trhr-1
 irld-23
 C30G12.1
-C30G12.3
 C30G12.4
 clec-199
 zipt-17
@@ -11100,7 +11097,6 @@ kvs-1
 C53C11.1
 C53C11.2
 C53C11.4
-C53D5.3
 acc-2
 C53D6.4
 C53D6.5
@@ -13759,7 +13755,7 @@ H23N18.5
 srw-59
 srw-58
 H24K24.2
-H24K24.4
+trm-2A
 srbc-40
 H25K10.1
 H25K10.2
@@ -14255,7 +14251,7 @@ K12H6.8
 K12H6.10
 K12H6.12
 M01A8.1
-fubp-3.4
+fubl-4
 srd-28
 srbc-75
 srbc-76
@@ -17478,7 +17474,7 @@ ZC395.11
 ZC404.1
 dmsr-10
 dmsr-11
-EGAP798.1|CELE_ZC411.1
+EGAP798.1
 npr-13
 ZC412.5
 nspa-3
@@ -18510,7 +18506,7 @@ lmtr-3
 ZK863.8
 fipr-1
 cdr-4
-W04D2.6
+rbm-25
 F53F4.16
 F20G2.6
 srw-145
@@ -18529,7 +18525,7 @@ F48F5.6
 F38A6.4
 C18A3.9
 M02E1.3
-C04E7.4
+C04E7.3|CELE_C04E7.4
 C44C1.6
 syx-6
 F35A5.1
@@ -19783,7 +19779,7 @@ srw-34
 magu-2
 mbd-2
 Y87G2A.20
-C44B7.2
+hrpl-1
 srw-102
 F10C1.9
 B0361.11
@@ -46730,3 +46726,21 @@ Y46D2A.6
 Y59A8B.24
 Y60C6A.3
 Y65D7A.1
+C03A3.9
+C04C11.25
+C09G1.7
+C30G12.10
+C30G12.11
+C32E8.13
+F28A10.13
+F32H2.15
+F54D8.10
+H38K22.9
+M02E1.4
+M04F3.7
+T22B7.22
+W08E3.5
+Y46B2A.4
+Y71F9AR.10
+Y95D11A.5
+ZC262.13
