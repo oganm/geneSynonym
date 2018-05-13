@@ -2368,7 +2368,7 @@ wu:fc06f12
 srpk1a|srpk1|wu:fc06h03|zgc:63789
 tmem154|fc06h06|wu:fc06h06|zgc:193686
 wu:fc06h07|fc06h07
-zcchc11|wu:fc06h08|wu:fy37g11
+tut4|wu:fc06h08|wu:fy37g11|zcchc11
 wu:fc07a08|fc07a08
 wu:fc07a09|fc07a09
 wu:fc07a12|fc07a12
@@ -3658,7 +3658,7 @@ slc26a11|wu:fd14d06|zgc:64158
 rhot1a|rhot1|wu:fd14e11|wu:fi14a05|zgc:55581|zgc:77063
 si:ch73-207h17.1|fd14f12|wu:fd14f12
 si:ch1073-263o8.2|fd14g04|wu:fd14g04
-fam46c|fd14g08|wu:fc56d11|wu:fd14g08|zgc:55510|zgc:66197
+tent5c|fam46c|fd14g08|wu:fc56d11|wu:fd14g08|zgc:55510|zgc:66197
 wu:fd15a03|fd15a03
 apba2b|apba2|fd15a04|wu:fd15a04
 tmem51b|fd15a06|wu:fd15a06|zgc:171659
@@ -3726,7 +3726,7 @@ mapkapk2a|mapkapk2|wu:fb30e10|wu:fc56c10|wu:fi03a01
 ercc4|fi03a05|wu:fi03a05|zgc:63468
 clec14a|wu:fi03a12|zgc:66439
 n4bp1|wu:fi03b05|zgc:66437
-fam212ab|inka1b|wu:fi03b07|zgc:66438
+inka1b|fam212ab|wu:fi03b07|zgc:66438
 qrsl1|wu:fi03b10
 psmd7|wu:fi03c01|zgc:55284
 wu:fi03c04|fi03c04
@@ -12124,7 +12124,7 @@ phlda2|zgc:110459
 ppil6|si:ch211-199m3.5|zgc:110463
 tmpob|wu:fa17b10|wu:fi69e10|zgc:110551
 trmu|zgc:110555
-papd4|zgc:110560
+tent2|papd4|zgc:110560
 ngly1|im:6895151|zgc:110561
 ftr43|zgc:110566
 pip5k1aa|pip5k1a|zgc:110576
@@ -13200,7 +13200,7 @@ kcnq5a|si:dkey-29l6.1
 tln2a|si:busm1-132m23.1|tln1l|tln2|zgc:152648|zgc:63613
 si:ch73-311h14.2|fb76a07|wu:fb76a07|wu:fd43h07
 cuedc1b|zgc:162271
-aim1a|im:7137367|si:ch73-374a13.2
+crybg1a|aim1a|im:7137367|si:ch73-374a13.2
 entpd5a
 si:ch211-1e14.1
 irf2bp1|si:dkey-223n17.3
@@ -13583,7 +13583,7 @@ hsph1
 tmem145|si:ch73-103b2.5
 ccdc175|gb:ex152876
 panx2|si:ch211-192n14.2
-papd7|TRF4-1b|pols
+tent4a|TRF4-1b|papd7|pols
 si:dkey-284p5.3
 itpa|si:ch73-18j6.1|si:dkey-19f21.1
 fndc1|si:ch211-198b3.2
@@ -15317,7 +15317,7 @@ slc4a1ap
 si:dkey-250l23.4
 ep400|si:ch211-227i14.2
 si:dkey-219c10.4
-zcchc6
+tut7|zcchc6
 LOC562362
 radil
 si:ch211-233f11.5
@@ -17030,7 +17030,7 @@ clvs2|si:ch211-199i15.4
 itgb1b.1|itgb1
 fam208ab|si:ch73-289a15.2
 fam83fa|si:dkey-165i8.3
-aim1b|fk93h12|si:ch211-152c2.2|wu:fc54b11|wu:fk93h12
+crybg1b|aim1b|fk93h12|si:ch211-152c2.2|wu:fc54b11|wu:fk93h12
 cdt1|fc37h07|im:7158083|wu:fc37h07|wu:fi38h09
 lama4|si:busm1-189a20.2|si:dkey-119m7.3
 zgc:114173|si:ch211-161n19.1
@@ -17745,7 +17745,7 @@ atp13a2|im:7147302|zgc:136762
 ntrk3a|trkC1
 atp2a3|si:dkey-205l20.1
 tub
-papd5|polsl
+tent4b|papd5|polsl
 LOC568680
 usp9
 card14
@@ -17834,7 +17834,7 @@ si:ch211-234p18.3|rasgrf1
 dusp13a|zgc:172281
 fut11|zgc:153537
 si:ch211-79k12.1|sc:d173
-fam46bb|si:dkey-181o6.1
+tent5bb|fam46bb|si:dkey-181o6.1
 zgc:158398|si:ch211-43o9.5
 mei4|si:ch211-241p10.1
 serpinb1l2|si:dkey-177p2.13|zgc:56075
@@ -17905,7 +17905,7 @@ kcnj1a.6|si:ch211-241l24.7|si:ch211-244h7.8
 plpp1a|im:7157400|ppap2a|si:ch73-96j23.1
 cnot4a|cnot4|si:dkey-230e6.2
 cd109|si:zfos-875e8.2
-srpr|id:ibd1064|wu:fd12f02
+srpra|id:ibd1064|srpr|wu:fd12f02
 dlg5a|dlg5|wu:fc28f03
 faah
 ptprh|SAP-1|si:dkey-197c15.5
@@ -18626,7 +18626,7 @@ si:ch211-126j24.1|im:7141386
 btr25|si:dkey-218f9.5
 mmp24|si:ch211-239j9.5|zC239J9.5
 dars2|si:dkey-21n10.1
-fam46ab|fam46a|zgc:171771
+tent5ab|fam46a|fam46ab|zgc:171771
 ankha|wu:fj64g09|zgc:110290
 si:dkey-258f14.3|im:7153933
 si:ch211-167b20.8
@@ -19668,7 +19668,7 @@ zgc:136538
 tle2c|zgc:136336
 si:ch211-160d20.3|fk35b03|wu:fk35b03|zgc:136299
 casd1|SOAT|si:dkey-104m9.2|zgc:136291
-fam212aa|inka1a|sb:cb528|wu:fk96h10|zgc:136369|zgc:158531
+inka1a|fam212aa|sb:cb528|wu:fk96h10|zgc:136369|zgc:158531
 cadm3|zgc:136589
 zgc:136308
 usp22|zgc:136342
@@ -20235,7 +20235,7 @@ ighv13-2
 gk5|im:7160691|wu:fc06f04|wu:fd15d09|wu:fk85h05|zgc:152983
 ubc|im:7042025|wu:fb37h06|zgc:153686
 osbpl9|zgc:154069
-fam46ba|cb982|fam46a|fam46b|wu:fc02e08|zgc:153970
+tent5ba|cb982|fam46a|fam46b|fam46ba|wu:fc02e08|zgc:153970
 sult2st3
 sult2st2
 s1pr5b|zgc:158362
@@ -26154,7 +26154,7 @@ tesmin|SPX2|mtl5|sb:eu861|si:dkeyp-88b11.3
 r3hdm2
 si:ch211-39f2.3
 cep164
-fam46aa
+tent5aa|fam46aa
 htr1e
 LOC100330683
 LOC100330690
@@ -30859,7 +30859,7 @@ LOC101886843
 LOC101886849
 LOC101886853
 si:cabz01007812.1
-fam212b|gb:eh544333|si:dkey-193l3.8
+inka2|fam212b|gb:eh544333|si:dkey-193l3.8
 si:dkey-288a3.2
 LOC101886860
 LOC101886861
