@@ -40,7 +40,7 @@ svila|sb:cb867|svil|wu:fd05a09
 skib|fc17g02|wu:fc17g02|wu:fk79g04
 cth1|cb266|fa18c01|wu:fa18c01|zfcth1
 mixl1|bon|bon/mixer|mix|mix-like
-ddx3b|etID309900.24|p110|p110a|pl10|pl10a|wu:fb43h11|wu:fy72b06
+ddx3xb|ddx3b|etID309900.24|p110|p110a|pl10|pl10a|wu:fb43h11|wu:fy72b06
 spi1b|cb1086|pu.1|pu1|sfpi1|si:by184l24.2|spi1
 lrh1
 frzb|cb291|fzb-1|fzb1|id:ibd5075|ik:tdsubc_2e7|sfrp3|xx:tdsubc_2e7
@@ -14843,7 +14843,7 @@ tbc1d2
 si:dkey-78l4.2
 si:dkey-208b23.5
 atp6v0a2b|si:ch211-106a19.2
-nlgn4a|nlgn4b
+nlgn4xa|nlgn4a|nlgn4b
 fam222ba|si:dkey-9e15.1
 ssna1|si:ch73-203i15.4
 nolc1|fd05f01|fi49h02|nolc1l|wu:fd05f01|wu:fi49h02
@@ -20958,7 +20958,7 @@ ccl27b
 si:ch73-266m14.1
 cplx3b|si:ch1073-122j16.1
 si:ch73-215d9.1|sb:eu253
-si:dkeyp-80c12.10
+atp5md|USMG5|si:dkeyp-80c12.10
 irbpl
 si:dkey-8k3.2
 LOC794642
@@ -21082,7 +21082,7 @@ LOC795227
 LOC795232
 znf1140|zgc:174694
 cnr2|cb2a|cb2b
-sdccag3|si:dkey-1o2.3
+entr1|sdccag3|si:dkey-1o2.3
 slc38a8b
 si:dkey-78a14.5
 si:dkey-222h21.5
@@ -21511,7 +21511,7 @@ ftr06|si:ch211-235o23.7
 LOC797394
 LOC797398
 LOC797403
-espl1|cds|espl1,|mp:zf637-3-001691|wu:fl55e11
+espl1|espl1,|mp:zf637-3-001691|wu:fl55e11
 cacng5a
 stambpa|stambp|zgc:66147
 znf668|si:rp71-1c10.3|wu:fi71b07|zgc:113112
@@ -24760,7 +24760,7 @@ olfcg1|si:dkey-245i2.13
 pimr108|si:ch211-254p10.3
 si:dkeyp-13d11.1
 si:dkey-77f5.4
-nlgn4b|nlgn4a
+nlgn4xb|nlgn4a|nlgn4b
 taar19e|si:ch211-139n6.16
 or125-6
 chmp6a|si:dkey-29j19.1

@@ -3283,7 +3283,7 @@ Plg|Ab1-346
 Slc44a1|Cdw92|Ctl1
 Hacl1|Hpcl2|Phyh2
 Slc2a8|Glut8
-Cnga3
+Cnga3|CNGgust
 Cnga4|Cgn2|rOCNC2
 Cnga1|Cncg|HCN
 Entpd6
@@ -10250,7 +10250,7 @@ Ptpn14
 Prox1
 Tmem206|RGD1359339
 Dtl|RGD1310439
-Diexf|Def
+Utp25|Def|Diexf
 Lamb3
 Cd34
 Zfp281
@@ -15762,7 +15762,7 @@ Tcrav8s8
 LOC364506
 Phf7
 Antxrl|RGD1563190
-Fam35a|RGD1310009
+Shld2|Fam35a|RGD1310009
 LOC364518
 Nono-ps1|RGD1563974
 LOC364524
