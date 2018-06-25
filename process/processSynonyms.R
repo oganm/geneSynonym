@@ -28,7 +28,7 @@ setnames(geneInfo,old = names(geneInfo),new=
 
 geneInfo = geneInfo[,c('Symbol','GeneID','Synonyms','tax_id')]
 
-taxData = fread('data-raw/taxdump/names.dmp',data.table=FALSE)
+taxData = fread('data-raw/taxdump/names.dmp',data.table=FALSE, sep = '\t',quote = "")
 taxData = taxData[c(1,3,5,7)]
 names(taxData) = c('tax_id','name_txt','unique_name','name_class')
 taxData %<>% filter(name_txt %in% c('Homo sapiens',
