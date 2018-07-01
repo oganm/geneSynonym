@@ -5062,7 +5062,7 @@ Taok1
 Lgr4|Gpr48
 Defa5|Defa
 Zfp689|Hit39|Znf689
-Mapk15|Erk7
+Mapk15|ERK-8|Erk7
 Zfand4|Anubl1|Rsd7
 Olr1361
 Olr287
@@ -7405,7 +7405,7 @@ RGD1559781
 Lrrtm3
 Supv3l1
 Stox1|RGD1310622
-Zup1|RGD1307672|Zufsp
+Zup1|DUB|RGD1307672|Zufsp
 Kpna5|Ipoa6
 Gprc6a
 Rfx6|Rfxdc1
@@ -9752,7 +9752,7 @@ Unc45b|Cmya4
 Rad51d|Rad51l3
 Fndc8|RGD1310708
 Slfn5
-Slfn13|Slfn8
+Slfn13|Slfn8|rSLFN13
 Slfn2
 Rasl10b
 Mmp28
@@ -11792,7 +11792,7 @@ Prkra|RAX
 Ccdc141
 Zfp385b|Zfp533
 Itga4
-Ssfa2
+Itprid2|Ssfa2
 Dusp19
 Ctnnd1|Catns
 Med19|RGD1311926
@@ -14207,7 +14207,7 @@ Edc4|LRRG00115|Nrn1l|RGD1309136
 Nfatc3|NFAT4
 Pla2g15|1-O-acylceramidesynthase|ACS|LLPL|LPLA2|Lypla3
 Prmt7|RGD1304869
-Terf2
+Terf2|Trf2
 Cog4
 Rfwd3|RGD1305243
 Tmem231|RGD1306153
@@ -25137,7 +25137,7 @@ LOC100216445
 Hexdc
 Gon7
 Zfp949
-Fam196a
+Insyn2|Fam196a
 Riiad1
 Spns2
 Tas1r2|Aldh4a1|Gpr71|Tr2
@@ -27095,7 +27095,7 @@ Klk1c4
 LOC100361456
 LOC100361457
 LOC100361458
-Fam196b
+Insyn2b|Fam196b
 LOC100361461
 LOC100361462
 Pate2
