@@ -11,8 +11,8 @@ teval = function(string){
 #' mouseSyno(c('Eno2',17441))
 #' 
 #' @export
-mouseSyno = function(genes){
-    geneSynonym(genes,10090)
+mouseSyno = function(genes, caseSensitive = TRUE){
+    geneSynonym(genes,10090,caseSensitive = caseSensitive)
 }
 
 #' Human wraper for \code{\link{geneSynonym}}
@@ -22,8 +22,8 @@ mouseSyno = function(genes){
 #' humanSyno(c('MOG',2026))
 #' 
 #' @export
-humanSyno = function(genes){
-    geneSynonym(genes,9606)
+humanSyno = function(genes, caseSensitive = TRUE){
+    geneSynonym(genes,9606,caseSensitive)
 }
 
 
@@ -36,7 +36,13 @@ humanSyno = function(genes){
 #' geneSynonym(c('Eno2',17441), tax = 10090)
 #' geneSynonym(c('MOG','ENO2'), tax = 9606)
 #' @export
-geneSynonym = function(genes,tax){
+geneSynonym = function(genes,tax, caseSensitive = TRUE){
+    
+    if(caseSensitive){
+        maybeLower = function(x){x}
+    }else{
+        maybeLower = function(x){tolower(x)}
+    }
     # I kept the single core sapply version in case installing parallel is a
     # problem somewhere.
     # if a gene name given and it is not on the list, it spews out a warning 
@@ -46,7 +52,11 @@ geneSynonym = function(genes,tax){
     
     geneSearcher = function(x){
         
-        synonyms = strsplit(synoData[grepl(paste0('(^|[|])','\\Q',x,'\\E','($|[|])'),synoData) | (names(synoData ) %in% x)],split = '[|]')
+        synonyms = strsplit(synoData[grepl(paste0('(^|[|])','\\Q',
+                                                  maybeLower(x),
+                                                  '\\E','($|[|])'),
+                                           maybeLower(synoData)) | 
+                                         (names(synoData) %in% x)],split = '[|]')
         if (length(synonyms)==0){
             synonyms = list(x)
             warning(paste0('Gene ',x,' could not be found in the list. Returning own name'))
@@ -58,9 +68,9 @@ geneSynonym = function(genes,tax){
     # but only if input length > 25
     if(length(genes)>25){
         synoData2 = teval(paste0('geneSynonym::syno',tax)) %>% strsplit('[|]')
-        synoData = synoData[synoData2 %>% unlist %>% {. %in% genes} %>% 
+        synoData = synoData[synoData2 %>% unlist %>% {maybeLower(.) %in% maybeLower(genes)} %>% 
                                 utils::relist(synoData2) %>% sapply(any) %>%
-                                {. | names(synoData2) %in% genes}]
+                                {. | names(synoData2) %in% genes}] # this line ads the ncbi ids to the search space
     }
     
     synos = lapply(genes,geneSearcher)
