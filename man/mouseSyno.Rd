@@ -4,7 +4,7 @@
 \alias{mouseSyno}
 \title{Mouse wraper for \code{\link{geneSynonym}}}
 \usage{
-mouseSyno(genes)
+mouseSyno(genes, caseSensitive = TRUE)
 }
 \arguments{
 \item{genes}{character vector of genes}

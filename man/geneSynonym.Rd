@@ -4,7 +4,7 @@
 \alias{geneSynonym}
 \title{Get synonyms of given genes}
 \usage{
-geneSynonym(genes, tax)
+geneSynonym(genes, tax, caseSensitive = TRUE)
 }
 \arguments{
 \item{genes}{character vector of genes}

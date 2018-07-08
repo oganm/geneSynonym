@@ -4,7 +4,7 @@
 \alias{humanSyno}
 \title{Human wraper for \code{\link{geneSynonym}}}
 \usage{
-humanSyno(genes)
+humanSyno(genes, caseSensitive = TRUE)
 }
 \arguments{
 \item{genes}{character vector of genes}
