@@ -4133,7 +4133,7 @@ usp14|wu:fk63d09|zgc:55949
 nfil3-5|E4BP4-5|si:dkey-52h23.1|wu:fk63e10
 wu:fk63g07|fk63g07
 nup54|wu:fp63g06|zgc:77551
-cox7a3|D244|cox7a2l|wu:fp89f04|zgc:66312
+cox7a2l|D244|cox7a3|wu:fp89f04|zgc:66312
 wrb|pwi|wu:ft06h05|zgc:101856
 ns:zf-a112|zf-a112
 ns:zf-a144|zf-a144
@@ -7818,7 +7818,7 @@ dzank1|wu:fj19d07|zgc:123116
 prim2|PRIM2A|wu:fa11h04|zgc:110727
 mob1bb|C2orf6|MOB1|MOBK1B|Mob4B|cb512|mobkl1ab|sb:cb512|zgc:111840
 zfpm1|FOG-1|fog1|si:dkey-20g6.1|si:dkey-38l12.1
-shtn1|gb:bc139653|si:ch73-56p18.4
+shtn1|gb:bc139653|shootin1|si:ch73-56p18.4
 nmu|si:rp71-4m17.1
 acta1b|actc|actc1|cfk|hm:zeh0631|zeh0631
 st3gal3b|im:6892850|siat6l|st3gal3l
@@ -9908,7 +9908,7 @@ phf21aa|im:7138823|si:dkey-23n7.9
 prkca|im:7139045|si:dkey-8l19.1
 spata18|im:7140046|zgc:110352
 im:7140066
-ch1073-291c23.1|im:7140198
+si:ch1073-291c23.1|ch1073-291c23.1|im:7140198
 lrrc8da|im:7140212|si:ch211-83f14.3
 fkbp16|im:7140236|si:ch211-13k12.1
 cenpf|im:7140452|im:7144238|im:7154719|im:7156761|si:ch211-152h14.2
@@ -11061,7 +11061,7 @@ zgc:112368|Ela1|si:dkey-57c15.3
 tmx3b|zgc:152808
 LOC553251
 pip4p1b|si:ch211-243g6.4|tmem55bb
-ssfa2|si:dkey-165l22.3
+itprid2|si:dkey-165l22.3|ssfa2
 slc6a19a.1|slc6a19a|zgc:162095
 klhl40a|kbtbd5|kbtbd5a
 LOC553259
@@ -12538,7 +12538,7 @@ raf1b
 hs3st1l1|3-OST-7|3OST7|HS3st7
 ccdc186|gb:eh562141
 zgc:171579
-si:dkey-280e21.3|zmp:0000001101
+si:dkey-280e21.3|shootin3|shtn3|zmp:0000001101
 ube4a|zgc:162146
 prkd1|si:dkeyp-47g2.1
 si:dkey-103i16.6
@@ -14233,7 +14233,7 @@ rabl2|si:dkeyp-1h4.2
 igf3|IGF-3
 rubcnl|si:ch211-260b17.6
 trim35-21|si:ch211-175l6.8
-pcnxl2|si:ch211-120p12.4
+pcnx2|pcnxl2|si:ch211-120p12.4
 ezrb|ezr|vil2|wu:fc05c03|wu:fj31d06
 zgc:171750|wu:fd20f07
 si:ch211-157c3.4|fb12c06|fb52f02|wu:fb12c06|wu:fb52f02
@@ -14550,7 +14550,7 @@ rnf19b|si:rp71-45k5.9
 si:ch211-168n16.1
 enpp1|si:ch211-142e24.2|zgc:136238
 phka1b|si:dkey-22f5.10
-si:ch211-1o7.3|zmp:0000000558
+si:ch211-1o7.3|shootin2|shtn2|zmp:0000000558
 si:dkey-283b1.7
 trhde.2|si:ch211-198g19.1
 arsk|zgc:153019
@@ -15025,7 +15025,7 @@ mms19
 kdm6bb|jmjd3|kdm6b|si:ch211-237l4.7|zC237L4.7
 dnai2a|zgc:162235
 grb7|si:ch211-253b1.3
-pcnxl4|pcnx4|zgc:158219
+pcnx4|pcnxl4|zgc:158219
 si:dkey-243i1.1|wu:fi75d06
 nos2b|inosb
 si:dkey-154p10.3|fc19g04|wu:fc19g04
@@ -16398,7 +16398,7 @@ arl8a|fe25e11|si:ch1073-204j4.2|wu:fe25e11
 zgc:158328
 esyt1a|si:ch211-150a20.1
 ppfia3
-lrmp|si:dkey-172o10.2|si:dkey-172o10.3|si:dkey-172o10.4
+lrmp|fi05h08|si:dkey-172o10.2|si:dkey-172o10.3|si:dkey-172o10.4|wu:fi05h08
 si:dkeyp-20g2.3|si:dkeyp-20g2.1|si:dkeyp-20g2.2
 tmc1|si:dkey-229d2.1
 scn4bb|sb:cb973|scn4b.2|si:ch211-139a5.5
@@ -18077,7 +18077,7 @@ gldn|colm
 slc35f3a|slc35f3|zgc:171853
 zgc:91849|si:dkey-11f4.15
 ppat|im:6894693|si:dkeyp-117h8.5|wu:fb61f03|wu:fc28b09
-si:dkey-11f4.14
+si:dkey-11f4.14|CD58
 atp13a3
 si:dkeyp-117h8.4|fi40f05|sb:cb573|wu:fa20h06|wu:fi40f05
 mmp16b|si:ch211-261f3.1
@@ -20059,7 +20059,7 @@ zgc:175107
 si:dkeyp-32g11.8
 si:ch211-281g13.4
 bahcc1b|bahcc1|im:7138780|unm_sa874
-pcnx
+pcnx1|pcnx
 ldb3a|ZASP|cypher|hm:zehn1639|ldb3|zehn1639
 nrde2|c14orf102
 si:dkey-95h12.1
@@ -20851,7 +20851,7 @@ cdx4|CHUNP6923|cad1|cb546|cdx1|id:ibd1215|id:ibd2812|id:ibd5107|kgg|kugelig
 rem2|si:ch211-119o8.5|wu:fb02c07
 LOC798286
 pdzrn4|si:dkey-240a12.3
-LOC798290
+ms4a17a.2|si:dkey-204h11.5|zgc:194546
 atp5f1e|atp5e|si:ch211-122i22.5
 frmpd3
 si:dkey-34k9.3
@@ -23408,7 +23408,7 @@ zgc:162989
 dnajb12b|zgc:163044
 dtx4|zgc:163052
 bdh1|zgc:163053
-tnfrsf1b|rank|zgc:163064
+tnfrsf1b|rank|tnfr2|zgc:163064
 zgc:163073
 rgs13|zgc:163081
 jpt1a|hn1|hn1a|zgc:163138
@@ -23530,7 +23530,7 @@ or137-7
 or135-2
 or102-6p
 or121-2p
-or136-2p
+or136-2|or136-2p
 or139-1p
 or140-1p
 or113-3
@@ -25808,7 +25808,7 @@ wdr63
 si:ch1073-325m22.2|fk49e04|uqcr11|wu:fk49e04
 LOC100333141
 tyrp1a|tyrp1
-LOC100333146
+LOC100333146|VPRBP
 cpeb4b
 gxylt1a
 nav2a|nav2
@@ -26214,7 +26214,7 @@ galr2a|si:ch211-250n8.2
 plpp4|ppapdc1a|si:dkey-173p11.1
 si:ch211-114c17.1
 LOC100334800
-ccdc129|si:ch211-56a11.1
+itprid1|ccdc129|si:ch211-56a11.1
 mon2|fc16c07|wu:fc16c07
 pimr209|si:dkey-278k10.4
 LOC100334818
@@ -31523,7 +31523,7 @@ si:dkeyp-51f12.3
 si:ch211-222n22.1
 si:dkey-58f6.2
 si:dkey-114l24.2
-pcnxl3|si:ch211-196o14.4
+pcnx3|pcnxl3|si:ch211-196o14.4
 si:ch1073-75o15.3
 si:dkey-211g8.8
 hhla2a.2|si:ch211-244c8.2
