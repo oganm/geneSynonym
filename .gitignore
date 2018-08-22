@@ -6,3 +6,4 @@ auth
 dummy
 gene_info
 taxdump*
+.httr-oauth

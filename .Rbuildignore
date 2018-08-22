@@ -4,3 +4,4 @@
 ^\.travis\.yml$
 README.rmd
 ^process
+^\.httr-oauth$
