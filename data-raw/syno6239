@@ -414,7 +414,7 @@ eri-7
 eri-6
 gcy-28
 mrpl-19
-Y119C1B.5
+rnf-145
 bet-1
 Y119C1B.1
 D1007.15
@@ -624,9 +624,9 @@ csn-2
 B0025.4
 vps-34
 C27A12.2
-C27A12.6
-C27A12.7
-ari-1
+ari-1.3
+ari-1.2
+ari-1.1
 C27A12.9
 ZK484.4
 haf-9
@@ -1606,7 +1606,7 @@ sur-2
 F39B2.3
 uev-1
 hinf-1
-K11B4.1
+mrps-27
 blos-9
 smp-1
 Y54E5B.2
@@ -1981,7 +1981,7 @@ clec-135
 C01F1.6
 C01F1.3
 sco-1
-C01F1.1
+gtf-2F1
 Y52E8A.2
 H20J04.6
 mog-2
@@ -2032,7 +2032,7 @@ F41C3.8
 F41C3.11
 F41C3.6
 F41C3.5
-F41C3.4
+eas-1
 acs-11
 F41C3.2
 C27D9.1
@@ -2297,7 +2297,7 @@ ift-74
 C18H9.3
 C18H9.5
 rpy-1
-T14B4.19|CELE_T14B4.7
+T14B4.19
 dpy-2
 T14B4.5
 T14B4.3
@@ -2445,7 +2445,7 @@ cki-1
 cki-2
 acr-7
 T09A5.5
-T09A5.7
+mdmh-35
 cec-3
 sds-22
 lin-5
@@ -2850,7 +2850,7 @@ cey-1
 F33A8.4
 sdhd-1
 unc-53
-C09H10.10
+nbs-1
 rpl-36.A
 nuo-1
 nasp-1
@@ -2869,7 +2869,7 @@ plpr-1
 T06D8.2
 cox-15
 cchl-1
-T06D8.7
+fndc-1
 rpn-9
 T06D8.9
 T06D8.10
@@ -2918,7 +2918,7 @@ B0334.5
 age-1
 mdt-8
 F54D5.12
-F54D5.11
+gtf-2E2
 F54D5.9
 F54D5.7
 F54D5.15
@@ -3321,7 +3321,7 @@ Y55B1BL.1
 stim-1
 cec-8
 Y55B1BR.2
-F10C5.2
+nemp-1
 mat-3
 unc-45
 F30H5.3
@@ -3346,7 +3346,7 @@ T17H7.1
 T17H7.7
 ptl-1
 cyn-6
-F42G9.1
+ppm-1.G
 rps-29
 trpp-11
 daf-7
@@ -4315,7 +4315,7 @@ gst-1
 lin-12
 far-1
 far-2
-F02A9.10|CELE_F02A9.4|F02A9.4
+F02A9.10|CELE_F02A9.4|mrpl-44
 glp-1
 cya-1
 ced-11
@@ -4427,7 +4427,7 @@ K11H3.3
 gpdh-2
 alg-4
 cyld-1
-F40F12.7
+cbp-3
 ttr-2
 K03H1.5
 K03H1.9
@@ -4446,11 +4446,11 @@ T16G12.3
 T16G12.8
 ekl-6
 T16G12.6
-T16H12.4
+gtf-2H2C
 bath-43
 kel-10
 vps-29
-ZK1128.4
+gtf-2H3
 ham-3
 ttll-4
 nac-3
@@ -4687,7 +4687,7 @@ Y111B2A.25
 Y111B2A.10
 epc-1
 Y111B2A.12
-Y111B2A.13
+gtf-2A2
 pqn-80
 tpst-1
 taf-7.2
@@ -4825,7 +4825,7 @@ pnc-1
 csn-3
 Y38C1AA.1
 prdx-6
-R02D3.3
+gtf-2H1
 R02D3.4
 fnta-1
 cogc-8
@@ -4848,7 +4848,7 @@ ears-2
 tag-261
 T07A9.10
 nog-1
-T07A9.8
+rrp-8
 gpa-4
 kgb-1
 T07A9.12
@@ -5085,7 +5085,7 @@ taf-6.2
 Y37E11AL.3
 Y37E11AL.2
 Y37E11AL.1
-Y37E11AM.4|CELE_Y37E11AM.3
+Y37E11AM.4
 Y37E11AM.2
 smgl-2
 nape-2
@@ -5268,7 +5268,7 @@ fem-1
 drp-1
 T12E12.3
 cec-6
-T12E12.1
+ari-2
 fkh-7
 C39H7.1
 csn-5
@@ -5741,7 +5741,7 @@ ssp-10
 ssq-1
 npp-1
 K07F5.14
-K07F5.22|CELE_K07F5.15
+K07F5.22
 nhr-4
 F32B6.3
 mccc-1
@@ -5755,7 +5755,7 @@ F25H8.2
 spe-29
 gon-1
 dhp-2
-C47E12.7
+rrp-1
 mam-2
 uba-1
 pyp-1
@@ -6156,7 +6156,7 @@ B0564.7
 best-1
 unc-30
 B0564.9
-F09E8.2
+crld-1
 msh-5
 lev-1
 F58D2.2
@@ -6228,7 +6228,7 @@ sas-6
 Y45F10D.7
 rga-5
 vamp-8
-B0513.5
+prdh-1
 B0513.4
 rpl-29
 thoc-7
@@ -6278,7 +6278,7 @@ Y57G11C.8
 Y57G11C.9
 gdi-1
 coq-3
-Y57G11C.1147|CELE_Y57G11C.12
+Y57G11C.1147
 arl-8
 Y57G11C.14
 sec-61
@@ -6307,7 +6307,7 @@ Y73F8A.24
 ntl-11
 Y73F8A.27
 Y73F8A.26
-tag-349
+ari-1.4
 Y73F8A.35
 Y105C5A.1
 Y105C5A.13
@@ -6340,7 +6340,7 @@ clec-194
 map-2
 mel-46
 lsy-13
-T06A10.3
+gtsf-1
 nep-23
 Y116A8C.9
 dct-13
@@ -6367,7 +6367,7 @@ flp-17
 cnnm-1
 Y116A8B.1
 ZK550.3
-ZK550.4
+gtf-2E1
 ZK550.6
 atgp-1
 gln-5
@@ -7078,7 +7078,7 @@ H14N18.4
 unc-23
 T19A5.3
 gck-1
-T19A5.1
+ttc-17
 nhr-44
 F59E11.7
 F59E11.5
@@ -7256,14 +7256,14 @@ ugt-33
 C35A5.3
 C35A5.8
 F25D1.3
-ppm-1
+ppm-1.A
 F32G8.3
 best-14
 cat-4
 vps-54
 del-6
 mics-1
-T21C9.4
+erh-1
 lpd-9
 T21C9.6
 T21C9.9
@@ -7302,7 +7302,7 @@ F32D8.7
 F58B4.5
 F17C11.12
 F17C11.11
-F17C11.26|CELE_F17C11.17
+F17C11.26
 col-153
 F17C11.4
 F17C11.7
@@ -7790,7 +7790,7 @@ ech-1.1
 dhs-23
 T06E6.1
 cyb-3
-T23F1.5
+rocf-1
 dpf-1
 C06B8.2
 rpl-38
@@ -7952,7 +7952,7 @@ Y39B6A.42
 mrps-35
 reps-1
 Y39B6A.37
-Y39B6A.36
+gtf-2F2
 tgt-2
 Y39B6A.34
 Y39B6A.33
@@ -8469,7 +8469,7 @@ Y34B4A.6
 Y34B4A.9
 Y34B4A.5
 Y34B4A.4
-Y34B4A.8
+rga-8
 vps-41
 ags-3
 sto-2
@@ -8689,7 +8689,7 @@ dhs-29
 F27D9.2
 stn-2
 unc-18
-C53C9.2
+clik-2
 spp-14
 vit-1
 deg-1
@@ -9192,7 +9192,7 @@ slt-1
 csq-1
 hch-1
 F40E10.6
-tag-53
+atrn-1
 tsp-8
 C05G5.2
 C05G5.3
@@ -9241,7 +9241,7 @@ T10B10.3
 T10B10.4
 phat-6
 snt-7
-H03A11.1
+famk-1
 H03A11.2
 piki-1
 F46F2.3
@@ -9450,7 +9450,7 @@ clec-52
 B0222.1
 pitr-2
 pitr-3
-tag-38
+spl-2
 B0222.5
 B0228.1
 trx-1
@@ -10274,7 +10274,7 @@ C18H9.6
 C23F12.3
 C23G10.2
 C23G10.5
-C23G10.6
+ugt-66
 C23G10.10
 C23G10.11
 ascc-1
@@ -10463,7 +10463,7 @@ C29G2.3
 srt-4
 srt-58
 C29G2.6
-cec-9
+heri-1
 C30A5.4
 rbmx-2
 daf-37
@@ -10785,11 +10785,11 @@ C41H7.1
 C41H7.2
 clec-3
 sre-14
-C42C1.2
+ppm-1.H
 C42C1.3
 tag-335
 C42C1.9
-C42C1.19|CELE_C42C1.10
+C42C1.19
 C42D4.1
 clec-179
 C42D4.13
@@ -10875,7 +10875,7 @@ str-255
 srbc-19
 C46A5.1
 del-7
-C46A5.5
+dsb-3
 C46A5.6
 rdl-1
 C46C2.3
@@ -11531,7 +11531,7 @@ F09E5.9
 F09E5.11
 F09E5.12
 agt-2
-F09E8.1
+spe-43
 scl-14
 nas-14
 F09E10.5
@@ -12171,7 +12171,7 @@ F26D2.14
 F26D2.15
 str-187
 lhfp-4
-F26D11.20|CELE_F26D11.1
+F26D11.20
 F26D11.2
 F26D11.4
 clec-216
@@ -12387,7 +12387,7 @@ F32H5.4
 srg-46
 srx-125
 nlp-18
-F33A8.6
+ilkp-1
 col-83
 F33C8.2
 F33C8.4
@@ -13904,7 +13904,7 @@ K03D7.8
 K03D7.9
 srw-32
 neto-1
-K03E5.2
+clik-3
 ncs-3
 mksr-1
 K03F8.t1
@@ -15250,7 +15250,7 @@ mrps-18B
 kin-5
 T14A8.2
 aex-2
-T14B4.2
+mrps-18.C
 T14B4.8
 T14B4.9
 T14B4.t1
@@ -15288,7 +15288,7 @@ T15D6.8
 T15D6.9
 T15D6.10
 T15D6.11
-T15H9.2
+hal-3
 hlh-6
 T15H9.4
 T15H9.5
@@ -16597,7 +16597,6 @@ Y49F6A.5
 cyh-1
 fbxb-112
 sdz-32
-Y49F6B.6
 Y49F6B.8
 srz-5
 bath-8
@@ -16670,7 +16669,7 @@ Y51H7BR.4
 Y51H7BR.t1
 Y51H7C.1
 scl-17
-Y51H7C.5
+alkb-1
 Y51H7C.8
 Y51H7C.10
 Y51H7C.12
@@ -16750,7 +16749,7 @@ Y54E10BL.3
 nhr-239
 rbc-2
 Y54F10AR.1
-Y54F10BM.1
+ppm-1.D
 fbxa-39
 fbxa-9
 Y54F10BM.6
@@ -16777,7 +16776,7 @@ Y54G11A.1
 Y54G11A.4
 srh-41
 dmsr-6
-Y55B1AL.2
+gtf-2H5
 Y55B1AR.3
 Y55B1AR.4
 Y55B1BR.1
@@ -17241,7 +17240,7 @@ Y102E9.3
 Y102E9.t1
 Y102F5A.1
 nhr-41
-Y104H12D.3
+spl-3
 pqn-76
 abu-5
 pqn-78
@@ -18334,7 +18333,7 @@ col-93
 col-94
 R09E10.9
 Y67H2A.10
-CD4.3
+mrpl-48
 E02A10.4
 ZC116.1
 grsp-1
@@ -18849,7 +18848,7 @@ M106.6
 K07C10.2
 T06D8.11
 B0334.12
-2RSSE.1
+rga-9
 F30H5.4
 Y71D11A.7
 C54C6.6
@@ -19029,7 +19028,7 @@ F17B5.6
 fbxa-127
 Y18H1A.15
 hst-3.2
-F34D6.7
+nspf-1
 Y54G2A.38
 F41G3.3
 C08H9.15
@@ -19043,7 +19042,7 @@ C09F12.3
 srz-72
 F09C6.14
 Y105E8A.25
-Y46G5A.35
+alkb-7
 ttr-49
 nspb-8
 R07E5.17
@@ -19240,7 +19239,7 @@ Y7A5A.11
 srm-5
 K08F8.7
 mrpl-39
-F34D6.8
+nspf-2
 C25B8.8
 srz-38
 mir-251
@@ -19479,7 +19478,7 @@ ZK563.7
 Y59E9AL.8
 sra-35
 M153.4
-F34D6.9
+nspf-3
 Y54G2A.36
 F40H7.12
 C54F6.15
@@ -20244,7 +20243,6 @@ poml-4
 ZK622.5
 T10D4.14
 F26G1.10
-T28D9.12
 metl-2
 Y53F4B.45
 W08F4.13
@@ -20478,7 +20476,7 @@ C07A9.14
 Y116A8C.50
 Y24D9A.9
 Y67A10A.11
-Y62E10A.23|CELE_Y62E10A.11
+Y62E10A.23
 Y43F4B.12
 K08E4.7
 VY10G11R.2
@@ -20806,7 +20804,7 @@ C08H9.16
 F38A6.5
 irld-51
 Y11D7A.19
-F17B5.9
+rgba-1
 C05A9.4
 D1081.12
 mir-1820
@@ -22795,7 +22793,6 @@ T10B9.14
 cyp-13A9
 T10B9.13
 ZK938.9
-ZK938.8
 ZK938.10
 C08H9.18
 C08H9.9
@@ -22806,7 +22803,6 @@ R53.10
 R53.9
 R53.11
 ZK892.9
-ZK892.8
 F52H3.10
 F52H3.9
 21ur-14218
@@ -46841,7 +46837,10 @@ Y73B6A.17
 Y75B8A.63
 Y92H12BL.6
 ZC328.8
-ZC410.10
+mrpl-42
 ZK377.15
 ZK617.26
 ZK856.19
+F59F4.6
+R03H10.12
+ZK177.13
