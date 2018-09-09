@@ -1210,7 +1210,7 @@ Jag1
 Jag2
 Myog
 Strn
-Matr3|P130/MAT3
+Matr3|P130/MAT3|snhg4
 Ucn
 Mstn|Gdf8
 Capn1
@@ -2443,7 +2443,7 @@ Snd1|SND p102
 Ntsr2
 Hand2
 Rpl28
-Bad
+Bad|Bad_v1|Bad_v2
 Rpl30
 Hist3h2a|H2a
 Hist1h2bl|H2b
@@ -21433,7 +21433,7 @@ Tpcr12
 Defb37
 Defb38
 Bex4-ps1|Bex4p
-Rhoxf10|Rhox10
+Rhox10|Rhoxf10
 Ggta1l1|Ggta1|Glt6d1
 Rbm12
 Cd99
