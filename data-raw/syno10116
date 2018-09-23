@@ -193,7 +193,7 @@ Hprt1|Hgprtase|Hprt
 Hspa8|Hsc70
 Hsd3b5|Hsd1|Hsd3b|RATHSDI
 Hspb1|Hsp25|Hsp27
-Hspa1a|HSP70.1|HSP72|Hsp70-1|Hsp70-2|Hspa1|Hspa1b|Hspa2
+Hspa1a|HSP70.1|HSP70.2|HSP72|Hsp70-1|Hsp70-2|Hspa1|Hspa1b|Hspa2
 Htr1a|5HT1A|RAT5HT1A
 Iapp
 Ibsp|Bsp
@@ -518,7 +518,7 @@ RT1-S2|RT1.S1
 Tacr2|Tac2r
 Lta|Tnfb
 Vars|Bat6|G7a|TrsVal|Vars2
-Scgb2a1|Psbp1
+Scgb2a1|C3.1|Psbp1|Psbpc3|Scgb2a2
 Cyp2c12|Cyp2c40|P450pb1|RATP4515B2|RATP4515B8
 Snap25|SNAP-25B|SNAP-25a
 Semg1|RATSVPIIA|SVPIIA|SVS2P|Svp1|Svs2|Svs2p2
@@ -1527,7 +1527,7 @@ Lcn5|Erabp
 Kcnk3|Task-1|rTASK
 Pdha1
 Vipr2
-Myh6|Myhca
+Myh6|MyHC-beta|MyHC-slow|Myh7|Myhca|Myosin-7
 Myh7|Bmyo|Myhcb|myHC-beta|myHC-slow
 Fcgrt|FcRn
 Grik1|GluK1|GluR5
@@ -2054,7 +2054,7 @@ Rapgef3|Epac
 Twist2|Dermo1
 Smad5|Madh5
 Sik1|Sik|Snf1lk
-Arhgef1|Lsc
+Arhgef1|Lbcl2|Lsc
 Synpo
 Serpinb2|Pai2a
 Kcnv1|Kv8.1
@@ -2645,7 +2645,7 @@ Camkv|1G5
 Mrs2|Mrs2l|Rpt
 Secisbp2|Sbp2
 Duox2|Thox2
-Mepe
+Mepe|OF45
 Slc27a5|BAL|rBAL-1
 Pigm|GPI-MT-I
 Fgr|p55-Fgr
@@ -3786,7 +3786,7 @@ Epb41l3|Epb4.1l3|Kiaa0987
 Ube2n
 Slc7a9
 Gp1bb
-Sept5|CDCrel-1|CDCrel-1A|Pnutl1
+Sept5|CDCrel-1|CDCrel-1A|GPIb-beta|GPIbB|Pnutl1
 B3gnt5
 Pcdha4|Cnr1|Pcdha1|Pcdha10|Pcdha11|Pcdha12|Pcdha13|Pcdha2|Pcdha5|Pcdha6|Pcdha7|Pcdha8|Pcdha9|Pcdhac1|Pcdhac2|cnr5|rCNRv01|rCNRv02|rCNRv05|rCNRv06|rCNRv07|rCNRv08|rCNRv09|rCNRv10|rCNRv11|rCNRv12|rCNRv13|rCNRvc1|rCNRvc2
 Pcdha13|Cnr5
@@ -13184,7 +13184,7 @@ Mlph
 Klhl30|RGD1309644
 Hes6
 Asb1
-Ndufa10l1|Ndufa10
+Ndufa10l1|CI-42kD|Ndufa10
 Olr1346|ratchr9-91970057-91971028_ORF
 Sned1|IRE-BP1
 Farp2
@@ -13672,7 +13672,7 @@ Jmjd8|RGD1307381
 Arhgdig
 Fam234a|Itfg3|RGD1311484
 Luc7l
-Hba2|Glnc2|Glnc3
+Hba2|Glnc2|Glnc3|Hba-a1|Hba1
 Nprl3|Mare|RGD1308665
 RGD1311343
 Smim23|RGD1306625
@@ -16115,7 +16115,7 @@ Olr1693
 Olr1723-ps|ratchr20-1183141-1183751_ORF
 RT1-M6-2
 Trim40|Rnf35
-Arrb2-ps
+Arrb2-ps|Arrb2
 RT1-DOb|DOb|H2-Ob|RT1-Bb2
 Umodl1|RGD1566039
 Tspear|RGD1563108
@@ -19370,7 +19370,7 @@ Elovl2
 C17h6orf52|RGD1562963
 RGD1563601
 Fam217a
-Tubb2a
+Tubb2a|Tubb2b
 Mboat1|RGD1565521|RGD1565561
 RGD1561310
 Tdp2|Ttrap
@@ -20365,7 +20365,7 @@ Ccdc184
 Or10ad1|RGD1562157
 Olr1877|RGD1560560
 H1fnt
-Tuba1b|RGD1565476
+Tuba1b|RGD1565476|Tuba1|Tuba1a
 Fam186b|RGD1559522
 RGD1562494
 RGD1563200
@@ -23435,7 +23435,7 @@ LOC688340
 LOC688352
 LOC688362
 LOC688363
-Cox7a2l2
+Cox7a2l2|Cox7a2|Cox7a3|Cox7al
 LOC688388
 LOC688389
 LOC688390
@@ -29610,7 +29610,7 @@ LOC100911790
 LOC100911793
 LOC100911794
 Erich6b
-LOC100911796
+LOC100911796|Adora3|TGPCR1
 LOC100911797
 Seh1l
 LOC100911800
