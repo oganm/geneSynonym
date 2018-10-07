@@ -1635,7 +1635,7 @@ Klrc1|rNKG2A
 Klrc2|Nkg2E|rNKG2C
 Mcm6|Mcmd6
 Scn1b
-C1qb
+C1qb|Adia
 Minpp1
 Gabrd|GABAA-RD
 Pde1b|Aop2|Pde1b1
@@ -2179,7 +2179,7 @@ Mmp8
 Prlh|Prh|prrp
 Fgf14|Fhf4
 Pter|Rpr-1|Rpr1
-Hsd17b10|Hadh2
+Hsd17b10|ABAD|ERAB|HSD10|Hadh2
 Lgmn|Prsc1
 Asic5|Accn5|Blinac|Inac
 Ugt2a1|Ugt2a1p
@@ -4678,7 +4678,7 @@ Fmo5
 Arhgap4
 Retn
 Ces2a|Ces6
-Adipoq|Acdc|Acrp30
+Adipoq|Acdc|Acrp30|Adid
 Gpsm1|Ags3
 Ppp2r2d
 Slc45a1|Dnb5|Past-A|Pasta
@@ -5757,7 +5757,7 @@ Serpinb8
 RGD1559752
 RGD1565158
 LOC288978
-C1ql2
+C1ql2|Adii
 Insig2
 Slc35f5
 Gpr39
@@ -7493,7 +7493,7 @@ Il7r
 Brix1|Bxdc2|RGD1308508
 Rad1
 Rai14
-C1qtnf3
+C1qtnf3|Adim
 Rxfp3|GPCR135|RGD1311550|Rln3r1|Salpr
 Adamts12
 Tars
@@ -8465,7 +8465,7 @@ Grhl3|Tfcp2l4
 Pithd1|RGD1308048
 Zfp46
 Tcea3
-C1qa
+C1qa|Adic
 Cela3b|Ela3b
 Eif4g3
 Pink1
@@ -8931,7 +8931,7 @@ Fkbp11
 Lmbr1l|RGD1309631
 Tuba1c|Tuba6
 Troap
-C1ql4|RGD1565968
+C1ql4|Adik|RGD1565968
 Spats2
 Mcrs1|MSP58
 Fmnl3
@@ -9368,7 +9368,7 @@ Col4a4
 Mff|RGD1310230
 Sp110
 RGD1565945
-Cab39
+Cab39|MO25|MO25alpha
 Itm2c
 Armc9|RGD1305615
 Ugt1a8|UDPGT 1-8|Ugt1|Ugt1a9
@@ -10337,7 +10337,7 @@ Adgra3|Gpr125
 Lgi2
 Pi4k2b
 Anapc4
-C1qtnf7|Ctrp7
+C1qtnf7|Adig|Ctrp7
 Fbxl5
 Otop1
 Zbtb49|Zfp509|Znf509
@@ -12751,7 +12751,7 @@ Zfp7
 Apol3
 Apol2|Apol8
 Foxred2|RGD1306763
-C1qtnf6|Ctrp6
+C1qtnf6|Adiq|Ctrp6
 Mfng
 Card10
 Cdc42ep1
@@ -12890,7 +12890,7 @@ Tbcel|Lrrc35|RGD1308880
 Tmem136|RGD1565079
 Oaf|RGD1305890
 Mfrp
-C1qtnf5
+C1qtnf5|Adie
 Nlrx1|RGD1311293
 Vps11
 Foxr1
@@ -14962,7 +14962,7 @@ Il22ra1|RGD1559655
 Srsf10|Fusip1
 Rpl11
 RGD1561426
-C1qc|C1qg
+C1qc|Adib|C1qg
 Zbtb40|RGD1309866
 Usp48|Usp31|synUSP
 Cda
@@ -15512,7 +15512,7 @@ LOC363679
 Hspb9
 Ccr10|Gpr2
 Meox1
-C1ql1
+C1ql1|Adil
 Mettl2b|Mettl2
 RGD1565086
 RGD1559458
@@ -15729,7 +15729,7 @@ Rnf31
 Cideb
 LOC364390
 Phf11b|Phf11l
-C1qtnf9|RGD1560876
+C1qtnf9|Adif1|RGD1560876
 Arl11
 Trim13
 LOC364401
@@ -18973,7 +18973,7 @@ Nsg2|Hmp19
 Tlx3|RGD1564190
 RGD1564698
 RGD1559806
-C1qtnf2|Ctrp2|RGD1561041
+C1qtnf2|Adih|Ctrp2|RGD1561041
 Fam71b
 Timd4|RGD1564516
 Sgcd
@@ -21912,7 +21912,7 @@ LOC680394
 Rpl36a-ps4|Rpl36al2
 LOC680396
 Hist1h2bcl1|Hist1h2bc
-C1ql3
+C1ql3|Adij
 LOC680405
 LOC680406
 Mark4
@@ -22028,7 +22028,7 @@ Med14-ps1
 Fndc10
 LOC680661
 LOC680662
-LOC680663|Radx
+Radx
 LOC680664
 Fcrl1
 LOC680667
@@ -23246,7 +23246,7 @@ LOC686720
 LOC686748
 Npnt
 LOC686774
-Caprin2|Rng140
+Caprin2|Adir|Rng140
 Ppp1r13l
 Olr1874
 Exoc3l2
@@ -24264,7 +24264,7 @@ LOC690299
 Cox11
 LOC690302
 Magohb
-LOC690305
+Ubtfl6-p1
 Tsen54
 LOC690309
 LOC690311
