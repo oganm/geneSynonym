@@ -8885,7 +8885,7 @@ zgc:92140
 cratb|crat|wu:fc39c02|zgc:92131
 utp3|zgc:92127
 gtf2h1|zgc:92126
-dirc2|zgc:92095
+slc49a4|dirc2|zgc:92095
 etfdh|fa05a11|fb71g06|wu:fa05a11|wu:fb71g06|zgc:92093
 acsl5|zgc:92083
 rnf103|zgc:92077
@@ -11972,7 +11972,7 @@ pimr55|si:dkey-10f21.3
 ches1
 armc2|si:dkey-222o17.2
 cpdb|zgc:152928
-arhgap45|hmha1|hmha1b
+arhgap45b|arhgap45|hmha1|hmha1b|si:ch73-243b8.4
 si:ch211-153a8.4|fa07c11|wu:fa07c11
 si:dkey-7n6.2
 rdh20|si:dkey-7k24.6
@@ -12396,7 +12396,7 @@ zgc:113828
 smim15|zgc:162244
 ppm1j
 zgc:172352
-hmha1a
+arhgap45a|hmha1a
 pi4kaa|pi4ka
 tnikb|im:6898857|zgc:123033|zgc:152783
 si:dkey-21o22.2
@@ -14957,7 +14957,7 @@ si:ch211-145c1.1
 def6c|si:dkeyp-15g12.1
 btbd3a|btbd3|si:dkey-210m15.6
 si:dkey-82i20.2
-znf995|zgc:174700
+znf995|si:dkey-56m15.3|zgc:174700
 skp2|id:ibd5121|sb:cb933|wu:fa10b08|wu:fj97b11|zgc:162950
 LOC563710
 best4|si:ch211-106k21.4
@@ -15976,7 +15976,7 @@ cep170ab|SAGp53A|cep170b|cep170l|im:7149177|kab|t2gtlp53a
 tinf2|TIN2|wu:fi37c10|zgc:158289
 si:ch211-196f2.3|muc3a
 abcd1|ALDP|zgc:172102
-fam198b
+gask1b|fam198b
 slc25a6|si:dkey-21o13.4|wu:fj78b08
 ano2|si:dkey-224k5.2|tmem16b
 zgc:172136|fb55g02|wu:fb55g02
@@ -26178,7 +26178,7 @@ si:dkey-22n8.3
 LOC100534760
 LOC100534762
 LOC100534765
-fam198a
+gask1a|fam198a
 whrnb|dfnb31b|si:rp71-10d23.1
 tlr7|TLR7A
 LOC100534777

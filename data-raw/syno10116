@@ -1344,7 +1344,7 @@ Clec11a|Scgf
 Adora2b
 Csrp2|SmLIM
 Ddt
-Gif
+Cblif|Gif
 Plcb3
 Slc6a18|Rosit|Xtrp2
 Capza3|Cappa3
@@ -2771,7 +2771,7 @@ Mtr|methioninesynthase
 Myoc|Tigr
 Nf1x|Nfix
 Nfkbib
-Nov
+Ccn3|Nov
 Nrp2
 Ogg1
 Pde1a|3'-RACEclone8phosphodiesterase1A|3-RACEclone8phosphodiesterase1A
@@ -11618,7 +11618,7 @@ Golim4|Golph4
 Rapgef2|PDZ-GEF1|RA-GEF-1|nRap GEP
 RGD1560010
 Fnip2|RGD1562174
-Fam198b|Ened
+Gask1b|Ened|Fam198b
 Map9|Mtap9|RGD1560368
 Rbm46|RGD1560205
 Dchs2|RGD1563329
@@ -13054,7 +13054,7 @@ Entpd3|NTPDase3
 Trak1|OIP106|RGD1307844
 Zbtb47|RGD1562434|Zfp651
 Klhl40|Kbtbd5
-Fam198a|RGD1305157
+Gask1a|Fam198a|RGD1305157
 Pomgnt2|Ago61|Gtdc2|RGD1304827
 Zfp105
 Exosc7
@@ -15093,7 +15093,7 @@ Mbd3
 Reep6|Dp1l1
 Dazap1
 Ndufs7
-Mum1
+Pwwp3a|Mum1
 R3hdm4|RGD1307067
 Mier2|RGD1307278
 Syde1|RGD1305857
@@ -20581,7 +20581,7 @@ Nxf7
 Bex4
 Bex1
 Tceal3|RGD1562504
-Mum1l1|RGD1565148
+Pwwp3b|Mum1l1|RGD1565148
 LOC501631
 LOC501640
 RGD1564955
@@ -22821,7 +22821,7 @@ Wfdc16
 Efcc1|Ccdc48|Ccdc48l1
 LOC685203
 LOC685207
-Sgk494
+Rskr|Sgk494
 LOC685213
 Rps8-ps1
 LOC685215
@@ -23495,7 +23495,7 @@ Eno1-ps1
 Ripor3|Fam65c
 LOC688515
 LOC688516
-Mut
+Mmut|Mut
 Pabpc5
 LOC688520
 Vom2r-ps95
