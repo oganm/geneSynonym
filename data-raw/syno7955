@@ -412,7 +412,7 @@ pth1ra|pthr1|zPTH1R
 anos1a|anosmin-1a|kal1.1|kal1a|wu:fl91z45
 bmp2a|bmp2|wu:fc59d09
 bmp2b|bmp-2|bmp2|bmp2-4|cb670|swr|zbmp-2|zbmp2
-l1cama|NCAM-L1.2|nadl1.2|sb:eu320|sb:eu917|wu:fq26g05
+l1cama|L1.2|NCAM-L1.2|nadl1.2|sb:eu320|sb:eu917|wu:fq26g05
 six3a|six3|six3.1|wu:fc10a08
 six3b|SIX3|cb347|six3.2|six6
 mdm2|sb:eu923|zgc:109834
@@ -431,7 +431,7 @@ pth1rb|pthr3|zPTH3R
 anos1b|anosmin-1b|kal1.2|kal1b
 gsk3b|GSK-3[b]|GSK3|fb68h05|fk80d11|wu:fb68h05|wu:fk80d11
 mtch2|fi20c06|fj35g12|wu:fi20c06|wu:fj35g12
-l1camb|nadl1.1|wu:fa30h05
+l1camb|L1.1|nadl1.1|wu:fa30h05
 arxa|arx|phox2a
 rag2|rag-2|zgc:136743
 dnmt3bb.2|Zmt3|dnmt3|wu:fa11d06|wu:fb73b09
@@ -2196,7 +2196,7 @@ top2a|fc08c07|wu:fc08c07
 stx4|STX4A|si:dkey-220f10.3|wu:fc08c10|zgc:56272
 slc35b4|fc08c12|fc29f04|fi03h11|wu:fc08c12|wu:fc29f04|wu:fi03h11|zgc:55288
 ankhb|ankh|wu:fc08d03
-selenou1a|fam213a|fam213aa|fc08d10|selenou|selu|selu1|sepu|wu:fb06a02|wu:fc08d10|zgc:73311
+selenou1a|fam213a|fam213aa|fc08d10|prxl2a|selenou|selu|selu1|sepu|wu:fb06a02|wu:fc08d10|zgc:73311
 wu:fc08e01|fc08e01
 wu:fc08e04|fc08e04
 wu:fc08f02|fc08f02
@@ -3066,7 +3066,7 @@ ttpa|wu:fd44e05|zgc:66361
 wu:fd44e11|fd44e11
 wu:fd45b07|fd45b07
 wu:fd46c11|fd46c11
-retsat|wu:fd46d06|zgc:113107
+retsat|RetSat A|wu:fd46d06|zgc:113107
 wu:fd47c12|fd47c12
 tmem9b|c11orf15|wu:fd47d02|zgc:56386|zgc:86880
 wu:fd47e11|fd47e11
@@ -14450,7 +14450,7 @@ si:dkey-219c10.4
 tut7|zcchc6
 LOC562362
 radil
-si:ch211-233f11.5
+adora4a|a3a|si:ch211-233f11.5
 klc2|fc15b01|wu:fc15b01|wu:fj62c06|zgc:162288
 puf60a|fc21a05|wu:fc21a05|wu:fi43a08
 cyp2k20|si:ch211-8c17.7
@@ -16769,7 +16769,7 @@ cox14|si:dkey-222f2.8
 rangap1b|rangap1|wu:fj57h07|zgc:66165
 spata13|si:dkey-33c18.3
 si:ch211-107e6.5
-trove2|zgc:123046
+ro60|trove2|zgc:123046
 gpr37b|si:dkey-3n7.1
 wdfy3|si:ch211-259k10.1
 si:busm1-71b9.3|dZ71B9.3|si:dkey-173l11.2
@@ -18273,7 +18273,7 @@ tmed9|sb:cb294|wu:fi23g02|zgc:110394|zgc:110656
 si:dkeyp-87d1.1
 si:dkey-185l3.1
 adgrf7|si:dkey-30j22.4
-si:dkey-206f10.5
+adora2c|si:dkey-206f10.5
 si:dkey-156m18.2
 si:ch211-241j12.4|si:busm1-189a20.7
 si:ch211-220i15.3
@@ -18562,7 +18562,7 @@ tcf3b|tcf3a|zgc:113045
 slc35b3|zgc:136770
 slc6a4b
 hyal1|zgc:136804
-retsatl|wu:fi35b01|zgc:123334
+retsatl|RetSat B|wu:fi35b01|zgc:123334
 illr3
 lgals3bpa|lgals3bp|zgc:136780
 rps27l|zgc:136826
