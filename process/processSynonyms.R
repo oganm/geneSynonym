@@ -88,8 +88,9 @@ git2r::add(repo,path ='DESCRIPTION')
 
 tryCatch({
     git2r::commit(repo,message = paste('Weekly auto update'))
-    pass = readLines('data-raw/auth')
-    cred = git2r::cred_user_pass('OganM',pass)
+    token = readLines('data-raw/auth')
+    Sys.setenv(GITHUB_PAT = token)
+    cred = git2r::cred_token()
     git2r::push(repo,credentials = cred)
     },
     error = function(e){
