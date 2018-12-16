@@ -7177,7 +7177,7 @@ foxq1b|foxq1|zgc:77469
 tox2|zgc:77466
 zgc:77118
 stx11a|zgc:77002
-sapcd2|zgc:77001
+sapcd2|C9orf140|zgc:77001
 tmed7|zgc:76996
 foxd1|FoxD1.1|foxd1l|zgc:76875
 foxg1b|zgc:85969
@@ -9100,7 +9100,7 @@ ap3s1|wu:fa92f10|zgc:101869
 cryba1l2|cryba1c|zgc:101859
 h2afx1|zgc:101846
 zgc:101840|si:dkey-174m14.1
-ank1a|ank1|wu:fa09h06|zgc:101835
+ank1a|ank1|si:ch211-173b16.3|wu:fa09h06|zgc:101835
 tspan13b|tspan13|zgc:101833
 wacb|zgc:101828
 zgc:103601
@@ -20673,7 +20673,7 @@ zc3h12a
 eps8l2|si:ch1073-89b12.1
 si:dkey-262g12.10
 txnrd2.2|im:7135991|si:ch1073-179p4.3|txnrd2
-si:dkey-40c11.2|si:dkey-40c11.4|wu:fb76h05
+si:dkey-40c11.2|cb540|fb76h05|sb:cb540|si:dkey-40c11.4|wu:fb76h05
 lins1|lins
 si:dkey-23c22.5
 zgc:173517
@@ -26824,7 +26824,7 @@ si:zfos-1451h6.1
 LOC100537143
 LOC100537147
 rbpms|si:cabz01079824.1
-arhgef5|wu:fb07c11, zmp:0000000797
+arhgef5|fb07c11|wu:fb07c11|wu:fb07c11, zmp:0000000797
 clec3bb
 LOC100537163|nilt2
 LOC100537170
