@@ -4256,7 +4256,7 @@ wu:fj59a02|fj59a02
 wu:fj59a07|fj59a07
 wu:fj59b03|fj59b03
 wu:fj59c10|fj59c10
-gabrb2|fj59e04|gabaabeta2|si:ch211-215g18.1|wu:fj59e04|zgc:136311
+gabrb2a|fj59e04|gabaabeta2|gabrb2|si:ch211-215g18.1|wu:fj59e04|zgc:136311
 wu:fj59f04|fj59f04
 nmnat2|wu:fj59g01|zgc:73048
 qrich1|fj59h09|wu:fj59h09|zgc:110077
@@ -20509,7 +20509,7 @@ LOC797436
 crp6|si:ch211-234p6.8
 st6gal2b|SIAT2-r|st6gal2-r|st6gal2l
 cux1a|fi22b07|si:ch211-251d10.5|wu:fi22b07|wu:fk35a11
-arl3b|arl3|fj22g05|si:ch211-208d15.4|wu:fj22g05
+arl3b|arl3|si:ch211-208d15.4|wu:fj22g05
 tcerg1b|tcerg1
 mrtfaa|mkl1a
 faxca|gb:eh592528
@@ -23946,7 +23946,7 @@ si:dkey-81n2.1
 il1rapl2|il18r|ilrapl2|si:ch211-149o12.1
 si:ch211-74m13.1
 LOC100149463
-pard3ba|im:7153558|im:7153839
+pard3ba|im:7153558|im:7153839|si:ch1073-345a8.1
 LOC100149475
 LOC100149482
 si:dkey-197j19.6
@@ -25362,7 +25362,7 @@ LOC100332177
 LOC100332187|s1pr3
 LOC100332191|tmem132c
 ghsrb|si:dkey-83f6.2
-gabrb2l
+gabrb2b|gabrb2l
 zmp:0000000884
 gnb4a
 stk38b|si:ch1073-272h17.2
@@ -27671,7 +27671,7 @@ LOC101882917
 LOC101882918
 LOC101882921
 timp4.1|timp4|timp4b
-pard3aa|pard3b|pard3l
+pard3aa|pard3b|pard3l|si:ch73-378g22.1
 LOC101882926
 rnf135
 LOC101882928
