@@ -10554,7 +10554,7 @@ fcf1|zgc:110288
 zgc:110286|si:ch1073-165f9.1
 acer1|asah3|zgc:110285
 kif3a|fc55h04|wu:fc55h04|zgc:110284
-zgc:110283|CH73-348L8.3
+anxa1d|CH73-348L8.3|zgc:110283
 camk4|wu:fj42a03|zgc:110275
 gemin2|sip1|wu:fc52a05|zgc:110274
 alkbh7|si:rp71-80d13.16|zgc:112404
@@ -17812,7 +17812,7 @@ fkrp|zgc:162829
 ftr15|si:dkey-177e13.1
 si:ch211-183d21.1|fb14a07|wu:fb14a07
 LOC571431
-si:dkey-236e20.3
+sult3st5|si:dkey-236e20.3
 gusb|si:ch211-160e1.7|si:ct573103.7
 ftr13|si:dkey-177e13.3
 tmem259|im:7154960
@@ -21711,7 +21711,7 @@ sbk3|zgc:172086
 si:dkeyp-113d7.10
 si:ch73-111k22.3
 si:dkey-83f18.11
-tmem200c
+tmem200ca|tmem200c
 sptbn4a|si:dkey-27p18.5
 bpifcl|si:dkey-11f4.4
 LOC100003133
@@ -28712,7 +28712,7 @@ si:ch211-222m2.1
 LOC101885123
 LOC101885127
 LOC101885129|nitr1|nitr2
-si:ch211-204a13.2
+tmem200b|si:ch211-204a13.2
 LOC101885134
 LOC101885140
 si:ch73-248e21.7
