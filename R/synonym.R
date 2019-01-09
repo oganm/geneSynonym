@@ -1,5 +1,5 @@
-teval = function(string){
-    eval(parse(text=string))
+teval = function(string,...){
+    eval(parse(text=string),...)
 }
 
 

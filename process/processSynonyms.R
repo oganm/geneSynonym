@@ -26,7 +26,7 @@ setnames(geneInfo,old = names(geneInfo),new=
 
 
 
-geneInfo = geneInfo[,c('Symbol','GeneID','Synonyms','tax_id')]
+geneInfo = geneInfo[,c('Symbol','GeneID','Synonyms','Symbol_from_nomenclature_authority','tax_id')]
 
 taxData = fread('data-raw/taxdump/names.dmp',data.table=FALSE, sep = '\t',quote = "")
 taxData = taxData[c(1,3,5,7)]
@@ -52,9 +52,13 @@ geneInfo %<>% filter(tax_id %in% tax)
 
 synos = sapply(1:nrow(geneInfo),function(i){
     out = geneInfo$Symbol[i]
+    if(!geneInfo$Symbol_from_nomenclature_authority[i] == '-'){
+        out = paste0(out,'|',geneInfo$Symbol_from_nomenclature_authority[i])
+    }
     if(!geneInfo$Synonyms[i]=='-'){
         out = paste0(out,'|',geneInfo$Synonyms[i])
     }
+
     return(out)
 })
 names(synos) = geneInfo$GeneID
@@ -64,7 +68,7 @@ git2r::add(repo,path = 'R/dataDocumentation.R')
 
 # file generation
 for (i in tax){
-    teval(paste0('syno',i," <<- synos[geneInfo[,'tax_id']==i]"))
+    teval(paste0('syno',i," <- synos[geneInfo[,'tax_id']==i]"),envir = parent.frame())
     teval(paste0('devtools::use_data(syno', i,',overwrite=TRUE)'))
     teval(paste0('cat(syno',i,', file="data-raw/syno',i,'",sep="\n")'))
     teval(paste0('rm(syno',i,',envir = .GlobalEnv)'))
