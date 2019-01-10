@@ -70,7 +70,7 @@ git2r::add(repo,path = 'R/dataDocumentation.R')
 
 # file generation
 for (i in tax){
-    teval(paste0('syno',i," <- synos[geneInfo[,'tax_id']==i]"),envir = parent.frame())
+    teval(paste0('syno',i," <- synos[geneInfo[,'tax_id']==i]"),envir = .GlobalEnv)
     teval(paste0('devtools::use_data(syno', i,',overwrite=TRUE)'))
     teval(paste0('cat(syno',i,', file="data-raw/syno',i,'",sep="\n")'))
     teval(paste0('rm(syno',i,',envir = .GlobalEnv)'))
