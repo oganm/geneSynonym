@@ -53,12 +53,14 @@ geneInfo %<>% filter(tax_id %in% tax)
 synos = sapply(1:nrow(geneInfo),function(i){
     out = geneInfo$Symbol[i]
     if(!geneInfo$Symbol_from_nomenclature_authority[i] == '-'){
-        out = paste0(out,'|',geneInfo$Symbol_from_nomenclature_authority[i])
+        out = c(out,geneInfo$Symbol_from_nomenclature_authority[i])
     }
     if(!geneInfo$Synonyms[i]=='-'){
-        out = paste0(out,'|',geneInfo$Synonyms[i])
+        out = c(out,geneInfo$Synonyms[i])
     }
-
+    out = unique(out)
+    out %<>% paste(collapse='|')
+    
     return(out)
 })
 names(synos) = geneInfo$GeneID
