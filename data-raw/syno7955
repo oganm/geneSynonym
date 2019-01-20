@@ -6897,7 +6897,7 @@ cbr4|im:6908596|zgc:77144
 thumpd1|zgc:77221
 emc4|tmem85|zgc:77852
 cnksr1|zgc:77200
-plpp7|im:7142624|ppapdc3|zgc:77336
+plpp7a|im:7142624|plpp7|ppapdc3|zgc:77336
 tex264a|zgc:77817
 ppa2|zgc:77715
 lhfpl2a|lhfpl2|zgc:77456
@@ -8711,7 +8711,7 @@ eif3ha|eIF3h-A|eif3h|eif3s3|fj02c04|wu:fj02c04|zgc:101085
 dexi|im:7136011|zgc:101082
 cthrc1a|zgc:101075
 fam199x|zgc:101060
-tmem179|zgc:101058
+tmem179aa|tmem179|zgc:101058
 cep57l1|zgc:101037
 zmat5|zgc:101022
 chrne|im:7154697|zgc:101010
@@ -9662,7 +9662,7 @@ ift27|rabl4|zgc:101893
 anapc4|si:dkey-90m5.2|zgc:101872
 slc35c1|fc03b12|wu:fc03b12|zgc:101867
 tspan5b|zgc:101855
-zgc:101853
+aimp1b|zgc:101853
 ndrg2|im:6909381|si:dkey-88n24.1|zgc:101847
 tectb|zgc:101843
 gcga|gcg|glu|zgc:103616
@@ -12025,7 +12025,7 @@ czib|si:ch211-284b7.3
 nek1|si:dkey-15j16.5|si:dkey-171k19.5|wu:fc38c08
 sema4f
 nlrc7|NACHT|nlrp12b|si:dkey-253d23.10|si:dkey-253d23.12
-pcmtd2|zgc:136935
+pcmtd2a|pcmtd2|zgc:136935
 grik2
 dcst1
 si:busm1-52i16.2|claudin|dZ52I16.2|si:dz52i16.2
@@ -12498,7 +12498,7 @@ ppp2r5cb|ppp2r5c|si:dkey-241l7.9
 cldn18
 bach2a
 zgc:193541|zgc:193520
-ust|si:dkey-185l3.2
+usta|si:dkey-185l3.2|ust
 frem1b|si:ch211-219p7.1
 si:ch211-1a19.3
 si:ch211-244b2.3|fd56h10|si:ch211-244b2.2|wu:fd56h10
@@ -14396,7 +14396,7 @@ mpp2a|zgc:171280
 uhrf1bp1l|si:dkeyp-90a8.1
 ndufb11|im:6897973|si:dkey-6n6.4
 mark2a|fc75f05|si:dkey-175m17.8|wu:fc75f05
-aimp1|wu:fa95a05|zgc:154081
+aimp1a|aimp1|wu:fa95a05|zgc:154081
 rbm24b|zgc:136803
 rps6kb1a|si:dkey-149m16.2
 arhgap23b|arhgap23|si:dkey-24h18.1
@@ -14801,7 +14801,7 @@ si:dkey-34l15.1
 zgc:158234
 arhgap12a|im:7153489|si:ch211-159p3.3
 prelid3a|slmo1
-npnt|POEM|si:ch211-202n8.2
+npnta|POEM|npnt|si:ch211-202n8.2
 adam12
 lig3|im:7139055|im:7145225|wu:fb12c02|wu:fd10b03|wu:fm79b09|zgc:112973
 p4ha3|si:dkey-260j18.3|zgc:103728
@@ -17951,7 +17951,7 @@ fdft1|si:ch73-107c13.2
 LOC571912
 si:dkey-9i23.16
 ppp1r26|zgc:152953
-sla1|zgc:113360
+sla1a|sla1|zgc:113360
 stxbp5b
 si:rp71-36a1.1
 edil3b|si:dkey-169a9.1
@@ -21419,7 +21419,7 @@ sned1
 si:dkey-170g13.2
 LOC100001760
 rnf207a
-slc22a7b.3|oat2d|si:ch211-183f23.2
+slc22a7b.3|oat2d|si:ch211-183f23.2|slc22a7l|zfOat2
 cfap73|ccdc42b|si:dkey-114c15.1
 nfkbiz
 si:dkey-239j18.3|ctsl
@@ -24189,7 +24189,7 @@ gabra2a|gabra2|si:dkey-52k1.6
 LOC100150707
 mhc1lea
 or128-9
-tmem235|si:ch73-369d14.2
+tmem235b|si:ch73-369d14.2|tmem235
 lyst|si:ch211-30i2.1
 si:ch211-141e20.2
 or114-1
@@ -27039,7 +27039,7 @@ si:dkey-239h2.3
 mcidas
 si:dkey-203a12.4
 gpr37a|si:dkey-277d23.4
-fam163b|si:dkey-180g13.1
+fam163ba|fam163b|si:dkey-180g13.1
 arid4b|tomm20a|zgc:73165
 LOC100537930|IFIT12D
 ap5z1|gb:cf995958

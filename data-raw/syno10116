@@ -4535,7 +4535,7 @@ Obp1f|Obp-1f
 Gls2|Ga
 Sub1|Rpo2tc1
 Plpp3|Dri42|Ppap2b
-Adam6|TMDCIV
+Adam6a|Adam6|TMDCIV
 Acot2|Mte1
 Slc22a25|Slc22a9|Ust1|Ust1r
 Foxe1|Ttf-2
@@ -14134,7 +14134,7 @@ Heatr1|Heatr1l1|RGD1564769
 Akr1c12
 Akr1c15|17beta-HSD|Akr1cl|Akr1cl1|RAKc
 Asb13
-Fam208b|RGD1564456
+Tasor2|Fam208b|RGD1564456
 Upf2
 Dhtkd1
 Sec61a2
@@ -21813,7 +21813,7 @@ LOC680144
 Gngt1
 LOC680151
 Krtap2-1|RGD1561281
-Fam208a
+Tasor|Fam208a
 LOC680160
 Tex35
 Rpl34-ps1|Rpl34l1
