@@ -4,6 +4,7 @@ library(git2r)
 library(dplyr)
 library(ogbox)
 library(glue)
+library(R.utils)
 
 devtools::use_data_raw()
 
@@ -15,7 +16,7 @@ if(!file.exists('data-raw/taxdump/names.dmp')){
 
 
 download.file('ftp://ftp.ncbi.nlm.nih.gov/gene/DATA/gene_info.gz','data-raw/gene_info.gz')
-system('gunzip -f data-raw/gene_info.gz')
+R.utils::gunzip('data-raw/gene_info.gz', overwrite = TRUE)
 geneInfo = fread('data-raw/gene_info',sep='\t',skip=1, header = F,data.table = FALSE)
 setnames(geneInfo,old = names(geneInfo),new=
              c('tax_id', 'GeneID', 'Symbol', 'LocusTag', 'Synonyms',
