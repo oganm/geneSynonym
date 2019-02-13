@@ -7,8 +7,10 @@ library(glue)
 library(R.utils)
 
 autogit = TRUE
+repo = repository('.')
 
-devtools::use_data_raw()
+
+usethis::use_data_raw()
 
 # get tax data -----
 
@@ -60,7 +62,7 @@ if(Sys.info()['sysname'] == 'Windows'){
 regexTaxID = paste0('\t',ogbox::regexMerge(taxData$tax_id),'\t')
 
 system2(grep,
-        c('-E',regexTaxID,'data-raw/gene_info'),
+        c('-E',shQuote(regexTaxID),'data-raw/gene_info'),
         stderr = 'data-raw/gene_info_filtered',
         stdout = 'data-raw/gene_info_filtered')
 
@@ -97,7 +99,6 @@ synos = sapply(1:nrow(geneInfo),function(i){
     return(out)
 })
 names(synos) = geneInfo$GeneID
-repo = repository('.')
 
 
 # file generation
