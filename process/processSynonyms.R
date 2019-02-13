@@ -59,7 +59,7 @@ if(Sys.info()['sysname'] == 'Windows'){
     grep = 'grep'
 }
 
-regexTaxID = paste0('\t',ogbox::regexMerge(taxData$tax_id),'\t')
+regexTaxID = paste0(ogbox::regexMerge(taxData$tax_id))
 
 system2(grep,
         c('-E',shQuote(regexTaxID),'data-raw/gene_info'),
