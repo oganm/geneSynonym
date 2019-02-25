@@ -12,34 +12,23 @@ repo = repository('.')
 
 usethis::use_data_raw()
 
-# get tax data -----
-
-if(!file.exists('data-raw/taxdump/names.dmp')){
-    download.file(url ='ftp://ftp.ncbi.nlm.nih.gov/pub/taxonomy/taxdump.tar.gz', destfile = "data-raw/taxdump.tar.gz")
-    dir.create('data-raw/taxdump', showWarnings = FALSE)
-    untar('data-raw/taxdump.tar.gz',exdir = 'data-raw/taxdump/')
-}
-
-taxData = fread('data-raw/taxdump/names.dmp',data.table=FALSE, sep = '\t',quote = "")
-taxData = taxData[c(1,3,5,7)]
-names(taxData) = c('tax_id','name_txt','unique_name','name_class')
-taxData %<>% filter(name_txt %in% c('Homo sapiens',
-                                    'Escherichia coli',
-                                    'Mus musculus',
-                                    'Rattus norvegicus',
-                                    'Danio rerio',
-                                    'Caenorhabditis elegans',
-                                    'Drosophila melanogaster',
-                                    'Macaca mulatta'))
-
-taxData %>% apply(1,function(x){
-    dataDocs = glue('#\' Synonym information for {x["name_txt"]}\n"syno{x["tax_id"] %>% trimws}"')
-}) %>% paste(collapse='\n\n') %>% writeLines('R/dataDocumentation.R')
+taxData = read.table('ftp://ftp.ncbi.nih.gov/pub/HomoloGene/build68/build_inputs/taxid_taxname',
+                     sep = '\t',
+                     stringsAsFactors = FALSE)
+colnames(taxData) = c('tax_id','name_txt')
 
 
-if(autogit){
-    git2r::add(repo,path = 'R/dataDocumentation.R')    
-}
+download.file(url = "ftp://ftp.ncbi.nih.gov/pub/HomoloGene/current/homologene.data", destfile = 'data-raw/homologene.data')
+homologene = fread('data-raw/homologene.data',sep ='\t',quote='',stringsAsFactors = FALSE,data.table = FALSE)
+names(homologene) = c('HID','Taxonomy','Gene.ID','Gene.Symbol','Protein.GI','Protein.Accession')
+
+homologeneSpecies = homologene$Taxonomy %>% unique
+
+taxData %<>% filter(tax_id %in% c(homologeneSpecies))
+
+taxData %<>% rbind(data.frame(tax_id = 562,name_txt = 'Escherichia coli'))
+# not sure why it's not in this file but it in the ftp://ftp.ncbi.nlm.nih.gov/pub/taxonomy/taxdump.tar.gz
+# also not represented in homologene. go to stackoverflow at some point.
 
 
 # get gene_info --------
@@ -104,7 +93,7 @@ names(synos) = geneInfo$GeneID
 # file generation
 for (i in tax){
     teval(paste0('syno',i," <- synos[geneInfo[,'tax_id']==i]"),envir = .GlobalEnv)
-    teval(paste0('devtools::use_data(syno', i,',overwrite=TRUE)'))
+    teval(paste0('usethis::use_data(syno', i,',overwrite=TRUE)'))
     
     rawSyno = paste(names(synos[geneInfo[,'tax_id']==i]),synos[geneInfo[,'tax_id']==i],sep = '|')
     cat(rawSyno, file = paste0('data-raw/syno',i), sep = '\n')
