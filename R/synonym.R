@@ -43,12 +43,10 @@ geneSynonym = function(genes,tax, caseSensitive = TRUE){
     }else{
         maybeLower = function(x){tolower(x)}
     }
-    # I kept the single core sapply version in case installing parallel is a
-    # problem somewhere.
-    # if a gene name given and it is not on the list, it spews out a warning 
-    # DOES NOT PRINT WARNINGS WHEN USING MULTIPLE CORES
-    # teval(paste0('data(syno',tax,')'))
-    synoData = teval(paste0('geneSynonym::syno',tax))
+    synoData = tryCatch({teval(paste0('geneSynonym::syno',tax))},
+                        error = function(e){
+                            stop(tax,' is not a valid taxonomic identifier')
+                        })
     
     geneSearcher = function(x){
         
