@@ -30,7 +30,8 @@ taxData %<>% rbind(data.frame(tax_id = 562,name_txt = 'Escherichia coli'))
 # not sure why it's not in this file but it in the ftp://ftp.ncbi.nlm.nih.gov/pub/taxonomy/taxdump.tar.gz
 # also not represented in homologene. go to stackoverflow at some point.
 
-usethis::use_data(taxData)
+usethis::use_data(taxData, overwrite = TRUE)
+git2r::add(repo,path = 'data/taxData.rda')    
 
 # get gene_info --------
 
