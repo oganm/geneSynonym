@@ -5,6 +5,7 @@ library(dplyr)
 library(ogbox)
 library(glue)
 library(R.utils)
+library(readr)
 
 autogit = TRUE
 repo = repository('.')
@@ -52,29 +53,29 @@ if(Sys.info()['sysname'] == 'Windows'){
 
 regexTaxID = paste0(ogbox::regexMerge(taxData$tax_id))
 
-system2(grep,
-        c('-E',shQuote(regexTaxID),'data-raw/gene_info'),
-        stderr = 'data-raw/gene_info_filtered',
-        stdout = 'data-raw/gene_info_filtered')
+callBack = function(x,pos){
+    out = x %>% 
+        select(Symbol,
+               GeneID,
+               Synonyms,
+               Symbol_from_nomenclature_authority,
+               tax_id) %>%
+        filter(tax_id %in% taxData$tax_id) %>% 
+        mutate(GeneID = as.integer(GeneID),
+               tax_id = as.integer(tax_id))
+    return(out)
+}
 
-geneInfo = fread('data-raw/gene_info_filtered',sep='\t',skip=1, header = F,data.table = FALSE)
-setnames(geneInfo,old = names(geneInfo),new=
-             c('tax_id', 'GeneID', 'Symbol', 'LocusTag', 'Synonyms',
-               'dbXrefs', 'chromosome', 'map_location', 'description',
-               'type_of_gene', 'Symbol_from_nomenclature_authority',
-               'Full_name_from_nomenclature_authority', 'Nomenclature_status',
-               'Other_designations', 'Modification_date','Feature_type'))
+geneInfo = read_tsv_chunked('data-raw/gene_info',
+                            DataFrameCallback$new(callBack),
+                            col_names = c('tax_id', 'GeneID', 'Symbol', 'LocusTag', 'Synonyms',
+                                          'dbXrefs', 'chromosome', 'map_location', 'description',
+                                          'type_of_gene', 'Symbol_from_nomenclature_authority',
+                                          'Full_name_from_nomenclature_authority', 'Nomenclature_status',
+                                          'Other_designations', 'Modification_date','Feature_type'),
+                            chunk_size = 1000000,skip = 1)
 
 
-
-geneInfo = geneInfo[,c('Symbol','GeneID','Synonyms','Symbol_from_nomenclature_authority','tax_id')]
-
-
-
-
-tax = taxData$tax_id
-
-geneInfo %<>% filter(tax_id %in% tax)
 
 synos = sapply(1:nrow(geneInfo),function(i){
     out = geneInfo$Symbol[i]
