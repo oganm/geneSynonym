@@ -39,17 +39,6 @@ git2r::add(repo,path = 'data/taxData.rda')
 download.file('ftp://ftp.ncbi.nlm.nih.gov/gene/DATA/gene_info.gz','data-raw/gene_info.gz')
 R.utils::gunzip('data-raw/gene_info.gz', overwrite = TRUE)
 
-if(Sys.info()['sysname'] == 'Windows'){
-    if(!pkgbuild::has_rtools()){
-        stop('install rtools')
-    }
-    rtoolsPath = pkgbuild::rtools_path()
-    
-    grep = file.path(rtoolsPath,'grep.exe')
-    
-} else{
-    grep = 'grep'
-}
 
 regexTaxID = paste0(ogbox::regexMerge(taxData$tax_id))
 
