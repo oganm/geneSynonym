@@ -83,7 +83,7 @@ names(synos) = geneInfo$GeneID
 
 
 # file generation
-for (i in tax){
+for (i in taxData$tax_id){
     teval(paste0('syno',i," <- synos[geneInfo[,'tax_id']==i]"),envir = .GlobalEnv)
     teval(paste0('usethis::use_data(syno', i,',overwrite=TRUE)'))
     
