@@ -15711,7 +15711,7 @@
 565659|edc4|fe26b05|si:ch211-237c7.1|wu:fe26b05
 565661|si:dkey-266f7.4
 565664|si:dkey-193b15.5
-565665|tdrd6|si:dkey-30j22.9
+565665|tdrd6|si:dkey-30j22.9|tdrd6a
 565669|plcd4a|si:dkeyp-84a8.7
 565670|zbtb7a|si:ch211-195m2.8
 565671|si:ch211-236h17.3|fb44a12|wu:fb44a12
@@ -15915,7 +15915,7 @@
 566167|mier1b|fi26b03|si:ch211-273k1.3|wu:fi26b03
 566173|si:ch211-76l23.7
 566175|zmp:0000001200|dock9
-566185|caspbl|caspb|si:ch211-15j1.6
+566185|caspbl|casp19b|caspb|si:ch211-15j1.6
 566188|inpp5kb|inpp5k
 566190|si:dkeyp-68b7.7|wu:fj66h03
 566192|fstl5|drMahya-1|zgc:136225
@@ -17480,7 +17480,7 @@
 570314|fscn1b|si:ch211-160d14.1
 570316|si:ch211-187g4.1
 570320|ddhd1b|ddhd1|si:dkey-29m11.6|si:dkey-63j12.5
-570321|si:dkeyp-117h8.2|wu:fi14c02
+570321|si:dkeyp-117h8.2|crad|wu:fi14c02
 570332|zgc:114130|fb92b09|wu:fb92b09
 570333|rcvrna|rcv1a|zgc:114180
 570338|aasdh|si:dkeyp-117h8.3
@@ -17692,7 +17692,7 @@
 570989|rfx3|zgc:153245
 570991|si:ch1073-340i21.3|fb16f09|wu:fb16f09
 570994|sf3b2|fb53c07|wu:fb53c07|wu:fb93b08|zgc:136773
-570997|foxr2|foxr1|zgc:171734
+570997|foxr1|foxr2|zgc:171734
 570999|chn2
 571000|glis3|wu:fa55a05|zgc:158249
 571003|b3galt1b|b3galt1
