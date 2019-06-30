@@ -2036,7 +2036,7 @@
 59303|Tmem33
 59304|Gdf9
 59305|Tcam1|Tcam1p
-59312|Shank3|Prosap2
+59312|Shank3|Prosap2|Spank-2
 59313|Psgb1|Psg
 59314|Camk2n2
 59315|Nxph3|Nph3
@@ -2517,7 +2517,7 @@
 65129|Cldn1
 65130|Cldn3
 65131|Cldn5
-65132|Cldn7
+65132|Cldn7|cld-7
 65133|Aqp3
 65134|Stx5|Stx5a
 65135|Dpys
