@@ -3132,7 +3132,7 @@
 548991|tor1b|tor1a
 548992|bbs5
 548993|ccna1
-548994|ispd
+548994|crppa|ispd
 548996|ccdc58
 548997|lsm10
 548998|sfxn1|sfxn3
@@ -5345,7 +5345,7 @@
 779747|pdzd8
 779748|qrfpr|gpr103
 779749|znf71|ezfit
-779750|tmem206
+779750|pacc1|PAC|tmem206
 779751|cep68
 779752|eme1
 779753|cenpt|cenp-t
@@ -7229,7 +7229,7 @@
 100126681|tipin|xtipin
 100126682|gpc4|K-glypican|Xgly4|glypican-4|knypek
 100126683|timeless|XTimeless1|htim|tim|tim1|timeless-a|timeless-b
-100126684|sept8|Septin-8|sep2|sept8-a|sept8-b
+100126684|sept8|Septin-8|sep2|sept8-a|sept8-b|septin8
 100126685|mysm1|2a-dub|2adub
 100126686|cdknx|Xic-1|Xic1|p27XIC1|p27Xic-1|p28
 100126687|fance|face|fae

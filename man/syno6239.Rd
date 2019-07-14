@@ -4,7 +4,7 @@
 \name{syno6239}
 \alias{syno6239}
 \title{Synonym information for Caenorhabditis elegans}
-\format{An object of class \code{character} of length 46863.}
+\format{An object of class \code{character} of length 46857.}
 \usage{
 syno6239
 }
