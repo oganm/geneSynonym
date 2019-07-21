@@ -9218,7 +9218,6 @@
 100170563|ercc3|btf2|gtf2h|rad25|tfiih|xpb
 100170564|arfgap1|arf1gap|atfb1|atfb3|jlns1|k(v)7.1|kcna8|kcna9|kv1.9|kv7.1|kvlqt1|lqt|lqt1|rws|sqt2|wrs
 100170565|cmtr1|ftsjd2
-100170566|akap2|akap-kl
 100170567|casc1|las1
 100170568|nisch|IRAS
 100170569|ncib|ncib-a
@@ -17995,7 +17994,7 @@
 100499536|tmem123|kct3|porimin|pormin
 100500733|serf2|4f5|4f5rel|fam2a|fam2c|serf1|serf1a|serf1b|smam1
 100500921|c3orf52|ttmp
-100533180|palm2
+100533180|palm2-akap2|akap-kl|akap2|palm2
 100533517|ppan|bxdc3|ppan-a|ppan-b|ssf|ssf1|ssf2
 100551495|tmem189|kua
 100551497|ube2v1|cir1|croc-1|croc1|ube2v|uev1|uev1a
