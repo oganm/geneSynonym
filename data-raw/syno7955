@@ -730,7 +730,7 @@
 64604|nrf1|SC:BZ3C13.1|SC:bZ3C13.2|ube2h
 64605|htatip2|fb15b04|tip30|wu:fb15b04
 64607|alas2|alas-e|cb1063|sau|sauternes|si:dkey-24f17.4
-64608|alas1|ALAS-N|wu:fb58d01|wu:fi12g09|wu:fq33a02
+64608|alas1|ALAS-N|unm_sm350|wu:fb58d01|wu:fi12g09|wu:fq33a02
 64609|atp1a2a|atp1a2|atp[a]2|atpa2|cb702|fa10d04|fa10d05|wu:fa10d05
 64610|atp1a3a|atp[a]3B|cb705|wu:fj56a06
 64611|atp1a3b|atp[a]3A|cb706|fj35g11|wu:fj35g11|wu:fq14g09
@@ -1218,7 +1218,7 @@
 266990|pwp2h|cb471|zgc:56063
 266992|cad|cb456|si:dkey-221h15.3|wu:fc30c12|wu:fc33d01|wu:fc67g02
 280646|lmo1|cb524|etID41074.7|lmo1b|wu:fb76g02|zgc:109794
-280647|kars|cb530|wu:fa16h02|zgc:92483
+280647|kars1|cb530|kars|wu:fa16h02|zgc:92483
 280648|rdh8a|cb501|rdh8|zf1.1|zfprRDH2|zgc:73081
 280649|plk1|cb525|cb636|ik:tdsubc_2d1|plk|wu:fb37g11|wu:fb76g03|xx:tdsubc_2d1
 280650|klf6a|cb538|copeb|klf6|wu:fb76d04|wu:fb92h03|wu:fe26g06|wu:fk78f12
@@ -2300,7 +2300,7 @@
 324018|wu:fc16h11|fc16h11
 324021|hspb12|fc17a04|wu:fc17a04
 324023|dspa|im:6911953|sb:cb570|wu:fc17a08|wu:fk73d01
-324025|dars|wu:fc17a11|zgc:154056
+324025|dars1|dars|wu:fc17a11|zgc:154056
 324027|wu:fc17b12|fc17b12
 324029|wu:fc17c03|fc17c03
 324034|wu:fc17c11|fc17c11
@@ -2683,7 +2683,7 @@
 324937|wu:fc48g12|fc48g12
 324938|wu:fc48h01|fc48h01
 324939|wu:fc48h03|fc48h03
-324940|aars|im:7146712|si:ch211-223o1.6|wu:fc48h07|zgc:113920
+324940|aars1|aars|im:7146712|si:ch211-223o1.6|wu:fc48h07|zgc:113920
 324941|wu:fc48h10|fc48h10
 324942|grhl1|fc49a04|wu:fc49a04
 324944|magt1|fc49b02|wu:fc49b02|zgc:56218
@@ -3382,7 +3382,7 @@
 327352|ankrd11|fc59e05|fi04c06|wu:fc59e05|wu:fi04c06
 327355|ice1|fi04d03|kiaa0947l|wu:fi04d03
 327360|memo1|fi04d12|wu:fi04d12|zgc:55290
-327364|wu:fi04e12|fi04e12
+327364|wu:fi04e12
 327368|rgs14a|rgs14|wu:fi04g12
 327369|si:ch73-389k6.1|wu:fi04h01
 327372|brd3a|brd3|fc01d09|fc74a08|fi36b10|wu:fa13h06|wu:fc01d09|wu:fc74a08|wu:fi04h10|wu:fi36b10
@@ -3619,7 +3619,7 @@
 334387|wu:fi45h02|fi45h02
 334389|ankmy2a|fi46e08|wu:fi46e08|zgc:55491
 334390|nfat5a|nfat5|wu:fi46f11|zgc:63502
-334393|iars|fi46h05|wu:fi46h05|zgc:63790
+334393|iars1|fi46h05|iars|wu:fi46h05|zgc:63790
 334395|slc43a1a|fi47a12|lat3a|slc43a1|wu:fi47a12|zgc:55850
 334398|senp6b|fi47d06|wu:fi47d06
 334402|brf1a|brf1|wu:fi47f03|zgc:55543
@@ -4557,7 +4557,7 @@
 337050|wu:fa96c01|fa96c01
 337053|wu:fa96c09|fa96c09
 337068|tbl2|wu:fa96f08
-337070|rars|wu:fa96g09|zgc:56050|zgc:86730
+337070|rars1|rars|wu:fa96g09|zgc:56050|zgc:86730
 337073|wu:fa96h07|fa96h07
 337077|sdc3|wu:fa97a01
 337084|myl12.2|fa97a12|si:dkey-216e9.5|wu:fa97a12
@@ -4611,7 +4611,7 @@
 337224|wu:fb02e05|fb02e05
 337225|chid1|fb02e07|wu:fb02e07|zgc:66396
 337226|zgc:153867|MLC3SM|fb02e09|hm:zehn1575|wu:fa98e09|wu:fb02e09
-337230|gars|si:dkey-276i5.1|wu:fb02f03
+337230|gars1|gars|si:dkey-276i5.1|wu:fb02f03
 337232|wu:fb02f07|fb02f07
 337233|wu:fb02f08|fb02f08
 337234|wu:fb02f09|fb02f09
@@ -4861,7 +4861,7 @@
 338163|id:ibd5063
 338165|id:ibd1234
 338168|id:ibd2182
-338183|mars|id:ibd5106|zgc:66122
+338183|mars1|id:ibd5106|mars|zgc:66122
 338194|id:ibd5083
 338195|id:ibd5105
 338196|id:ibd3370
@@ -5022,7 +5022,7 @@
 368229|pmm2|cb626|it768|unm_it768|zgc:56149
 368230|sgce|scge|zgc:92318
 368234|plp1b|DMalpha2a|DMalpha2b|DMalpha2c|fv76c02|wu:fv76c02|zgc:91786
-368235|yars|cb204|wu:fk52b08
+368235|yars1|cb204|wu:fk52b08|yars
 368239|aldh2.2|aldh2|aldh2b|aldh2l|cb154|wu:fi26c02|zgc:85659
 368241|egr2a|frb35
 368242|kmo|cb362|zgc:136684
@@ -5046,7 +5046,7 @@
 368274|slc16a1b|MCT1a|cb517|slc16a1|zgc:55682
 368275|ppm1g|cb167|wu:fb37b10|wu:fe01e01
 368278|ldlrap1a|ldlrap1|sb:cb50|zgc:56121
-368284|cars|sb:cb71
+368284|cars1|cars|sb:cb71
 368288|rassf7b|sb:cb262|zgc:55456
 368291|sb:cb592
 368292|sb:cb412
@@ -5531,7 +5531,7 @@
 378728|siah2l|siaz|zgc:66284
 378735|si:dkey-206l1.3|sb:cb780
 378737|fbxl2|fbxl20|sb:cb783|zgc:73374
-378742|zgc:110783|mARC1|mosc1|mosc2|sb:cb792
+378742|marc1|marc2|mosc1|mosc2|sb:cb792|zgc:110783
 378743|sb:cb793
 378746|atp2b1a|pmca1|pmca1a|sb:cb801|si:dkey-18o7.1|wu:fe47b06|wu:fi41d01
 378753|ighv1-1|cd1|cd11|cd12|cd19|cd2|cd23|cd4|cd5|cd6|cd9|ighv1s1|ighv1s3|ighv1s4
@@ -6323,7 +6323,7 @@
 393742|tmem258|c11orf10|zgc:73269
 393743|fscn2b|fscn1l|fscn2|zgc:73272
 393744|dctpp1|gatb|pet112|zgc:73273
-393745|wars|TrpRS|zgc:73274
+393745|wars1|TrpRS|wars|zgc:73274
 393746|viml|zgc:73275
 393747|rmnd5b|zgc:73277
 393748|mrpl57|mrp63|zgc:73280
@@ -6577,7 +6577,7 @@
 394036|rpl28|rpl28l|zgc:66289
 394037|cct8|fa22h09|wu:fa22h09|zgc:56059
 394038|chad|zgc:63475
-394039|zgc:66475|phr
+394039|cpdp|phr|zgc:66475
 394040|surf6|surf6l|zgc:64008
 394041|cbll1|zgc:55308
 394043|ephx1|zgc:56126
@@ -6702,7 +6702,7 @@
 394182|plekha3|zgc:63749
 394183|grinab|grina|tmbim3|zgc:64102
 394184|sh3bgrl|zgc:64130
-394188|qars|zgc:56395
+394188|qars1|qars|zgc:56395
 394189|eif3ja|eif3j|eif3s1|fb48g07|wu:fb48g07|zgc:63801
 394190|hmgcl|zgc:56248
 394194|rps24|wu:fa66b02|zgc:103596|zgc:109740
@@ -7827,7 +7827,7 @@
 407986|lsm12a|lsm12b|zgc:85812
 407987|arhgef18a|arhgef18|wu:fc21e04|wu:fj05f11|zgc:85686
 407988|rcan2|DSCR1L1|si:ch211-124g24.1|zgc:85746
-407989|adssl1|AdSS 1|zgc:85738
+407989|adss1|AdSS 1|adssl1|zgc:85738
 408256|actc1a|actc1l|actcl
 414272|rgma|dlm|hfe2|id:ibd2030|rgmc|wu:fb72h09|zgc:110534
 414273|rgmb
@@ -8749,7 +8749,7 @@
 445401|cenpl|dj383j4.3l|si:dj383j4.3l
 445403|uspl1|c13orf22l
 445404|snrpf|snrpfl
-445405|sars|SerRS|wu:fk51f08|zgc:92152
+445405|sars1|SerRS|sars|wu:fk51f08|zgc:92152
 445406|ect2
 445408|gle1|gle1l
 445409|her11|him
@@ -8886,7 +8886,7 @@
 447862|nucks1a|nucks1|wu:fb16a10|wu:fb16h08|wu:fb36b01|wu:fb82a01|wu:fe37f10|wu:gcd26e12|zgc:86878
 447863|bin1b|bin1|cb57|zgc:86701
 447864|ass1|ass|wu:fb95a04|wu:fc01e08|zgc:92051
-447865|zgc:92481|wu:fb17g06
+447865|vwa5a|wu:fb17g06|zgc:92481
 447866|arrdc3b|zgc:92034
 447867|slc25a24|zgc:92470
 447868|pxmp2|zgc:92599
@@ -10749,7 +10749,7 @@
 550499|psmb4|im:6909492|zgc:110330
 550500|zgc:110329
 550501|zgc:111983|fi32a11|wu:fb09a02|wu:fi32a11|zgc:56382
-550502|adss|AdSS 2|zgc:110327
+550502|adss2|AdSS 2|adss|zgc:110327
 550503|vsig8a|zgc:110326
 550504|ssbp1|zgc:110325
 550506|nsmaf|fan|zgc:111982
@@ -16057,7 +16057,7 @@
 566646|LOC566646
 566647|cx32.2|cx20e|cx31.9|gjae|si:dkey-261a18.5|zgc:153825
 566656|sim1b|si:ch211-152c2.1
-566657|si:dkey-110k5.6|fc28a09|tbc1d8b|wu:fc28a09
+566657|tbc1d8b|fc28a09|si:dkey-110k5.6|wu:fc28a09
 566658|tcnbb|hm:zeh0098|si:ch211-117m20.5|zeh0098
 566659|si:ch211-176g13.7|fk59h02|plekhb1|wu:fk59h02
 566660|trim66|si:ch211-208c6.2
@@ -16700,7 +16700,7 @@
 568326|ccl35.1|zgc:193706|zgc:193743
 568327|kcnt2
 568328|naf1|fd12g08|si:dkey-22l11.5|wu:fd12g08
-568332|nars|fb57a10|si:dkey-274m14.2|wu:fb57a10
+568332|nars1|fb57a10|nars|si:dkey-274m14.2|wu:fb57a10
 568334|usp11|si:dkey-52h10.4
 568337|olfcd3|VR3.13a|v2r2l2
 568338|slc5a3b|sb:eu953|si:ch211-125e6.9
@@ -16800,7 +16800,7 @@
 568614|adra1d|si:dkey-37g12.4
 568615|sel1l|fj60e07|si:dkey-177p2.3|wu:fj60e07|zgc:56075
 568616|smyd2b|si:dkey-121j17.3|zgc:136609
-568618|si:dkey-110c1.7
+568618|unc13a|si:dkey-110c1.7
 568625|si:dkeyp-110c7.4
 568626|dtx2|zgc:194800
 568631|slc4a4a|id:ibd2520|nbce1|si:dkey-256m11.1|slc4a4
@@ -17265,7 +17265,7 @@
 569769|pomt1|zPOMT1|zgc:153731
 569770|cox8b
 569773|zbtb16b|wu:fb53a11
-569778|larsb|cb667|lars|wu:fb36b12
+569778|lars1b|cb667|lars|larsb|wu:fb36b12
 569779|myo10|si:ch211-283p23.2
 569780|si:dkey-12h9.6
 569781|zgc:193711|zgc:193703
@@ -21449,7 +21449,7 @@
 100002184|hpf1|fb44b08|wu:fb44b08|zgc:101819
 100002189|ghrhr2|si:ch211-93e11.6
 100002190|cyth3a|cyth3
-100002194|kif1bp|fc59b03|kbp|kiaa1279|unst23|wu:fc59b03|zgc:112085
+100002194|kifbp|fc59b03|kbp|kiaa1279|kif1bp|unst23|wu:fc59b03|zgc:112085
 100002196|si:ch211-235e9.8
 100002197|si:dkey-31c13.1
 100002200|barx2
