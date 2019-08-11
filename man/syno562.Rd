@@ -4,7 +4,7 @@
 \name{syno562}
 \alias{syno562}
 \title{Synonym information for Escherichia coli}
-\format{An object of class \code{character} of length 40436.}
+\format{An object of class \code{character} of length 38305.}
 \usage{
 syno562
 }
