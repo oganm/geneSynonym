@@ -1471,7 +1471,7 @@
 321614|wdr82|PTK9L|wu:fb22h06|zgc:55453|zgc:85635|zgc:91817
 321617|wu:fb23b01|fb23b01
 321618|h1-0|fb23b02|h1f0|wu:fb23b02|zgc:65861
-321619|atad5b|dkeyp-97g3.4|fb23b03|wu:fb23b03|zgc:66453
+321619|atad5b|dkeyp-97g3.4|fb23b03|rnf135|wu:fb23b03|zgc:66453
 321621|gldc|fb23b05|wu:fb23b05|zgc:66198
 321622|hmgb1a|hmgb1|ik:tdsubc_1a5|tdsubc_1a5|wu:fb23c02|xx:tdsubc_1a5|zgc:56110|zgc:77104
 321623|wu:fb23c03|fb23c03
@@ -6104,8 +6104,8 @@
 393495|creld2|zgc:66383
 393497|ndufa11|zgc:66391
 393498|spryd7b|zgc:66415|zgc:77103
-393499|zgc:66426
-393500|zgc:66440|deltex3|dtx3|fi25g12|wu:fi25g12
+393499|spef1|zgc:66426
+393500|dtx3|deltex3|fi25g12|wu:fi25g12|zgc:66440
 393501|marveld3|zgc:66450
 393502|zgc:66455
 393503|mfsd4aa|mfsd4|mfsd4a|zgc:66461
@@ -17336,7 +17336,7 @@
 569982|LOC569982
 569986|dip2cb|si:dkey-7l6.7
 569989|ca5a|ca5|zgc:171653
-569992|si:dkeyp-86b9.1|dnah10
+569992|dnah10|si:dkeyp-86b9.1
 569993|zgc:162944
 569999|snrnp35|zgc:112337
 570001|gpr158a|gpr158|sb:eu1014
