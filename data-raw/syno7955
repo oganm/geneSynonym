@@ -4929,7 +4929,7 @@
 352929|gpx4b|PHGPxb|cb692|zgc:110018
 352930|gli1
 352931|selenop|SePPa|SelPa|cb688|sepp1a|wu:fa55a04|wu:fb38a09|wu:fj79f04
-352933|sephs2|cb701|sps2|zgc:92096
+352933|sephs3|cb701|sephs2|sps2|zgc:92096
 352934|npas2|clock2|zfCLOCK2
 352935|arntl1b|bmal1b|zfBMAL3
 352937|dio2|Deio2|cb684
@@ -5769,7 +5769,7 @@
 393111|samm50|samm50a|zgc:55803
 393112|ncbp3|zgc:55870
 393113|upp2|uppl|zgc:55883
-393114|zgc:55888
+393114|ovch1|zgc:55888
 393115|apex2|zgc:55889
 393117|yju2|ccdc94|sb:eu776|zgc:55914
 393118|rundc3ab|rap2ip|rap2ip1|rundc3a|zgc:55828|zgc:55922
@@ -6442,7 +6442,7 @@
 393881|vps26a|vps26|wu:fc67e06|zgc:56673
 393882|tubg1|tubgl|zgc:55894
 393884|sdha|im:7141001|zgc:56051
-393885|zgc:56064|Ppp2ca
+393885|ppp2cab|Ppp2ca|zgc:56064
 393886|mad1l1|zgc:56571
 393887|wwox|zgc:55975
 393888|abhd2a|abhd2|zgc:55722
@@ -10825,7 +10825,7 @@
 550582|med4|zgc:110646
 550583|ift22|rabl5|zgc:110645
 550584|chrna5|zgc:110642
-550585|ppp2ca|zgc:110641
+550585|ppp2caa|ppp2ca|zgc:110641
 550586|enpp4|E-NPP 4|zgc:113299
 550587|lin37|fa95f12|wu:fa95f12|wu:fv61g04|zgc:110627
 550588|zgc:110626|im:7138190
