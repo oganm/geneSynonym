@@ -119,7 +119,7 @@
 394553|ube2m
 394554|tnnc2
 394555|tm4sf4
-394556|tnni1
+394556|tnni1.2|TnIs
 394557|sult1a1|pst|st1a3|stp|stp1|tspst1
 394558|gpx3|gpx-p|gpx3-a|gpx3-b|gshpx-3|gshpx-p
 394559|elob|elongin-B|elonginb|siii|tceb2
@@ -295,7 +295,7 @@
 394730|tomm40
 394732|ddx19b
 394733|fscn1|p55|snl
-394734|tuba1a|alphatub84|b-alpha-1|lis3|tuba1a-a|tuba1a-b|tuba3
+394734|tuba1cl.3|alphatub84|b-alpha-1|lis3|tuba1a|tuba1a-a|tuba1a-b|tuba3
 394735|rab3ip|gtpat12|rabin3
 394736|aldob|aldb|aldo2|xaldb
 394737|cdo1
@@ -331,7 +331,7 @@
 394767|itgb1|cd29|fnrb|gpiia|itgb1-a|itgb1-b|mdf2|msk12|vla-beta|vlab
 394768|calhm2|fam26b
 394769|cstf3
-394770|gal3st4
+394770|gal3st4.1|gal3st4
 394771|mtdh|3d3|aeg-1|aeg1|lyric
 394772|arfrp1|arl18|arp|arp1
 394773|plekhj1|gnrpx
@@ -339,7 +339,7 @@
 394775|hsph1|hsp105|hsp105a|hsp105b|hsp110|hsph1-a|hsph1-b
 394776|commd7|c20orf92
 394777|gfod1
-394778|peli2
+394778|peli2|pellino2|xpellino2
 394779|atp6v1c1
 394780|ywhaz|14-3-3z|14-3-3zeta|kcip-1|ywhaq|ywhaz-a|ywhaz-b
 394781|copg1|copg
@@ -350,7 +350,7 @@
 394786|ucp2|bmiq4|slc25a8|ucph
 394787|dnajb11|EDJ
 394788|emc8|cox4nb
-394789|tlcd4|tmem56|tmem56.2
+394789|tlcd4.2|tmem56.2
 394790|pck2|pck1
 394791|snd1|snd1-a|snd1-b|tdrd11
 394792|tspan13
@@ -670,7 +670,7 @@
 407874|brd9
 407875|foxc2|XFD-4|fd-4|fkh7|fkhl14|foxc2-a|foxc2-b|mfh-1|mfh1
 407876|rnpep
-407878|tuba4
+407878|tubal3.1
 407879|ppp1cc|PP-1G|ppp1g
 407880|pfkfb4
 407881|ube3a
@@ -882,7 +882,7 @@
 448055|adsl
 448056|luc7l|luc7b1
 448057|cisd1|cisd1-a|cisd1-b|mitoneet|zcd1
-448058|emx1.2|emx1
+448058|emx1
 448059|eva1b|fam176b
 448060|myl12b|mlc-b|mrlc2|mrlcb
 448061|atic
@@ -1051,7 +1051,7 @@
 448224|pnn|drs|drsp|mema|pinin|pnn-a|pnn-b|sdk3
 448225|c1galt1c1
 448226|hccs|cchl|hccs-a|hccs-b|mcops7
-448227|alb
+448227|alb|alb-a|alb-b
 448228|hmgb3|Xhmgb3
 448229|cldn3|claudin-3|cpe-r2|cpetr2|hrvp1|rvp1
 448230|c21orf62
@@ -1155,7 +1155,7 @@
 448328|nek6|nek7|sid6-1512
 448329|chordc1
 448330|bicdl2|BICDR-2|bicdr2|ccdc64b
-448331|fcn1|fcnm|ficolin
+448331|fcn1|fcn1-a|fcn1-b|fcnm|ficolin
 448332|clu|xclu
 448333|anxa1.2|anxa1
 448334|fhl1
@@ -1592,7 +1592,7 @@
 448768|gtf2h1|btf2|tfiih
 448769|nprl2|npr2|npr2l|tusc4
 448770|tollip|IL-1RAcPIP|tollip-a|tollip-b
-448771|sema3f
+448771|sema3fl
 448772|macroh2a2|h2afy|h2afy2
 448773|alas2|ALA-E|anh1|asb|xlsa
 448774|mad1l1|hsmad1|tp53i9|txbp181
@@ -1653,7 +1653,7 @@
 493240|c12orf4
 493241|dnajc4
 493242|arhgdig|rhogdi-3|rhogdi3
-493243|tsn
+493243|tsn|bclf-1|rchf1|rehf-1|tbrbp|trsln
 493244|usf2|bhlhb12|fip|usf2-a|usf2-b
 493245|oscp1|nor1
 493246|rpl12
@@ -1700,7 +1700,7 @@
 493287|htt|hd|huntington|it15
 493288|gdf3|der|derriere|vgr-2|vgr2
 493289|ctbp1|CtBP|bars|xctbp1
-493290|clic4
+493290|clic4|xclic4
 493291|nat8.4|camello|nat8
 493292|sec14l5|sec14l1
 493293|hey1|XHRT1|bc8|chf2|herp2|hesr1|hrt-1|hrt1|oaf1|xhr1
@@ -1889,7 +1889,7 @@
 493477|m6pr
 493478|rhpn1
 493479|slc38a6
-493480|rnf14|ara54|hfb30|hrihfb2038|triad2
+493480|rnf14.2|rnf14
 493481|agpat3
 493482|pigm
 493483|ythdc1
@@ -1930,7 +1930,7 @@
 493519|pcolce
 493520|dyrk3
 493521|psma1|pros30
-493522|calm2|camii|cmd-1|phkd|phkd2
+493522|calm1|calml2|cami|dd132
 493523|txn2
 493524|traf6|rnf85|traf6-a|traf6-b|xtraf6
 493525|fgf8|FGF-8|Xfgf-8|Xfgf8|aigf|fgf-8b|fgf8a|fgf8b|hbgf-8
@@ -2147,7 +2147,7 @@
 496572|vps4b|vps4a
 496573|morf4l1|morf4l2
 496574|cfl2|Cofilin-B|cfl2-b
-496575|sema3f|sema-iv|sema4|semak
+496575|sema3f
 496576|sec31a|sec31l1
 496577|ndst1
 496578|lmbr1|achp|dif14|ppd2|tpt
@@ -2738,7 +2738,7 @@
 548510|nupl2|nlp-1|nlp_1|nup42
 548511|acyp2|acym|acyp
 548512|scp2
-548513|cnn1
+548513|cnn1|XclpH3|clpH3
 548514|f2
 548515|gys2
 548516|elp2|shinc-2|statip1|stip
@@ -2776,7 +2776,7 @@
 548554|yrdc|drip3|irip|sua5
 548555|bysl
 548557|ppm1g
-548558|tuba3e|tuba4
+548558|tubal3.2
 548559|tle2|ESG|ESG1|Xesg1|esg2|esg3|grg2|grg3|hst18976|tle3|tle3a|xgrg3
 548560|aph1a|aph-1a|cgi-78
 548561|fn3k
@@ -3569,7 +3569,7 @@
 549451|btf3|beta-nac|btf3a|btf3b|nacb
 549452|adk
 549453|h1-1|h1fx|h1x
-549454|dop1a|dopey1
+549454|dop1a|dop1|dopey1
 549455|pgm2
 549456|snrnp25
 549457|mphosph6
@@ -3711,7 +3711,7 @@
 549603|tcirg1|a3|atp6i|oc116|optb1|tirc7|vph1
 549604|sec23b
 549605|cldn12|claudin-12
-549607|sox9|Xt-sox9|cmd1|cmpd1|sox-9|sra1
+549607|sox9|Xt-sox9|cmd1|cmpd1|sox-9|sox9-a|sox9-b|sra1
 549608|washc1|wash1
 549609|utp6
 549610|gsn|scin
@@ -4192,7 +4192,7 @@
 550110|slc37a4|g6pt1|g6pt2|g6pt3|gsd1b|gsd1c|gsd1d|pro0685|trg19
 550111|acvr1|XAR4|actri|acvr1-a|acvr1-b|acvr1a|acvrlk2|alk-2|alk2|alk8|fop|sax|skr1|tsri
 553157|ogt
-594875|clca1|cacc|cacc1|clcrg1|gob5
+594875|clca1.1|clca1
 594876|plin1|peri|perilipin|plin
 594877|mxra7
 594878|tmem52
@@ -4455,7 +4455,7 @@
 613095|arhgef3.1|arhgef3|gef3|sta3|xpln
 613096|bhlhe41|bhlhb3|dec2|sharp-1|sharp1
 613097|ndfip1|n4wbp5
-613098|mmp13|MMP-13|mmp7|xCol|xcl3
+613098|mmp13
 613099|plp1|hld1|mmpl|plp|plp1-a|plp1-b|pmd|spg2
 613100|cfi|ahus3|c3b-ina|c3bc4bi|c3bina|cfi-a|cfi-b|kaf
 613101|mrpl45
@@ -5147,7 +5147,7 @@
 779543|phf6
 779544|krr1
 779545|cdc45|cdc45l|cdc45l2|porc-pi-1
-779546|cdh1|E-Cad|E-cadherin|XB-cadherin|XBcad|XTCAD-1|c-cadherin|cadherin-1|cdhc-A|l-cam|lcam|uvo|uvomorulin|xb-cad|xcdh1
+779546|cdh1|E-Cad|E-cadherin|XTCAD-1|l-cam|lcam|uvo|uvomorulin
 779547|pzp
 779548|zbtb9
 779549|LOC779549
@@ -5289,7 +5289,7 @@
 779691|timm17b|jm3|tim17b
 779692|mchr1.2|gpr24|mch1r|mchr1|mchr1a|slc1
 779693|npy5r
-779694|ptgds
+779694|ptgds|XlCpl1|cerebrin-28|cpl-1|cpl1|l-pgds|lipocalin|lpgds|pds|pgd2|pgds|pgds2|ptgds-a|ptgds-b
 779695|dhrs7b
 779696|pgap3|perld1
 779697|MGC146893
@@ -6057,7 +6057,7 @@
 100036642|b4galnt4
 100036643|mapk8ip2|ib2|jip2|prkm8ipl
 100036644|pak4|pak-4
-100036645|cnnm2|acdp4|cnnm4
+100036645|cnnm4|acdp4
 100036646|rhbdf2|rhbdl5|rhbdl6
 100036647|sptan1|neas|sptan1-a|sptan1-b
 100036648|kif17|kif17b|kif3x
@@ -6258,7 +6258,7 @@
 100038058|hoxd3|hox-4.1|hox-d3|hox1d|hox4|hox4a
 100038059|not|Xnot|Xnot-2|Xnot1|Xnot2|Znot|flh|not-a|not-b|not1|noto
 100038060|fga|fib2|fibrinogen
-100038061|polg
+100038061|fanci|polg
 100038062|rab2a|rab2
 100038063|slc12a3l|ncct|slc12a3|slc12a3.2
 100038064|miip|iip45
@@ -6305,7 +6305,7 @@
 100038105|carhsp1|crhsp-24|csdc1
 100038106|mrpl36|brip1|l36mt|prpl36|rpmj
 100038107|tbcb|cg22|ckap1|ckapi
-100038108|tuba4a|tuba1
+100038108|tuba1b|tuba1
 100038109|rbpms2|hermes|rbpms
 100038110|dnajc27|Adcy3|dnajc27-a|dnajc27-b|rap1
 100038111|lmnb2|Lamin-L(II)|lamb2|lamin-b2|lmn2|lmnb2-a|lmnb2-b
@@ -6320,7 +6320,7 @@
 100038120|ccnl1|ania-6a|bm-001|pro1073
 100038121|cbx3|cbx3-a|cbx3-b|hech|hp1-gamma|hp1hs-gamma|xhp1g
 100038122|cttn|ems1
-100038123|tuba1b|k-alpha-1
+100038123|tuba1a|k-alpha-1
 100038124|rax|Rx2A|Xrax|Xrx1|Xrx1A|rax-a|rax-b|rax1|rx|rx-1|rx1|rx1a
 100038125|heca|hdc|hdcl|hhdc
 100038126|daxx|bing2|dap6
@@ -6501,7 +6501,7 @@
 100101660|mn1|meningioma|mgcr|mgcr1|mgcr1-pen|mn1.1|mn1.2
 100101661|tspan18|tspan
 100101662|dach2
-100101663|emx1|XEmx1|emx1.1
+100101663|emx1l|XEmx1
 100101664|ipo7|imp7|ranbp7
 100101665|ctnnd1|Xp120|Xp120(ctn)|cas|ctnnd|p120|p120(ctn)|p120-catenin|p120-ctn|p120cas|p120ctn
 100101666|sycp2l|no145
@@ -6959,7 +6959,7 @@
 100125005|apbb1ip
 100125006|dnajb4
 100125007|samd11
-100125008|peli1
+100125008|peli1|pellino1|xpellino1
 100125009|mfhas1
 100125010|entpd3|NTPDase3
 100125011|zbtb49|znf509
@@ -7058,7 +7058,7 @@
 100125105|mettl6
 100125106|bub1b|bubr1
 100125107|LOC100125107
-100125108|tnni1
+100125108|tnni1|TnI
 100125109|cryba4
 100125110|tmem177
 100125111|rps15a|rps22
@@ -7492,7 +7492,7 @@
 100127778|ino80|ino80a|inoc1
 100127779|ccdc160
 100127780|ptges3l
-100127781|cstb
+100127781|cstb|cst6|epm1|pme|stfb
 100127782|prkab2
 100127786|tmem132d
 100127788|znf721
@@ -7826,7 +7826,7 @@
 100135385|fah
 100135386|ccdc56
 100135387|hspb3|dhmn2c|hmn2c|hspl27
-100135388|LOC100135388
+100135388|tff3.5
 100135389|LOC100135389|mal
 100135393|spryd4
 100135399|taco1
@@ -8279,7 +8279,7 @@
 100145170|nt5c3a|nt5c3
 100145171|rnf128|grail|greul1
 100145172|tcaf1|fam115|fam115a|fam139a
-100145173|gal3st4
+100145173|gal3st4.6|gal3st4
 100145174|LOC100145174
 100145175|LOC100145175
 100145176|rsl24d1|rlp24|rpl24|rpl24l|rvas3
@@ -8444,7 +8444,7 @@
 100145353|slc15a1|pect1|pept1
 100145354|arhgef5|gef5|p60|tim|tim1
 100145355|sh3d21|c1orf113
-100145356|cldn8.2|claudin-8
+100145356|cldn8.4
 100145357|ralgapa2
 100145358|bag3|bag-3|bis|cair-1
 100145359|pea15|hummat1h|pea-15|ped-pea15
@@ -8496,7 +8496,7 @@
 100145456|ntmt1|NTM1A|mettl11a|nrmt
 100145457|smap1
 100145458|pigo
-100145459|cnnm4|acdp4
+100145459|cnnm2
 100145460|cc2d1a|freud-1|mrt3
 100145461|znf865
 100145462|ccdc81
@@ -8537,7 +8537,7 @@
 100145497|tdrkh|tdrd2
 100145498|eml5
 100145499|smg1
-100145501|LOC100145501
+100145501|siglecl2|pro940|siglec-10|siglec10|slg2
 100145502|igf3|igf-3|igf2
 100145503|LOC100145503
 100145504|kcnk6|k2p6.1|kcnk8|toss|twik-2|twik2
@@ -8661,7 +8661,6 @@
 100145629|xpc|rad4|xp3|xpcc
 100145630|ermp1
 100145631|sass6.2|SASS6
-100145632|dopey1
 100145633|pom121
 100145634|c1orf112
 100145635|unc13d
@@ -8840,7 +8839,7 @@
 100145809|papola
 100145810|smc4|XCAP-C|hCAP-C|smc4l1|xsmc4
 100145811|tctn1
-100145813|kcna1|k(v)1.1|kcna2|kv1.1
+100145813|kcna3|k(v)1.3|kcna1|kv1.3
 100145814|srgap2|fnbp2
 100145815|rev3l
 100145816|tm2d3
@@ -8900,7 +8899,7 @@
 100158505|picalml|calm|clth|lap|picalm|picalm.1
 100158506|cps1|cps
 100158507|tead1|XNTEF-1|tef-1|xlNTEF-1|xtead1
-100158511|siglec10|pro940|siglec-10|slg2
+100158511|siglecl1
 100158512|usp53
 100158513|ptpra|XPTPa|heptp|hlpr|hptpa|hptpalpha|lrp|ptpa|ptprl2|r-ptp-alpha|rptpa
 100158514|syn1|syn1-a|syn1-b|synapsin
@@ -8943,7 +8942,7 @@
 100158551|rexo5
 100158552|kansl3
 100158553|dhx34
-100158554|LOC100158554|clca3p
+100158554|clca3p|clca3
 100158555|cfap74|c1orf222
 100158556|antxr2|cmg-2|cmg2|ish|jhf
 100158557|larp1b|larp2
@@ -9021,7 +9020,7 @@
 100158631|pcnx4|c14orf135|fbp2|pcnxl4
 100158632|piga
 100158633|maml3
-100158634|abcb8
+100158634|abcb8|MITOSUR
 100158635|polr1a
 100158636|espl1
 100158637|mms22l|c6orf167
@@ -9151,7 +9150,7 @@
 100170465|uhrf1bp1l
 100170466|usp9x|dffrx|faf|fam
 100170467|kiaa1958
-100170468|pip4k2a
+100170468|pip4k2a|pi5p4ka|pip5k2a|pip5kiia|pipk
 100170469|rpap1
 100170470|lefty|XATV|Xlefty|antivin|atv|leftb|lefty-1|lefty-a|lefty-b|lefty1|leftyb
 100170471|acot12
@@ -9187,7 +9186,7 @@
 100170501|ccp110|cp110
 100170502|spag17
 100170512|arhgap29
-100170534|cstb|cst6|epm1|pme|stfb
+100170534|cstb
 100170539|trim39
 100170540|styk1
 100170541|ablim1|ablim|limab1|limatin
@@ -9556,7 +9555,7 @@
 100216279|itgb5
 100216280|unc50|gmh1|unc50-a|unc50-b|uncl|urp
 100216281|mbd2|dmtase|ny-co-41
-100216282|rhogl.1|arhg|rhog
+100216282|rhogl|arhg|rhog|rhogl.1
 100216283|cmahp|cmah|csah
 100216284|larp4
 100216285|trpt1
@@ -9650,7 +9649,7 @@
 100316910|tepp
 100316911|krt80
 100316918|pcdhga3
-100316919|kcnt2|kcnt1|slick|slo2.1
+100316919|kcnt1
 100316929|kiss1r|axor12|gpr54|gpr54-1b|kissr1a
 100316931|kiss1b
 100327234|ube2o|e2-230k
@@ -9812,7 +9811,7 @@
 100379707|ggact|a2ld1
 100379708|dnajc5b|csp-beta
 100379709|lyrm1
-100379710|akap7
+100379710|akap7|akap15|akap18
 100379711|ccdc112
 100379712|tchp
 100379714|mgam
@@ -10132,7 +10131,7 @@
 100380042|dlg3
 100380043|msh2
 100380044|mboat7|bb1|leng4|lpiat|lrc4|mboa7|mboat6|oact7
-100380045|pip4k2b
+100380045|pip4k2b|PI5P4KB|PIP5K2B|PIP5KIIB|PIP5KIIbeta
 100380046|atrx|rad54
 100380047|mrps23
 100380048|tacc1
@@ -10197,7 +10196,7 @@
 100380110|efcab14|kiaa0494
 100380111|h2ac16|hist1h2al|hist1h2am
 100380112|fam89a
-100380113|tmprss2|Xesp-2|pp9284|prss10
+100380113|tmprss2.13
 100380114|eif4g1|eif4g
 100380115|rprd1a
 100380116|top1.2|topi
@@ -10422,7 +10421,7 @@
 100485222|kcnj4|hir|hirk2|hrk1|irk3|kir2.3
 100485224|fan1|mtmr15
 100485225|aqp12a|aqp12|aqpx2
-100485226|rnf14
+100485226|rnf14.5
 100485228|lzts3
 100485229|thbd|thrm
 100485230|LOC100485230
@@ -10662,7 +10661,7 @@
 100485630|LOC100485630
 100485631|srebf1|srebp1
 100485632|spag9
-100485633|LOC100485633
+100485633|cdh3
 100485634|pde6c
 100485635|LOC100485635
 100485636|LOC100485636
@@ -11312,7 +11311,7 @@
 100486752|cdr2l
 100486753|sycn
 100486758|LOC100486758
-100486760|pkhd1l1|pkhdl1
+100486760|pkhd1l1.1|pkhd1l1|pkhdl1
 100486763|LOC100486763
 100486764|LOC100486764
 100486765|LOC100486765
@@ -12014,7 +12013,7 @@
 100488056|LOC100488056
 100488057|igdcc4|nope
 100488058|map3k10|mlk2|xmlk2
-100488060|sephs2
+100488060|sephs3|sephs2
 100488061|polrmt
 100488063|kcnk4
 100488065|LOC100488065
@@ -12512,7 +12511,7 @@
 100488944|trex2
 100488946|slc10a6
 100488947|ppargc1b
-100488948|stk39
+100488948|stk39|dcht|pask|spak
 100488949|map3k9|mekk9|mlk1|prke1
 100488953|slc25a22
 100488956|LOC100488956
@@ -12554,7 +12553,7 @@
 100489037|sema4b
 100489038|cd40lg
 100489041|rps6ka5
-100489043|tmem56|tmem56-b
+100489043|tlcd4|tmem56|tmem56-b
 100489044|tbx18
 100489045|tmprss6|irida
 100489046|shisa8
@@ -12662,7 +12661,7 @@
 100489231|LOC100489231
 100489232|fads1
 100489234|LOC100489234
-100489237|LOC100489237
+100489237|grm8l
 100489238|LOC100489238
 100489239|mtmr8
 100489240|lmtk2
@@ -13034,7 +13033,7 @@
 100489882|LOC100489882
 100489883|LOC100489883
 100489885|cradd.2|raidd
-100489887|satpb|Xwig1|ta-2
+100489887|satpa|Xwig1|satpb|ta-2
 100489891|LOC100489891
 100489892|znf385d
 100489893|LOC100489893
@@ -13255,7 +13254,7 @@
 100490284|LOC100490284
 100490287|kiaa0895l
 100490288|echdc3
-100490289|LOC100490289
+100490289|tuba1cl.1
 100490291|LOC100490291
 100490294|LOC100490294
 100490298|LOC100490298
@@ -13562,7 +13561,6 @@
 100490835|LOC100490835
 100490836|LOC100490836
 100490837|LOC100490837
-100490838|LOC100490838
 100490840|LOC100490840
 100490841|LOC100490841
 100490845|sc5d
@@ -13676,7 +13674,7 @@
 100491039|hivep1|Shn1|cirip|crybp1|mbp-1|prdii-bf1|schnurri|xhivep1|zas1|znf40|znf40a
 100491044|spata48|c7orf72
 100491045|cpamd8
-100491047|slc9a4
+100491047|slc9a4|nhe2
 100491048|chadl
 100491049|LOC100491049
 100491050|tmem132c
@@ -14033,7 +14031,7 @@
 100491752|efr3b
 100491755|LOC100491755
 100491761|wnt2b|Xwnt-2b|wnt-2b|wnt2b-a|wnt2b-b|xwnt2b
-100491762|kcnt2
+100491762|kcnt2|slick|slo2.1
 100491763|gprc5b|raig2
 100491764|LOC100491764
 100491765|xpo6|exp6|exportin-6|ranbp20|xpo6-a|xpo6-b
@@ -14757,7 +14755,7 @@
 100493076|LOC100493076
 100493077|dusp10.2
 100493082|eg435916.2
-100493083|afdn|af6
+100493083|afdn|af-6|af6|mllt4
 100493085|slc7a14
 100493086|ipo13
 100493090|en1|en-1|en1-a|en1-b|eng1|engrailed-1|xen1
@@ -16602,7 +16600,7 @@
 100496286|piwil3|hiwi3
 100496292|arhgap30
 100496293|LOC100496293|xhe1
-100496298|calm1|calml2|cami|dd132
+100496298|calm2|camii|phkd|phkd2
 100496301|adora3.2|adora3
 100496302|g2e3
 100496304|veph1
@@ -16642,7 +16640,7 @@
 100496352|dtx3l
 100496354|LOC100496354
 100496360|LOC100496360
-100496361|slc6a4|5-htt|5-httlpr|5htt|htt|ocd1|sert
+100496361|slc6a4l|5-htt|5-httlpr|5htt|htt|ocd1|sert
 100496364|LOC100496364
 100496365|jakmip3
 100496366|sorbs3|scam-1|scam1|sh3d4|vinexin
@@ -16722,7 +16720,7 @@
 100496494|LOC100496494
 100496496|LOC100496496
 100496499|syt15
-100496501|tff3.7|p4-a|sml1|tff2|xp4|xp4.1
+100496501|tff3.8|p4-a|sml1|tff2|xp4|xp4.1
 100496502|pax7|pax-7
 100496503|dnmt3a
 100496504|LOC100496504
@@ -16852,7 +16850,7 @@
 100496712|cunh9orf43
 100496713|mcidas|idas|mci
 100496714|LOC100496714
-100496715|neu3|sial3
+100496715|neu3.1|neu3|sial3
 100496716|LOC100496716
 100496720|LOC100496720
 100496722|ankar
@@ -16897,7 +16895,7 @@
 100496790|cops7b
 100496791|tnfrsf8|cd30|ki-1
 100496792|mc1r
-100496794|kcna3|k(v)1.3|kcna2|kv1.3
+100496794|kcna2|k(v)1.2|kv1.2
 100496795|LOC100496795
 100496796|LOC100496796
 100496797|LOC100496797
@@ -16949,7 +16947,7 @@
 100496865|LOC100496865
 100496866|mtrex|skiv2l2
 100496868|LOC100496868
-100496869|LOC100496869
+100496869|neu3.3|sial3
 100496870|myb100496870.1provisional
 100496871|LOC100496871
 100496873|LOC100496873
@@ -17795,7 +17793,7 @@
 100498345|trat1|hspc062|tcrim
 100498348|cog5|goltc1|gtc90
 100498350|sned1
-100498351|npy2r
+100498351|npy2r|npyr
 100498356|LOC100498356
 100498358|LOC100498358
 100498359|kcnj14
@@ -18289,7 +18287,7 @@
 101730406|LOC101730406
 101730408|LOC101730408
 101730409|LOC101730409
-101730410|dok1
+101730410|LOC101730410
 101730411|LOC101730411
 101730412|LOC101730412
 101730413|tmem102
@@ -18725,7 +18723,7 @@
 101731200|LOC101731200
 101731201|LOC101731201
 101731202|LOC101731202
-101731204|LOC101731204
+101731204|cyp2e1.2
 101731206|cspg5
 101731207|LOC101731207
 101731209|il27ra
