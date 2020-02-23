@@ -4,7 +4,7 @@
 \name{syno10090}
 \alias{syno10090}
 \title{Synonym information for Mus musculus}
-\format{An object of class \code{character} of length 72150.}
+\format{An object of class \code{character} of length 72097.}
 \usage{
 syno10090
 }
