@@ -11695,7 +11695,7 @@
 555214|gpatch2|si:ch211-57i17.3|si:ch73-21k16.4
 555216|svopb|si:dkey-202g15.8
 555217|zbtb11|ZNF-U69274|man|marsanne|mne|si:dkey-98p3.1|si:dkeyp-116g9.2|wu:fc06h02|wu:fe36e08
-555218|oatx|oatl
+555218|oatx|oat1|oatl
 555219|znf609b|dZ112P11.1|fc26a02|fe47c12|si:busm1-112p11.1|wu:fc26a02|wu:fe47c12|znf609
 555222|sh3bp5a
 555223|tspearb|fc86e12|si:ch211-244a17.4|tspear|wu:fc86e12
@@ -20046,7 +20046,7 @@
 795293|slc17a7a|slc17a7|vglut1
 795295|cmklrl2|si:ch211-240b21.4
 795300|jac4|fa92h10|si:dkeyp-32g11.9|wu:fa92h10
-795305|acod1|irg1|si:dkey-57a22.9
+795305|acod1|irg1|si:dkey-57a22.9|zCAD
 795310|cetn4|cb732|cetn2
 795311|npy2rl|si:ch73-24a15.1|si:dkey-58j19.3
 795315|si:dkey-96g2.1
@@ -24014,7 +24014,7 @@
 100150205|si:dkey-110g7.8|sb:eu2463
 100150208|tmem114
 100150220|si:ch73-42k18.1
-100150223|si:ch1073-278o19.1|ninj1
+100150223|ninj1|si:ch1073-278o19.1
 100150224|ikzf2|si:zfos-1425h8.1
 100150225|si:dkey-23k10.3|Gene26589
 100150229|LOC100150229
