@@ -2442,7 +2442,7 @@
 496871|emc2|kiaa0103|ttc35
 496872|serinc1.1|serinc1|serinc1-a|serinc1-b|tde1l|tde2|tms-2
 496873|cables2
-496874|pttg1ip.2|pttg1ip
+496874|pttg1ip2|pttg1ip|pttg1ip.2
 496875|thbs3|tsp-3
 496876|znf518b|kiaa1729
 496877|gyg2
@@ -3078,7 +3078,7 @@
 548934|rpl27
 548936|atp6v1h
 548937|nrbf2
-548938|adprhl2|arh3
+548938|adprhl2|adprs|arh3
 548939|pfdn5
 548940|mpdu1|cdgif|hbebp2bpa|lec35|my008|pp3958|pqlc5
 548941|fam136a
@@ -5961,7 +5961,7 @@
 780374|neto2
 780375|slc6a13|gat-2|gat2|slc6a12
 780376|mrpl22
-780377|tent2|gld-2|gld2|papd4|papd4-a|papd4-b|xgld2
+780377|tent2|gld-2|gld2|papd4|papd4-a|papd4-b|xgld-2|xgld2
 780378|slc26a6|pendrin-L1
 780379|camk2b|cam2|camk2|camk2g|camkII|camkb
 780380|bivm
@@ -9307,7 +9307,7 @@
 100216027|XB5994047
 100216028|lin28b|LIN-28|csdd2
 100216029|man1a2|man1b
-100216030|aifm2
+100216030|aifm2|AMID|FSP1
 100216031|ficd|hype|unq3041
 100216032|tram2
 100216033|mnt|bhlhd3|mad6|mxd6|rox|xmnt
@@ -9544,7 +9544,7 @@
 100216279|itgb5
 100216280|unc50|gmh1|unc50-a|unc50-b|uncl|urp
 100216281|mbd2|dmtase|ny-co-41
-100216282|rhogl|arhg|rhog|rhogl.1
+100216282|rhog2|arhg|rhog|rhogl|rhogl.1
 100216283|cmahp|cmah|csah
 100216284|larp4
 100216285|trpt1
