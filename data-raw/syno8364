@@ -564,7 +564,7 @@
 395000|ckmt1b|ckmt|ckmt1|ckmt1b-a|ckmt1b-b|umtck
 395001|glod4
 395002|lsm4
-395003|dgat2|hmfn1045
+395003|dgat2|ARAT|hmfn1045
 395004|surf4.2|erv29|surf4
 395005|ckm|ckmm|m-ck
 395006|ube2n|ubc13|ubch-ben
@@ -5223,7 +5223,7 @@
 779627|akr1c3
 779628|atp6v1b2|vha55
 779629|depdc7|depdc7-a|depdc7-b|tr2
-779630|lmbrd1
+779630|lmbrd1|LMBD1
 779631|acaa2
 779632|alad
 779633|ces3.4|ce-2|ces2|ces2a1|esterase|pce-2
