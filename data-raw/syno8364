@@ -4183,7 +4183,7 @@
 550104|spsb3
 550105|srpk1|sfrsk1
 550106|rcbtb1
-550107|dtx3|dtx3-like
+550107|dtx3-like|dtx3|dtx3-like.1
 550108|ndufa6
 550109|ikzf5|pegasus|zfpn1a5|znfn1a5
 550110|slc37a4|g6pt1|g6pt2|g6pt3|gsd1b|gsd1c|gsd1d|pro0685|trg19
@@ -5704,7 +5704,7 @@
 780114|bcl11a|ZNF856|bcl11a-l|bcl11a-s|bcl11a-xl|ctip1|dilos|evi9
 780115|ssbp1|mt-ssb|mtssb|soss-b1|ssbp|ssbp1-a|ssbp1-b
 780116|sec23a|clsd
-780117|dvl2|Xdsh|dishevelled|dsh|dvl|xdd1
+780117|dvl2|Xdsh|Xdsh2|dishevelled|dsh|dvl|xdd1
 780118|pla2g6|cai-pla2|gvi|inad1|ipla2|pla2|pnpla9
 780119|fnbp1
 780120|rora|nr1f1|ror1|ror2|ror3|rzr-alpha|rzra
@@ -12707,7 +12707,7 @@
 100489505|ugt1a1
 100489506|XB959836
 100489507|LOC100489507
-100489509|guca1b
+100489509|guca1b|gcap2|guca2|rp48
 100489510|LOC100489510
 100489511|f3
 100489513|vit
