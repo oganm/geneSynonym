@@ -7570,7 +7570,7 @@
 100127880|dnaaf6|cild36|cxorf41|nysar97|pih1d3|twister
 100134991|tnf|TNF-a|dif|tnf-alpha|tnfa|tnfsf2|xtnf
 100134992|igf2|IGF-II|igf-2|igf2-a|igf2-b|insigf|pp9974
-100134993|fap|dppiv|fap-A|fapa|seprase
+100134993|fap|dppiv|fap-A|fap-alpha|fapa|seprase
 100134994|klf9|BTEB|BTEB1|klf9-a|klf9-b
 100134995|prox1|prospero|xprox1
 100134996|mif|gif|glif|mmif
@@ -16367,7 +16367,7 @@
 100496348|dpysl5
 100496349|tshb|TSH|TSH-beta|tshb-A
 100496351|LOC100496351
-100496352|LOC100496352|dtx3l
+100496352|dtx3l
 100496360|XB5796700
 100496361|slc6a4l|5-htt|5-httlpr|5htt|htt|ocd1|sert
 100496364|LOC100496364
