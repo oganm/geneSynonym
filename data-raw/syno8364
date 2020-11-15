@@ -2528,7 +2528,7 @@
 496958|ppp1cb
 496959|rpn2
 496960|twf1|ptk9|ptk9l
-496961|msi1|Msi1h|Musashi|Musashi-1|Musashi1|XNrp-1|nrp-1B
+496961|msi1|Msi1h|Musashi|Musashi-1|Musashi1|XNrp-1|msi-1|nrp-1B
 496962|gnai3
 496963|gbx2.2|XGBX-2
 496964|ubp1|cp-2|cp2|lbp-1|lbp-1a|lbp-1b|lbp1|lbp1a|lbp1b|tfcp2l1|ubp-1
@@ -3350,7 +3350,7 @@
 549221|tmem241|c18orf45
 549222|nqo1
 549223|vps36
-549224|pkm|cthbp|oip3|pk3|pklr|pkm2|tcb|thbp1
+549224|pkm|cthbp|oip3|pk|pk3|pklr|pkm2|tcb|thbp1
 549225|timm21|c18orf55
 549226|actr6|arp6|cda12|harp6|harpx|hspc281|mstp136
 549227|polr2e
@@ -4172,7 +4172,7 @@
 550092|pard6g|par-6g|par6gamma|pard6b
 550093|mtf2|Xpcl2|m96|pcl2
 550094|pdia5|pdir
-550095|pcif1
+550095|pcif1|ppp1r121
 550096|exoc5|sec10l1
 550097|atg16l1|atg16|atg16l
 550099|prrg1
@@ -7157,7 +7157,7 @@
 100125212|bbs1|bbs2l2
 100125213|nsd2|mmset|reiibp|trx5|whs|whsc1
 100125214|ocrl|inpp5f|locr|nphl2|ocrl1
-100125215|opn1sw|bcp|bop|cbt|sws1
+100125215|opn1sw|bcp|bop|cbt|opn1sw1|sws1
 100125216|bbs7|bbs2l1
 100125217|rab8a|c-mel|mel|rab8
 100125218|spi1|pu.1|pu1|sfpi1|spi-1|spi-a
@@ -7915,7 +7915,7 @@
 100144636|fabp1|fabp|fabpl|l-fabp
 100144637|tln2|ilweq|talin-2
 100144638|nlk|Xnlk|nlk1
-100144639|dvl1|Xdsh|dsh|dsh1|dvl|dvl-1
+100144639|dvl1|Xdd1|Xdsh|dsh|dsh1|dvl|dvl-1
 100144640|sox6|hssox6
 100144641|bves|Popeye-1|Xbves|bves-a|bves-b|hbves|pop-1|pop1|popdc1
 100144642|chrdl1|chl|da141h5|da141h5.1|nrln1|vopt
@@ -10638,7 +10638,7 @@
 100485630|LOC100485630
 100485631|srebf1|srebp1
 100485632|spag9
-100485633|cdh3|EP-cadherin|U-cadherin|XB-cadherin|XBcad|b-cadherin|c-cadherin|cdh3-a|cdh3-b|cdhc-A|cdhp|hjmd|pcad|xb-cad
+100485633|cdh3|EP-cadherin|P-cadherin|U-cadherin|XB-cadherin|XBcad|b-cadherin|c-cadherin|cdh3-a|cdh3-b|cdhc-A|cdhp|hjmd|pcad|xb-cad
 100485634|pde6c
 100485635|XB5727634
 100485636|LOC100485636
@@ -16600,7 +16600,7 @@
 100496768|erap1
 100496769|slc35f4
 100496770|fmo5.1
-100496772|tctex1d2
+100496772|dynlt2b|tctex1d2
 100496773|rnase4
 100496774|stard6
 100496775|gdf7|bmp12|gdf-7|gdf16
