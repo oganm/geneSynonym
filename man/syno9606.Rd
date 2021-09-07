@@ -4,7 +4,7 @@
 \name{syno9606}
 \alias{syno9606}
 \title{Synonym information for Homo sapiens}
-\format{An object of class \code{character} of length 62362.}
+\format{An object of class \code{character} of length 63895.}
 \usage{
 syno9606
 }
