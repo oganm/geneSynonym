@@ -4,7 +4,9 @@
 \name{syno7227}
 \alias{syno7227}
 \title{Synonym information for Drosophila melanogaster}
-\format{An object of class \code{character} of length 25098.}
+\format{
+An object of class \code{character} of length 25098.
+}
 \usage{
 syno7227
 }
