@@ -2175,7 +2175,7 @@
 496601|coq9|coq9-a|coq9-b
 496602|rangrf|rangnrf
 496603|psmb4|hn3|macropain|pros26
-496604|smdt1|c22orf32
+496604|smdt1|c22orf32|emre
 496605|timm17a|tim17|tim17a
 496606|ap3s2
 496607|snf8|d11moh34|vps22
@@ -3684,7 +3684,7 @@
 549577|ddx4|vasa|xvlg1
 549578|washc3|ccdc53
 549579|pebp1.2|hcnp|pbp|pebp|pebp1|rkip
-549580|ubac1|ubadc1
+549580|ubac1|kpc2|ubadc1
 549581|thoc5|fmip|thoc5-a|thoc5-b
 549582|mat2b
 549583|borcs7|c10orf32
@@ -3793,7 +3793,7 @@
 549690|oat|hoga|oat.1
 549691|cep41|tsga14
 549692|npm2
-549693|prickle1|Prickle-b|XPk|XPk-1|prickle|prickle1-a|prickle1-b|rilp
+549693|prickle1|Prickle-b|XPk|XPk-1|pk|prickle|prickle1-a|prickle1-b|rilp
 549694|dad1|DAD-1|ost2
 549695|rbmx2
 549696|dnajc19
@@ -4635,7 +4635,7 @@
 733716|mtrr
 733717|ccdc186|c10orf118
 733718|pak2|pak65|pakgamma
-733719|fyttd1
+733719|fyttd1|uif
 733720|brwd3
 733721|nptn
 733722|abraxas1|abra1|ccdc98|fam175a
@@ -7859,7 +7859,7 @@
 100135411|pmp2|fabp8|m-fabp|mp2
 100135412|kiaa0895
 100135413|mt4|mt1|mtiv
-100135414|tmem211
+100135414|tmem211|lhfpl7
 100135415|gnrhr2|gnrhr1/iii
 100135416|gnrhr2/nmi
 100135417|gnrhr|GNRHR1|gnrhr3/ii|xgnrhr
@@ -18933,7 +18933,7 @@
 101732987|insl5
 101732988|LOC101732988
 101732991|LOC101732991
-101732995|LOC101732995|Xtnr3-A
+101732995|LOC101732995|Xtnr3-A|nodal3-A|nr3-A
 101732997|LOC101732997
 101732999|acrbp.1
 101733000|LOC101733000
