@@ -102,7 +102,7 @@
 30211|pyya|pyy|zgc:194161|zgc:194175
 30212|gsc|ZGSC|ik:tdsubc_1c10|ik:tdsubc_2g4|ik:tdsubc_2h11|xx:tdsubc_1c10|xx:tdsubc_2g4|xx:tdsubc_2h11|zgc:101595
 30214|htt|ZHD|hd
-30216|hbba1|ba1|ba2|ba2l|hbb|hbba1.2|si:bY187G17.2|si:dZ118J2.3|zgc:123164|zgc:136512
+30216|hbba1|ba1|ba2|ba2l|hbb|hbba1.2|si:bY187G17.2|si:dZ118J2.3|si:dz118j2.1|zgc:123164|zgc:136512|zgc:92900
 30218|efna2a|EPLG6|LERK6|ZfEphL3|efna2|elf1|id:ibd3534|tklelf1
 30219|efnb2a|efnb2|id:ibd5072
 30221|psen1|pre1|psen|zf-PS1|zfPS1
@@ -2327,7 +2327,7 @@
 324074|wu:fc18a02|fc18a02
 324076|wu:fc18a05|fc18a05
 324078|wu:fc18b01|fc18b01
-324079|adi1|Fe-ARD|MTCBP-1|Ni-ARD|fc18b03|wu:fc18b03|zgc:73201
+324079|adi1|ARD'|Fe-ARD|MTCBP-1|Ni-ARD|fc18b03|wu:fc18b03|zgc:73201
 324088|polr2g|polr2gl|wu:fc18d05|zgc:55297
 324089|det1|wu:fc18d06|zgc:66486
 324090|acbd6|fc69g03|wu:fc18d09|wu:fc69g03
@@ -7977,7 +7977,7 @@
 431724|impdh1a|IMPD 1a|IMPDH 1a|zgc:91911
 431725|rab7b|wu:fj84g10|zgc:91909
 431726|tmem30b|wu:fj32a10|zgc:91908
-431727|mgat4b|wu:fc25g12|zgc:92425
+431727|mgat4b|mgat4bQ9UQ53|wu:fc25g12|zgc:92425
 431729|zgc:91890|RFT2-B|rft2b|slc52a3b
 431730|cdc42ep4a|cdc42ep4|fb55a05|wu:fb55a05|zgc:91889
 431731|litaf|fb12g04|id:ibd5018|wu:fb12g04|zgc:91882
@@ -9677,7 +9677,7 @@
 494073|erg|zgc:103429
 494074|ttc26|im:7142924|zgc:103412
 494075|oclnb|wu:fk83f10|zgc:101820
-494076|dhtkd1|zgc:101818
+494076|dhtkd1|E1a|OADC-E1|OADH-E1|zgc:101818
 494077|gfus.1|gfus|si:dkey-235d18none|tsta3|zgc:101805
 494078|rmc1|wdr98|zgc:101800
 494079|iqcb1|zgc:101792
@@ -10229,7 +10229,7 @@
 504163|im:7156792
 504167|gpr22a|gpr22|si:dkey-217k21.4
 504168|si:ch211-92l17.1
-504174|ba1l|ba2l|hbba1.1|si:bY187G17.4|si:dZ118J2.1
+504174|ba1l|ba2|ba2l|hbba1.1|si:bY187G17.4|si:dZ118J2.1|si:dz118j2.3|zgc:92900
 541314|ghrhra|ghrhr
 541315|adcyap1r1a|adcyap1r1
 541316|lrrc1|zgc:101523
@@ -20540,7 +20540,7 @@
 797865|npm2a|im:7155659
 797867|naxd|carkd|zgc:171429
 797876|si:dkey-19p15.4
-797890|oct2|zgc:175176
+797890|slc22a3|oct2|zgc:175176
 797891|socs4|socs4a
 797905|cabp4|si:ch73-56f16.1
 797906|soga1|c20orf117|si:dkey-14p11.4|si:dkey-14p11.5
@@ -24464,7 +24464,7 @@
 100310778|mir2192|dre-mir-2192|mir-2192
 100310779|mir196d|mir196b-1b|mirn196d
 100310780|mir2197|dre-mir-2197
-100310784|twf2
+100310784|twf2|ptk9l|twf1l|zgc:91817
 100310830|gphb5|gpb5|si:dkeyp-77c8.7
 100310831|galnt18b|galntl4b|si:ch1073-395o3.1
 100310882|gpha2|gpa2
