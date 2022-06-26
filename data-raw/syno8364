@@ -626,7 +626,7 @@
 395063|foxa2|HNF-3B|hnf3-beta|hnf3b|hnf3beta|tcf3b
 395064|tfap2a|AP-2|AP2a|AP2alpha|XAP-2|ap-2alpha|ap2|ap2tf|tfap2|tfap2a-a|tfap2a-b|tfap2alpha|xap2
 395065|snai2|Snail2|XSnail2|slug|slugh1|snai2-a|snai2-b|ws2d|xSlu|xslug
-395066|sox17a|Sox17alpha|Xsox17|Xsox17-alpha|Xsox17alpha|sox17|sox17-alpha|tSox17alpha|xSox17alpha1|xSox17alpha2|xsox17a
+395066|sox17a|Sox17alpha|Xsox17|Xsox17-alpha|Xsox17alpha|sox17|sox17-alpha|sox17b.2|tSox17alpha|xSox17alpha1|xSox17alpha2|xsox17a
 399509|NEWENTRY
 402789|st3gal3|siat6|st3galii|st3galiii|st3n
 402790|st3gal6|3Gal-VI|siat10|st3Gal-VI|st3galvi
@@ -742,7 +742,7 @@
 407949|b3gnt7
 407950|armc3
 407951|tbxt.2|t2|xbra3
-407952|actb|beta-actin|ps1tp5bp1
+407952|actb|beta-actin|g-actin|ps1tp5bp1
 407953|gchfr|p35
 407954|srsf6|b52|sfrs4|sfrs6|srp55
 407955|saxo2|fam154b
@@ -7168,7 +7168,7 @@
 100125197|wnt16
 100125198|wnt3|Xwnt-3|Xwnt3|int4|wnt-3|wnt3l
 100125200|wnt9b|wnt-9b
-100125201|kcnj9|girk3|kcnj5|kir3.3
+100125201|kcnj22 ( provisional)|girk3|kcnj5|kcnj9|kir3.3
 100125202|gfra1|gdnfr|gdnfra|gfr-alpha-1|ret1l|retl1|trnr1
 100125204|ulk3
 100125205|cacng6
@@ -9703,7 +9703,7 @@
 100329162|il28b.1|ifnl1
 100329163|ifnl2
 100329164|LOC100329164|ifnl3
-100329165|ifnl3|ifnl5|il-28b|il28b.2|il28c
+100329165|ifnl3.2|ifnl3|ifnl5|il-28b|il28b.2|il28c
 100329166|ifnlr1|crf2/12|ifnlr|il-28r1|il28ra|licr2
 100329175|smim15|c5orf43
 100329177|triqk|c8orf83
@@ -10349,7 +10349,7 @@
 100485066|c22orf23|evg1
 100485068|rnf14.4
 100485069|LOC100485069
-100485071|aaas
+100485071|aaas|ALADIN
 100485074|LOC100485074
 100485075|gsg1l
 100485077|mmaa
@@ -23253,7 +23253,7 @@
 116406671|LOC116406671
 116406672|LOC116406672
 116406673|muc1|cd227|ema|h23ag|kl-6|mam6|pem|pemt|pum
-116406674|gba
+116406674|gba1|gba
 116406675|trim46
 116406676|LOC116406676
 116406677|LOC116406677
