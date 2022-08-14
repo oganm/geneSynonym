@@ -5107,7 +5107,7 @@
 368433|inppl1b|inppl1|ship-2b|si:bz46j2.7|si:rp71-46j2.7
 368434|si:rp71-46j2.8|si:bz46j2.8|si:zc191n13.1
 368435|p2ry4|pr2y4l|si:bz46j2.9|si:rp71-46j2.9
-368436|celsr1a|CELSR|EGF|LAG|bZ22E02.1|celsr1|fb15b11|fmi1a|si:bz6l08.1|wu:fb15b11|zfmi1a
+368436|celsr1a|CELSR|EGF|LAG|bZ22E02.1|celsr1|fb15b11|fmi1a|frnt|si:bz6l08.1|wu:fb15b11|zfmi1a
 368438|cntfr|cb549|fj33e02|sb:cb549|si:bz76a6.1|si:dz248f2.1|si:rp71-76a6.1|wu:fj33e02
 368439|mycbp2|Myc|PAM|esr|esrom|fa97c06|ns:zft368|si:busm1-12g7.1|si:dz12g7.1|si:dz256p4.1|til|tilsit|wu:fa97c06|xx:zft368|zft368
 368440|tradv29.0|TCR-alpha|si:busm1-1c23.2|si:ch211-106g8.2|si:dz1c23.2
@@ -8098,7 +8098,7 @@
 436650|ccdc62|hip1r|hip1ra|zgc:92067
 436651|fthl27|cb141|fj01a11|fj24b11|fth|fthl|sb:cb141|wu:fj01a11|wu:fj24b11|zgc:92066
 436652|entpd8|si:ch211-10e8.4|zC10E8.4|zgc:92065
-436653|clptm1l|zgc:92063
+436653|clptm1l|CRR9p|zgc:92063
 436654|ric3b|ric3|zgc:92489
 436655|rbm34|zgc:92062
 436656|krt97|cb112|sb:cb112|sb:cb481|wu:fa91g11|zgc:92061
@@ -9613,7 +9613,7 @@
 493608|farsb|cb428|farsl|zgc:92055
 493609|grb2a|zgc:103549
 493610|med28|wu:fc74b11|zgc:103633
-493611|glyr1|fb96g02|wu:fb96g02|zgc:103629
+493611|glyr1|NPAC|fb96g02|wu:fb96g02|zgc:103629
 493612|zgc:101810
 493613|gna11b|wu:fb12d06|zgc:101761
 493614|bcas2|cb302|zgc:101730
@@ -11823,7 +11823,7 @@
 555516|chrm2b|si:dkeyp-8b11.3
 555517|kat2a|gb:dq017634|im:7156024
 555518|si:dkey-68o6.6
-555520|ipo8|si:ch211-116i17.1
+555520|ipo8|Imp8|si:ch211-116i17.1
 555521|prkcq|si:ch211-239o15.1
 555524|drll.2|drl.2|si:dkey-261j4.4
 555525|ubn2a|ubn2|zgc:158248
@@ -15854,7 +15854,7 @@
 566084|si:ch211-91p5.3
 566085|tecra
 566086|kif5aa|kif5a|si:ch211-166e11.4|vertigo|vrt|wu:fj61a10
-566090|zgc:158412|si:dkey-180i4.1
+566090|zgc:158412|pou2af2|si:dkey-180i4.1
 566096|hp|wu:fb64e01
 566099|p2ry6
 566102|epc1b|zgc:158364
@@ -22506,7 +22506,7 @@
 100007494|pimr66|si:dkey-43b14.7
 100007502|kif20bb|cb152|sb:cb152
 100007503|LOC100007503
-100007510|si:dkey-24c2.9
+100007510|vopp1a|si:dkey-24c2.9
 100007514|pimr65|si:dkey-43b14.9
 100007517|LOC100007517
 100007521|socs1b|si:ch73-191k20.2
