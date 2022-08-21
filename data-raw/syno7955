@@ -252,7 +252,7 @@
 30425|pax2a|PAXZF-B|Pax-2|cb378|noi|pax-b|pax2.1|pax2a1|pax[zf-b]|paxb
 30427|nr2f5|COUP|couptf|svp46
 30428|csnk2b|ck2b|wu:fa16g01
-30429|mylpfa|cb46|mlc2f|mylz2|sb:cb46
+30429|mylpfa|cb46|mlc2f|myl11a|mylz2|sb:cb46
 30430|dnmt1|cb1075|cb983|ddn|dmnt1|fb05h01|mta|wu:fb05h01
 30431|srfa|srf|srf1
 30432|smn1|fa12d01|smn|wu:fa12d01
@@ -15918,7 +15918,7 @@
 566287|phldb1a|phldb1|si:dkey-252h13.1
 566292|snapc2
 566298|thsd7ba|si:dkey-118m15.1
-566303|si:dkey-85a20.4|si:dkey-85a20.2|tarbp1
+566303|tarbp1|si:dkey-85a20.2|si:dkey-85a20.4
 566307|nopchap1|gb:bc115184|si:dkey-48p11.3
 566313|ramp2|zgc:174936
 566318|evi5l|si:ch211-239f4.1
@@ -22824,7 +22824,7 @@
 100033682|dre-mir-190a|dre-mir-190|mir-190a|mir190
 100033683|dre-mir-462|mir462
 100033684|mir193a-1|dre-mir-193a-1
-100033685|mir193a-2|dre-mir-193a-2
+100033685|mir193a-2|dre-mir-193a-2|miR-193a-3|mir193a-3
 100033687|mir193b|dre-mir-193b
 100033688|mir194a|dre-mir-194a
 100033691|mir196b|dre-mir-196b
@@ -22845,11 +22845,11 @@
 100033711|mir301b|dre-mir-301b
 100033712|mir301c|dre-mir-301c
 100033713|dre-mir-338-1|mir338-1
-100033714|dre-mir-338-2|miR-338-3|mir338-2|mir338-3
+100033714|dre-mir-338-2|miR-338-3|miR-338-4|mir338-2|mir338-3|mir338-4
 100033717|mir363|dre-mir-363
 100033718|mir365-1|dre-mir-365-1
 100033719|dre-mir-365-2|mir365-2
-100033720|dre-mir-365-3|mir365-3
+100033720|dre-mir-365-3|miR-365-4|mir365-3|mir365-4
 100033721|dre-mir-184-2|mir184-2
 100033722|mir489|dre-mir-489
 100033723|mirlet7j|dre-let-7j|let-7j|miR-let7j
