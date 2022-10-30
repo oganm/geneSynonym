@@ -631,7 +631,7 @@
 58094|dap1b|cb369|hm:zeh0189|zgc:136540
 58096|plrdgb|si:ch1073-443k13.2
 58097|myf5|cb641|myf-5|zgc:110509
-58098|arntl1a|bmal1|wu:fa04g03|zfBMAL1
+58098|bmal1a|arntl1a|bmal1|wu:fa04g03|zfBMAL1
 58099|arntl2|bmal2|wu:fj90c09
 58100|badb|bad|fa01b12|wu:fa01b12|wu:fa96d04
 58101|rplp0|arp|fa56b12|fb04a12|wu:fa56b12|wu:fb15a08|wu:fk48c12
@@ -1715,7 +1715,7 @@
 322379|wu:fb59d01|fb59d01|fb59d01s|wu:fb59d01s
 322380|wu:fb59d02|fb59d02
 322383|wu:fb59e01|fb59e01
-322387|zgc:77849|fb59e09|hapstr1|tapr1|wu:fb59e09|zgc:56060
+322387|hapstr1b|fb59e09|hapstr1|tapr1|wu:fb59e09|zgc:56060|zgc:77849
 322393|si:rp71-15k1.1|fb59f09|wu:fb59f09
 322397|yy1a|fb59g10|wu:fa16g07|wu:fb59g10|yy1
 322399|wu:fb59g12|fb59g12
@@ -3355,7 +3355,7 @@
 327291|cbx2|pc1|wu:fd20e09|zgc:103563
 327292|tpte|tpip|vsp|wu:fd20e11|wu:fi24b06
 327294|castor2|gats|gatsl2|sb:cb509|wu:fc27d10|wu:fd20f09|wu:fe01c02|zgc:55700|zgc:66173
-327299|zgc:66160|fd20g11|wu:fd20g11
+327299|hapstr1a|fd20g11|wu:fd20g11|zgc:66160
 327301|ppp1cab|Ppp1ca|fb18b03|fd20h04|wu:fb18b03|wu:fd20h04|wu:fl22a03|zgc:55744|zgc:76940
 327304|wu:fd20h09|fd20h09
 327309|wu:fd21c10|fd21c10
@@ -7344,7 +7344,7 @@
 406372|wdr5|wu:fk47f04|zgc:56591|zgc:76895
 406374|hapln3|zgc:85609
 406376|rtcb|zgc:76871
-406377|azi2|zgc:76869
+406377|azi2|NAP1|zgc:76869
 406378|pgrmc2|wu:fb25g12|wu:fd12f11|zgc:56692
 406379|tdrd7a|si:ch211-288h2.2|tdrd7|wu:fi12c12|zgc:56669
 406380|slc7a1b|wu:fd18f12|wu:fi40c03|zgc:63694
@@ -18983,7 +18983,7 @@
 767769|cep44|zgc:153894
 767771|commd4|zgc:153556
 767772|samd13|zgc:153376
-767773|cyhr1|fi59b02|wu:fi59b02|zgc:153061
+767773|cyhr1|fi59b02|wu:fi59b02|zftraf1|zgc:153061
 767774|esm1|zgc:153027
 767776|june|zgc:153924
 767777|zgc:152904
@@ -23018,7 +23018,7 @@
 100034513|znf865|si:dkey-109n11.2
 100034516|taar14j|si:dkey-246e3.5
 100034518|kiaa1549lb|si:dkey-177f24.1
-100034519|btbd11b|si:ch211-170d11.3
+100034519|btbd11b|abtb3b|si:ch211-170d11.3
 100034520|shisa7b|shisa7|si:ch211-232m10.7|si:ch211-232m10.8
 100034521|pnrc1|si:dkey-77b17.2
 100034522|mthfd1l|fk48e08|si:dkey-25e12.5|si:dkey-25e12.6|wu:fk48e08
