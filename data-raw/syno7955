@@ -4931,7 +4931,7 @@
 352931|selenop|SePPa|SelPa|cb688|sepp1a|wu:fa55a04|wu:fb38a09|wu:fj79f04
 352933|sephs3|cb701|sephs2|sps2|zgc:92096
 352934|npas2|clock2|zfCLOCK2
-352935|arntl1b|bmal1b|zfBMAL3
+352935|bmal1b|arntl1b|zfBMAL3
 352937|dio2|Deio2|cb684
 352938|chrm2a|chrm2
 352939|pnx
@@ -6862,7 +6862,7 @@
 402921|bcor
 402922|dstyk|ripk5|zgc:136421
 402923|dmrt1|zgc:136676
-402926|fam126a|zgc:77228
+402926|hycc1|fam126a|zgc:77228
 402927|zgc:77375
 402928|sp6|zgc:77358
 402929|evlb|zgc:77220
@@ -11852,7 +11852,7 @@
 555591|drll.3|drl-L3|drl.3|si:dkey-261j4.5
 555592|lrrc28|wu:fk49g08
 555593|si:ch211-80h18.1|si:ct574549.1
-555595|fam214a|si:dkey-266j9.3
+555595|atosa|fam214a|si:dkey-266j9.3
 555597|art4
 555598|aqp8b|zgc:175259
 555599|pde4bb|si:dkey-228i19.35
@@ -12325,7 +12325,7 @@
 556822|prune2|im:7152528|si:dkey-267i17.5|wu:fd19g03
 556823|cylda|cyld
 556826|tap2t|abcb3|si:dkey-57h18.2|tap2-like
-556829|fam214b|si:dkey-69p22.2
+556829|atosb|fam214b|si:dkey-69p22.2
 556835|sp2
 556837|ankrd13a|ankrd13|wu:fb82c11
 556841|kcnq5a|si:dkey-29l6.1
@@ -19220,7 +19220,7 @@
 790924|usp39|wu:fb54d10|wu:fb79f05|zgc:158428
 790927|triobpb|fi20a11|si:ch73-211l13.4|triobp|wu:fi20a11|zgc:158267
 790928|rnf115a|rnf115|zgc:158455
-790929|fam126b|zgc:158316
+790929|hycc2|fam126b|zgc:158316
 790930|nell2a|nell2|wu:fj43h11|zgc:158375
 790931|csf1b|csf1-2|zgc:158436
 790932|zgc:158427
@@ -20876,7 +20876,7 @@
 799449|nt5c1ab|si:dkey-84k15.5
 799453|si:ch211-119o8.4
 799461|dnah12|si:ch73-289a15.4
-799466|lrrc29|fk91e06|si:ch73-336h18.1|wu:fk91e06
+799466|fbxl9|fk91e06|lrrc29|si:ch73-336h18.1|wu:fk91e06
 799470|zgc:171727
 799473|rereb
 799475|il13ra1|il-13ra1|si:ch211-150g2.2
@@ -25617,7 +25617,7 @@
 100333772|si:zfos-1505d6.3
 100333777|hsd11b1lb
 100333796|si:ch211-256e16.4
-100333797|ddx58|RIG-I|RIG-Ia|RIG-Ib|RIG-Ic|RIG-Id
+100333797|rigi|RIG-I|RIG-Ia|RIG-Ib|RIG-Ic|RIG-Id|ddx58
 100333801|LOC100333801
 100333807|LOC100333807
 100333818|ccdc15
