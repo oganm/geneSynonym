@@ -6,6 +6,7 @@ library(ogbox)
 library(glue)
 library(R.utils)
 library(readr)
+options(timeout=60*5)
 
 autogit = TRUE
 repo = repository('.')
@@ -118,10 +119,12 @@ if(autogit){
     
     tryCatch({
         git2r::commit(repo,message = paste('Weekly auto update'))
-        token = readLines('data-raw/auth')
-        Sys.setenv(GITHUB_PAT = token)
-        cred = git2r::cred_token()
-        git2r::push(repo,credentials = cred)
+        # server's git2r doesn't seem to like ssh git remotes
+        system('git push')
+        # token = readLines('data-raw/auth')
+        # Sys.setenv(GITHUB_PAT = token)
+        # cred = git2r::cred_token()
+        # git2r::push(repo,credentials = cred)
     },
     error = function(e){
         print('nothing to update')
