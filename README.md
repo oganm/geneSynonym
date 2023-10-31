@@ -1,10 +1,13 @@
 
-[![Build Status](https://travis-ci.org/oganm/geneSynonym.svg?branch=master)](https://travis-ci.org/oganm/geneSynonym) [![codecov](https://codecov.io/gh/oganm/geneSynonym/branch/master/graph/badge.svg)](https://codecov.io/gh/oganm/geneSynonym)
+[![Build
+Status](https://travis-ci.org/oganm/geneSynonym.svg?branch=master)](https://travis-ci.org/oganm/geneSynonym)
+[![codecov](https://codecov.io/gh/oganm/geneSynonym/branch/master/graph/badge.svg)](https://codecov.io/gh/oganm/geneSynonym)
 
-Gene Synonym
-============
+# Gene Synonym
 
-An r package that works as a wrapper to synonym information in <ftp://ftp.ncbi.nlm.nih.gov/gene/DATA/gene_info.gz>. Updates weekly since 8th of Match 2017
+An r package that works as a wrapper to synonym information in
+<ftp://ftp.ncbi.nlm.nih.gov/gene/DATA/gene_info.gz>. Updates
+semi-regularly since 8th of Match 2017
 
 Available species are
 
@@ -38,18 +41,17 @@ geneSynonym::taxData
 
 More species can be added on request
 
-Installation
-============
+# Installation
 
 ``` r
 library(devtools)
 install_github('oganm/geneSynonym')
 ```
 
-Usage
-=====
+# Usage
 
-The output is a nested list since gene synonyms are not nececarilly unique. For instance
+The output is a nested list since gene synonyms are not nececarilly
+unique. For instance
 
 ``` r
 mouseSyno('Tex40')
@@ -65,7 +67,8 @@ mouseSyno('Tex40')
 
 Names of vectors within the list are NCBI ids.
 
-Input is a vector of gene names/NCBI ids and a tax identifier. Alternatively shorthand functions exist for human and mouse.
+Input is a vector of gene names/NCBI ids and a tax identifier.
+Alternatively shorthand functions exist for human and mouse.
 
 ``` r
 geneSynonym(c('Eno2','Mog'), tax = 10090)
@@ -73,7 +76,7 @@ geneSynonym(c('Eno2','Mog'), tax = 10090)
 
     ## $Eno2
     ## $Eno2$`13807`
-    ## [1] "Eno2"       "AI837106"   "D6Ertd375e" "Eno-2"      "NSE"       
+    ## [1] "Eno2"       "D6Ertd375e" "Eno-2"      "NSE"       
     ## 
     ## 
     ## $Mog
@@ -86,7 +89,7 @@ geneSynonym(c('Eno2','Mog'), tax = 10090)
 
     ## $Eno2
     ## $Eno2$`13807`
-    ## [1] "Eno2"       "AI837106"   "D6Ertd375e" "Eno-2"      "NSE"       
+    ## [1] "Eno2"       "D6Ertd375e" "Eno-2"      "NSE"       
     ## 
     ## 
     ## $Mog
@@ -99,7 +102,7 @@ mouseSyno(c('Eno2',17441))
 
     ## $Eno2
     ## $Eno2$`13807`
-    ## [1] "Eno2"       "AI837106"   "D6Ertd375e" "Eno-2"      "NSE"       
+    ## [1] "Eno2"       "D6Ertd375e" "Eno-2"      "NSE"       
     ## 
     ## 
     ## $`17441`
