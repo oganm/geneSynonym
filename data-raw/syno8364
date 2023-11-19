@@ -556,7 +556,7 @@
 394992|atp6v0d2
 394993|ndufs2
 394994|sgta|sgt
-394995|anxa1.1|anx1|anxa1|lpc1
+394995|anxa1|anx1|anxa1.1|lpc1
 394996|porcn|Xporc|mg61|por|porc|ppn
 394997|ppih|cyp-20|cyph|snucyp-20|usa-cyp
 394998|nmd3|nmd3l
@@ -6417,7 +6417,7 @@
 100038202|pdgfa|pdgf|pdgf-a|pdgf1
 100038203|ptges|mgst-iv|mgst1-l1|mgst1l1|pges|pig12|pp102|pp1294|tp53i12
 100038204|diras2|di-ras2
-100038205|lhb|cgb4|hlhb|lhb-A|lsh-b|xlhb
+100038205|lhb.2|cgb4|hlhb|lhb|lhb-A|lsh-b|xlhb
 100038206|eya3|Xeya3
 100038207|skic2|170a|ddx13|hlp|ski2|ski2w|skiv2|skiv2l
 100038208|irx1|Xiro|Xiro1|iro|iro1|irx-5|irx1-a|irx1-b
@@ -9403,7 +9403,7 @@
 100216106|dtd2|c14orf126
 100216107|clcn3|clc-3|clc3
 100216108|LOC100216108
-100216109|ssbp2|soss-b2
+100216109|ssbp2|soss-b2|xlssbp2
 100216110|mecp2|autsx3|mrx16|mrx79|ppmx|rts|rtt
 100216111|myh7|cmd1s|cmh1|mpd1|myh6.2|myhcb|spmd|spmm
 100216112|atp5if1|IF(1)|IF1|atpi|atpif1|atpip
