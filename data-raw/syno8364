@@ -6561,7 +6561,7 @@
 100101702|six1|XSix1|bos3|dfna23|tip39
 100101703|shox2|og12|og12x|ogi2x|shot
 100101704|hand2|dhand|dhand2|hand2-a|hand2-b|hed|thing2|xhand2
-100101705|six6|Six6.1|Six6.2|XOptx2|XSix3|XSix6.1|hpe2|mcopct2|optx2|six9|xSix6|xsix6.2
+100101705|six6|Six6.1|Six6.2|XOptx2|XSix3|XSix6.1|hpe2|mcopct2|optx2|six3.2|six9|xSix6|xsix6.2
 100101707|baiap2l1|irtks
 100101708|lhx1|Xlim-1|Xlim1|lim-1|lim1
 100101709|prl.1|prl|prl1a|xPRL-I|xPRL-II|xprl
@@ -11054,7 +11054,7 @@
 100486308|ubap2l
 100486316|lmf1|xlmf1
 100486323|LOC100486323
-100486324|c8h14orf39|c14orf39|six6os1
+100486324|six6os1|c14orf39|c8h14orf39
 100486325|asic4
 100486326|bmp2k|bike
 100486328|zdhhc17|hip14|hip3|hspc294|hyph
@@ -15339,7 +15339,7 @@
 100494394|LOC100494394
 100494395|arap2
 100494397|slc2a9|glut9|glutx|slc2a15a|uaqtl2
-100494398|gabra3
+100494398|gabra3|epilx2
 100494399|nxph4|nph4
 100494400|gphb5
 100494403|LOC100494403
@@ -15524,7 +15524,7 @@
 100494727|LOC100494727
 100494735|tap1|abc17|abcb2|apt1|psf1|ring4|tap|tap1n
 100494736|mchr1.1|MCHR1b
-100494738|mmp9.2|mmp9
+100494738|mmp9.2|mmp9|mmp9th
 100494740|abcb1 (provisional)|XB950724|abcb1
 100494741|LOC100494741
 100494742|LOC100494742
