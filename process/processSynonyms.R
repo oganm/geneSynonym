@@ -20,7 +20,7 @@ taxData = read.table('ftp://ftp.ncbi.nih.gov/pub/HomoloGene/build68/build_inputs
 colnames(taxData) = c('tax_id','name_txt')
 
 
-download.file(url = "ftp://ftp.ncbi.nih.gov/pub/HomoloGene/current/homologene.data", destfile = 'data-raw/homologene.data')
+download.file(url = "ftp://ftp.ncbi.nih.gov/pub/HomoloGene/last-archive/homologene.data", destfile = 'data-raw/homologene.data')
 homologene = fread('data-raw/homologene.data',sep ='\t',quote='',stringsAsFactors = FALSE,data.table = FALSE)
 names(homologene) = c('HID','Taxonomy','Gene.ID','Gene.Symbol','Protein.GI','Protein.Accession')
 
@@ -120,7 +120,7 @@ if(autogit){
     tryCatch({
         git2r::commit(repo,message = paste('Weekly auto update'))
         # server's git2r doesn't seem to like ssh git remotes
-        system('git push')
+        system('git push -f')
         # token = readLines('data-raw/auth')
         # Sys.setenv(GITHUB_PAT = token)
         # cred = git2r::cred_token()
