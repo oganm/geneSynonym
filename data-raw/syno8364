@@ -6417,7 +6417,7 @@
 100038202|pdgfa|pdgf|pdgf-a|pdgf1
 100038203|ptges|mgst-iv|mgst1-l1|mgst1l1|pges|pig12|pp102|pp1294|tp53i12
 100038204|diras2|di-ras2
-100038205|lhb.2|cgb4|hlhb|lhb|lhb-A|lsh-b|xlhb
+100038205|lhb|cgb4|hlhb|lhb-A|lhb.2|lsh-b|xlhb
 100038206|eya3|Xeya3
 100038207|skic2|170a|ddx13|hlp|ski2|ski2w|skiv2|skiv2l
 100038208|irx1|Xiro|Xiro1|iro|iro1|irx-5|irx1-a|irx1-b
@@ -15075,7 +15075,7 @@
 100493924|e2f1|xE2F
 100493925|LOC100493925
 100493927|il6|il-6
-100493928|LOC100493928
+100493928|cyp2k6.3
 100493929|pcdhgb6
 100493930|znf408
 100493931|rd3
