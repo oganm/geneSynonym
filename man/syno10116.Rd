@@ -5,7 +5,7 @@
 \alias{syno10116}
 \title{Synonym information for Rattus norvegicus}
 \format{
-An object of class \code{character} of length 47786.
+An object of class \code{character} of length 47798.
 }
 \usage{
 syno10116
