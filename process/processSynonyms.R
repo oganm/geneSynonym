@@ -6,7 +6,7 @@ library(ogbox)
 library(glue)
 library(R.utils)
 library(readr)
-options(timeout=60*5)
+options(timeout=60*10)
 
 autogit = TRUE
 repo = repository('.')
