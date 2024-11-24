@@ -405,7 +405,7 @@
 30597|hbae1.1|HBA2r|HBAA1|SI:dZ118J2.10|SI:dZ118J2.8|dZ118J2.6|hba2|hbae1|si:by119c3.1|si:by119c3.3|si:xx-119c3.3|wu:fa12a11|wu:fb74f06|zgc:86936
 30598|vsx1
 30600|mid1ip1a|g12|wu:fj32f05
-30601|hbae3|fb57a06|globin|si:by119c3.4|wu:fb57a06|zgc:86867
+30601|hbae3|fb57a06|globin|si:by119c3.4|si:ch211-5k11.15|wu:fb57a06|zgc:86867
 30602|sox11a|cb237|id:ibd2104|wu:fb16g02|zgc:136533
 30603|sox11b|fc90d10|wu:fb53e02|wu:fc90d10
 30604|cfb|Bf-1|Brre-Bf|bf|zgc:114032
@@ -20331,7 +20331,7 @@
 793454|amn|im:7155895
 793455|si:dkey-175g6.2|fj49c03|wu:fj49c03
 793458|pyyb|si:ch211-250b22.5
-793465|ece2b|ECE2|si:dkey-83h2.6
+793465|ece2b|ECE2|si:ch211-117a13.2|si:dkey-83h2.6
 793471|mocs1
 793473|si:ch73-160i9.3
 793476|znf1003|zgc:174712
