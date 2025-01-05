@@ -5367,7 +5367,7 @@
 352919|selenot1a|cb700|selt1a|sept1a|wu:fb63h09|wu:fc79a12
 352920|oxt|IT-NP|fj33a01|ist|itnp|oxtl|wu:fj33a01|wu:fq40d10
 352921|selenot1b|cb698|selt1b|sept1b|wu:fb51a03|wu:fb51b01
-352922|avp|VT-NP|avpl|vsnp
+352922|avp|AVT|VT-NP|avpl|vsnp
 352923|selenof|cb29|sep15|si:dkey-43b14.10|zgc:86882
 352924|txnrd3|TrxR1|TrxR2|cb682|cb683|fb83a08|txnrd1|wu:fb83a08
 352926|gpx1a|cb690|gpx1|zgc:103683|zgc:92737
@@ -29974,7 +29974,7 @@
 101887161|tet2|im:7136741|si:ch211-216c6.1|tet2l
 101887165|necab3|si:dkey-221l21.1
 101887173|slc29a3|si:dkey-37h18.2
-101887175|tmem88bl|tmem88b
+101887175|tmem88bl
 101887188|LOC101887188
 101887189|LOC101887189
 101887190|qdprb.2|qdprb2|zgc:171799
