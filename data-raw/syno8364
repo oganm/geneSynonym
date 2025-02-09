@@ -1333,7 +1333,7 @@
 448510|slc22a15|flipt1|slc22a15.1
 448511|pdk4|PDKe|PDKk|xPDKe|xPDKk
 448512|apex2|ape2|apexl2|xth2
-448513|tmem198
+448513|tmem198l
 448514|myh2|myh13|myh2a|myhas8|myhc-2a|myhc-iia|myhe19|myhsa2
 448515|tmem97
 448516|ufd1|ufd1l
@@ -1668,7 +1668,7 @@
 493258|dhrs3
 493259|cbr4
 493260|cct8
-493261|gpat3|agpat8|agpat9|chchd2|lpaat-theta|mag1
+493261|chchd2
 493262|vmp1|epg3|tmem49
 493263|pnrc2|pnrc2-a|pnrc2-b
 493264|sytl2|exo4|slp2|slp2a
@@ -4580,7 +4580,7 @@
 733529|stk26|mask|mst-4|mst4
 733530|cyp2f1
 733531|foxr1|dlnb13|foxn5
-733532|birc5|BIR1|Su2|Survivin|Survivin1|XBIR1|api4|birc5.1|birc5.1-a|birc5.1-b|epr-1|svv1|xSurvivin1|xsurv
+733532|birc5l|Su2|birc5.2|birc5.2-a|birc5.2-b|birc5.2a|svv2|xSurvivin2
 733533|c4bpa|arc1|c4bp|prp
 733534|cmpk1|CK|UMP/CMPK
 733535|nop56|XNop56|nol5a
@@ -4618,7 +4618,7 @@
 733572|yae1|c7orf36|gk003|yae1d1
 733573|pof1b|pof
 733574|racgap1.2
-733575|birc5l|SIX|Su1|api4|birc5|birc5.2|birc5.2-a|birc5.2-b|birc5.2a|epr-1|survivin|svv2|xSurvivin|xSurvivin2
+733575|birc5|BIR1|SIX|Su1|Survivin1|XBIR1|api4|birc5.1|birc5.1-a|birc5.1-b|epr-1|survivin|svv1|xSurvivin|xSurvivin1|xsurv
 733707|zc3h3|smic1|smicl|zc3hdc3
 733708|zdhhc5
 733709|hes5.9|hes5_x1
@@ -10729,7 +10729,7 @@
 100485781|pank1
 100485784|plppr2|lppr2
 100485786|ado|c10orf22|xado
-100485787|LOC100485787
+100485787|gpat3|agpat8|agpat9|lpaat-theta|mag1
 100485788|lrp1|a2mr|apoer|apr|cd91|igfbp3r|lrp|tgfbr5
 100485790|atp6v1c2
 100485791|apov1.2
@@ -24384,7 +24384,7 @@
 116407831|LOC116407831
 116407832|LOC116407832
 116407833|LOC116407833
-116407834|LOC116407834
+116407834|tmem198
 116407835|LOC116407835
 116407836|LOC116407836
 116407837|LOC116407837
