@@ -559,7 +559,7 @@
 57924|smx5|lsm2|wu:fe48h10|zgc:101795
 57925|cdc25b|cdc25|cdc25A|sb:cb317
 57926|gpr173|sreb3|zgc:194661|zgc:194688
-57929|stk19
+57929|whr1|stk19
 57930|foxh1|SUR|fast|fast1|fe26b06|schmalspur|wu:fe26b06|wu:fi30c08|wu:fi32b01
 57931|axin1|wu:fi22e03|wu:fj14c08|wu:fk11b03|zgc:109872
 57933|caspa|casp1|caspy|fa93b02|wu:fa93b02|zgc:109869
@@ -8377,7 +8377,7 @@
 415104|ctcf|im:7152666
 415105|adgrv1|gpr98|mass1|vlgr1
 415106|puraa|pura|zgc:103411
-415107|popdc1|bves|pop1|zgc:86887
+415107|popdc1|bves|hBVES|pop1|zgc:86887
 415108|popdc3|pop3
 415131|isl1b|isl1l
 415133|mafk
@@ -15477,7 +15477,7 @@
 563343|prune
 563345|cntnap2b|Caspr2b|cntnap2|si:ch211-120f16.4
 563346|capn5a|zgc:153446
-563347|si:ch211-264e16.2
+563347|chs2
 563348|gpnmb|si:ch211-155k24.6
 563352|kcnn1a|si:rp71-39b20.3
 563353|si:ch211-106n13.3|fa99a09|wu:fa99a09
@@ -22366,7 +22366,7 @@
 100003441|taar19m|si:ch211-139n6.8
 100003444|rsph1|im:6909388
 100003446|septin4b|sept4b
-100003450|si:dkey-246i14.3|efna4
+100003450|efna4|si:dkey-246i14.3
 100003458|aknad1|si:dkeyp-51f11.3
 100003472|si:ch73-174h16.5|wdr97
 100003476|fam117bb|si:dkey-56k23.2

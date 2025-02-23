@@ -1802,7 +1802,7 @@
 493393|prr5|pp610|protor-1|protor1
 493394|ppif|cypf
 493395|sdf2l1
-493396|kras|k-ras|kras-a|kras-b|kras2|rask2
+493396|krasl|k-ras|kras|kras-a|kras-b|kras2|rask2
 493397|utp25|c1orf107|def|diexf
 493398|extl3|botv|extr1|reg|regr|rpr
 493399|spred1|Xspred1|Xtspred1
@@ -8369,7 +8369,7 @@
 100145274|gtsf2|XB5780435|d7
 100145275|exosc9
 100145276|lyar|zlyar
-100145277|LOC100145277
+100145277|as3mt.1|as3mt|cyt19
 100145278|notum
 100145279|cuedc2|cuedc2-a|cuedc2-b
 100145280|cln6
@@ -9560,7 +9560,6 @@
 100216288|epgn|epg|epigen
 100216289|nploc4
 100216290|lamp1|cd107a|lamp-1|lampa|lgp120
-100216291|as3mt.1|as3mt|cyt19
 100216292|xpot|exportin-3|exportin-t|xpo-t|xpo3
 100216293|mia
 100216294|mdm4|mdmx|mrp1
@@ -10828,7 +10827,7 @@
 100485952|LOC100485952
 100485955|LOC100485955
 100485956|slc2a6|glut6|glut9
-100485959|krasl
+100485959|kras
 100485962|h4c3|hist1h4c
 100485964|rbm44
 100485966|rtn4r
@@ -17366,7 +17365,7 @@
 100498108|LOC100498108
 100498116|csf3r|cd114|gcsfr
 100498117|LOC100498117
-100498118|purg
+100498118|purg.2
 100498119|LOC100498119
 100498121|ncmap
 100498122|npffr2|gpr74|hlwar77|npff2|npgpr
