@@ -125,7 +125,7 @@
 30219|efnb2a|efnb2|id:ibd5072
 30221|psen1|pre1|psen|zf-PS1|zfPS1
 30222|ccnd1|cb161|cycd1|etID37810.7|fb52e01|fc45c08|fc83a12|id:ibd1198|wu:fb52e01|wu:fc45c08|wu:fc83a12
-30223|efna5b|EPLG7|L4|ZfEphL4|al1|efna5|id:ibd5069|lerk7|tkral1
+30223|efna5b|AL-1|EPLG7|L4|LERK-7|ZfEphL4|al1|efna5|lerk7|tkral1
 30225|smo|CHUNP6862|smoh|smu|wu:fb70b01|wu:fc39h03
 30227|ntn1a|net2|ntn2|zgc:136732
 30228|pes
@@ -578,7 +578,6 @@
 57955|id:ibd5117
 57957|slc7a6|id:ibd2834
 57958|id:ibda2g8
-57959|id:ibd5069
 57960|id:ibd5025
 57961|id:ibd2999
 57962|id:ibd5011
@@ -6827,7 +6826,7 @@
 393729|rwdd3|zgc:73229
 393730|scg3|SgIII|zgc:73236
 393731|uqcc2|mnf1|zgc:73238
-393732|eif4e2rs1|eIF4E2B|zgc:73242
+393732|eif4e2rs1|eIF4E2B|eif4E-2B|zgc:73242
 393733|fgf1a|HBGF-1|aFGF|fgf1|zgc:73249
 393734|dnajc19|zgc:73251
 393735|gchfr|zgc:73253
@@ -18276,7 +18275,7 @@
 570879|golga3|si:dkey-215k6.6
 570890|si:dkey-11f4.16
 570900|nipbla|si:ch211-234b6.2|si:ch73-311f13.1
-570901|smug1|fj81c12|wu:fj81c12
+570901|LOC570901
 570903|frmd5a|si:ch211-69m14.1
 570905|cfhl1|si:ch211-207o17.7|zgc:123186
 570907|rab27a|zgc:114135
@@ -36622,7 +36621,7 @@
 110351181|lrp4|eni|nui
 110366352|LOC110366352|slincR
 110437702|LOC110437702
-110437703|cuzd1.1
+110437703|cuzd1.1|fb66a12|si:ch211-208g24.5|wu:fb66a12
 110437704|ftr24|zgc:114036
 110437706|LOC110437706
 110437707|LOC110437707
