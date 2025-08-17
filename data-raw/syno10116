@@ -4740,7 +4740,7 @@
 252919|Slc38a3|Nat1|Sn1|Snat3
 252920|Olfm3
 252921|Tubg1
-252922|Pzp|A1m
+252922|Pzp2|A1m|Pzp
 252923|Tsga10
 252924|Nr2c1|Psg4|TR2-11|Tr2
 252928|Timm13
@@ -20753,7 +20753,7 @@
 683722|Cep43|Fgfr1op
 683743|Add1-ps1
 683753|Prr32
-683758|Klrb1c|Klrb1f|NKR-P1F
+683758|Klrb1f|Klrb1c|NKR-P1F
 683788|Fscn1|Fascin
 683819|Pym1-ps2
 683825|Vmn2r116l-ps35
@@ -23202,7 +23202,7 @@
 100314181|Mir324|rno-mir-324
 100314182|Mir335|rno-mir-335
 100314183|Mir343|rno-mir-343
-100314184|Mirlet7c1|Mirlet7c-1|rno-let-7c-1
+100314184|Mirlet7c-1|Mirlet7c1|rno-let-7c-1
 100314185|Mir7b|Mir9|rno-mir-7b
 100314186|Mir19b1|Mir19b-1|rno-mir-19b-1
 100314187|Mir29c|rno-mir-29c
@@ -23242,7 +23242,7 @@
 100314221|Mir346|rno-mir-346
 100314222|Mir20a|rno-mir-20a
 100314223|Mir151|rno-mir-151
-100314224|Mirlet7c2|Mirlet7c-2|rno-let-7c-2
+100314224|Mirlet7c-2|Mirlet7c2|rno-let-7c-2
 100314225|Mir7-2|Mir7a-2|Mir7a2|Mir8|rno-mir-7a-2
 100314226|Mir10b|rno-mir-10b
 100314227|Mir18a|rno-mir-18a
