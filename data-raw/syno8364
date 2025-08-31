@@ -5435,7 +5435,7 @@
 779846|mrrf
 779847|cdca9|Borealin-2|Dasra-A|DasraA|cdca8.2
 779848|alkbh1|abh|abh1|alkB|alkbh
-779849|tdgf1.3|Cripto-1|FRL-1|cfc1|cr1|cripto|cripto.3|cripto1|cripto1.3|frl1|tdgf1|xcr1
+779849|tdgf1.3|Cripto-1|FRL-1|Tdgf1C|cfc1|cr1|cripto|cripto.3|cripto1|cripto1.3|frl1|tdgf1|xcr1
 779850|ndufs7
 779851|polr3h
 779852|gdpgp1|c15orf58
@@ -6349,7 +6349,7 @@
 100038136|dbnl|abp1|hip-55|sh3p7
 100038137|sesn3|sest3
 100038138|sdc1|Syn1|Syndecan-1|XSyndecan-1|cd138|sdc|synd1|syndecan1|xSyn1
-100038139|cripto|XCR3|cr3|cripto-3|cripto.1|tdgf1|tdgf1.1|tdgf1p3|tdgf3
+100038139|cripto|Tdgf1A|XCR3|cr3|cripto-3|cripto.1|tdgf1|tdgf1.1|tdgf1p3|tdgf3
 100038141|kmt5b|cgi-85|cgi85|suv420h1
 100038142|chn1|arhgap2|chn|rhogap2
 100038143|upk3b|p35|upiiib
@@ -10886,7 +10886,7 @@
 100486050|duox2
 100486051|or5m8
 100486053|prokr1l|gpr73|gpr73a|pkr1|prokr1|zaq
-100486054|cripto.2|Cripto-2|XCR2|cr2|tdgf1.2|tdgf1p2|tdgf2
+100486054|cripto.2|Cripto-2|Tdgf1A|Tdgf1B|XCR2|cr2|tdgf1.2|tdgf1p2|tdgf2
 100486055|or30g1
 100486056|XB5896327
 100486057|ildr1
