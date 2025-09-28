@@ -5,7 +5,7 @@
 \alias{syno7955}
 \title{Synonym information for Danio rerio}
 \format{
-An object of class \code{character} of length 54676.
+An object of class \code{character} of length 54672.
 }
 \usage{
 syno7955
