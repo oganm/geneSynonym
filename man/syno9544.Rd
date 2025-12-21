@@ -5,7 +5,7 @@
 \alias{syno9544}
 \title{Synonym information for Macaca mulatta}
 \format{
-An object of class \code{character} of length 40411.
+An object of class \code{character} of length 44892.
 }
 \usage{
 syno9544
