@@ -771,9 +771,9 @@
 431680|pygm|pygb
 431681|arf3|arf1
 444885|cdca8|Dasra-B|bor|borealin|dasrab
-444886|fut10
+444886|fut10|pofut3
 444887|st8sia1|Xlgd3|siat8|siat8a|st8siaI|st8sial
-444888|fut11
+444888|fut11|pofut4
 445258|psmb8|d6s216|d6s216e|lmp7|ring10
 445260|rhcg|C15ORF6|pdrc2|rhgk|slc42a3
 446220|tacc3|eric1|maskin|xmaskin
@@ -1042,7 +1042,7 @@
 448217|stxbp2|stxbp1
 448218|ech1
 448219|polk
-448220|armt1|c6orf211
+448220|armt1|c6orf211|dcph1
 448221|ethe1
 448222|cox6a2
 448223|tango2|c22orf25
@@ -2846,7 +2846,7 @@
 548690|enpp2|autotaxin|enpp2a|enpp2b
 548691|rxrb|RXRbeta|daudi6|h-2riibp|nr2b2|rcor-1|rxrb-a|rxrb-b
 548692|slc18b1|c6orf192
-548693|mfsd5
+548693|mfsd5|slc61a1
 548694|fbxo4
 548695|rspry1
 548696|pycr1|arcl2b|p5c|p5cr|pig45|pp222|pro3|pycr|pycr2
@@ -3226,7 +3226,7 @@
 549097|polr2l|hrpb7.6|hsrpb10b|polr2l.1|rbp10|rpabc5|rpb10|rpb10beta|rpb7.6
 549098|fez2|hum3cl
 549099|ddx25|deadsouth|grth|xcat3|zd10a
-549100|c2h11orf54|c11orf54
+549100|c2h11orf54|BKGD|c11orf54
 549101|mrps16
 549102|tmem167b
 549103|rnft1
@@ -3527,7 +3527,7 @@
 549411|ptrh2
 549413|krt12.3
 549414|eef1akmt3|fam119b|mettl21b
-549415|tll2l|Xld|tll2|xolloid
+549415|tll2l|Xld|xolloid
 549416|a4gnt
 549417|cldn4|cpe-r|cper|cpetr|cpetr1|hcpe-r|wbscr8
 549418|b4galt1.2|b4gal-t1|b4galt2|beta4gal-t1|cdg2d|ggtb2|gt1|gtb
@@ -4346,7 +4346,7 @@
 595038|nup58|nupl1|pro2463
 595039|gmfg|gmf-gamma
 595040|gabarapl1|apg8l|atg8|atg8l|gec1
-595041|mfsd4a|mfsd4|unq3064
+595041|mfsd4a|mfsd4|slc60a1|unq3064
 595042|znf143|phz-1|sbf|staf|zfp143
 595047|hsp90ab1|d6s182|hsp90-beta|hsp90b|hsp90beta|hspc2|hspcb
 595048|mccc2
@@ -5282,7 +5282,7 @@
 779692|mchr1.2|gpr24|mch1r|mchr1|mchr1a|slc1
 779693|npy5r
 779694|ptgds|XlCpl1|cerebrin-28|cpl-1|cpl1|l-pgds|lipocalin|lpgds|pds|pgd2|pgds|pgds2|ptgds-a|ptgds-b
-779695|dhrs7b
+779695|dhrs7b|PexRAP
 779696|pgap3|perld1
 779697|MGC146893
 779698|bloc1s1|blos1|gcn5l1
@@ -17645,6 +17645,7 @@
 100498637|crhr1.2|CRF1|crf-r1|crfr1|crhr1
 100498640|dock11
 100498642|soho1
+100498643|znf488
 100498644|LOC100498644
 100498645|LOC100498645
 100498647|LOC100498647
