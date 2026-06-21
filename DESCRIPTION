@@ -1,14 +1,14 @@
 Package: geneSynonym
 Type: Package
 Title: Quick Access to Gene Synonym Information
-Version: 1.7.26.6.14
+Version: 1.7.26.6.21
 Depends: 
     R (>= 3.5)
 Imports: 
     utils (>= 3.4.0),
     magrittr (>= 1.5)
 Suggests: testthat
-Date: 2026-06-14
+Date: 2026-06-21
 Authors@R: person("Ogan", "Mancarci", email = "ogan.mancarci@gmail.com", role = c("aut", "cre"))
 BugReports: https://github.com/oganm/geneSynonym/issues
 URL: https://github.com/oganm/geneSynonym
